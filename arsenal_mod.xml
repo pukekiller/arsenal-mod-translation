@@ -340,7 +340,7 @@
 		<text>An AKS-74 with both a EKP-8-02 Kobra collimator sight installed and a custom-made camoflauge pattern applied.</text>
 	</string>
 	<string id="enc_arsenal_ak74m">
-		<text>Более поздний вариант автомата Калашникова АК-74, принятый на вооружение Российской Армии в начале 1990х. От более ранней версии отличается складным в бок пластиковым прикладом и планкой для крепления прицельных приспособлений на левой стороне ствольной коробки. Хороший автомат для ночных вылазок в Зоне т.к. выполнен в черном цвете.</text>
+		<text>A modernized version of the AK-74 assault rifle, officially adopted by the Russian Army in the early 1990s. It differs from older versions of the AK-74 by implementing all of the improvements made for other AK-74 into one unified design, having both a mounting bracket for optical sights and a folding stock. This rifle is also good for night outings in the Zone since it's completely black and non-reflective.</text>
 	</string>
 	<string id="enc_arsenal_ak101">
 		<text>Данный автомат, как и вся "сотая" серия автоматов Калашникова, предназначен в первую очередь для экспорта. Является модификацией АК-74М под НАТОвский патрон 5.56x45.</text>
