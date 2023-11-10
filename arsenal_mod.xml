@@ -343,7 +343,7 @@
 		<text>A modernized version of the AK-74 assault rifle, officially adopted by the Russian Army in the early 1990s. It differs from older versions of the AK-74 by implementing all of the improvements made for the other AK-74 variants into one unified design, having both a mounting bracket for optical sights and a folding stock. This rifle is also good for night outings in the Zone since it's completely black and non-reflective.</text>
 	</string>
 	<string id="enc_arsenal_ak101">
-		<text>Данный автомат, как и вся "сотая" серия автоматов Калашникова, предназначен в первую очередь для экспорта. Является модификацией АК-74М под НАТОвский патрон 5.56x45.</text>
+		<text>This assault rifle, as well as the entire 100x series of Kalashnikov assault rifles, is specifically meant for the export market. The AK-101 is a variant of the AK-74M that's been modified to use the 5.56x45 NATO cartridge.</text>
 	</string>
 	<string id="enc_arsenal_ak102">
 		<text>"Укороченный" АК-101. Лёгок, удобен, надёжен - очень хороший выбор.</text>
