@@ -358,10 +358,10 @@
 		<text>The AK-105 is a shortened carbine variant of the AK-74M. Compared to the AK-74M, the AK-105 is considerably lighter and more comfortable to use - it's also unfailingly reliable, making it an excellent carbine assault rifle.</text>
 	</string>
 	<string id="enc_arsenal_ak107">
-		<text>The AK-107 is a further development of the AK-74M, chambered for the same 5.45x39mm cartridge. It's equipped with a new gas system that has considerably better performance, making its recoil easier to manage - thus improving its accuracy. (start here for your second session on 11/12/23 and don't forget to remove this reminder when you start)</text>
+		<text>The AK-107 is a further development of the AK-74M, chambered for the same 5.45x39mm cartridge. It's equipped with a new gas system that has considerably better performance, making its recoil easier to manage - thus improving its accuracy.</text>
 	</string>
 	<string id="enc_arsenal_ak108">
-		<text>Автомат, выполненный по схеме, балансирующей импульс отдачи. Высокая скорострельность, точность и кучность автоматической стрельбы. Рассчитан под НАТОвский патрон 5.56x45.</text>
+		<text>The AK-108 is a carbine variant of the AK-107 that's meant for the export market, featuring the same improvements in the gas system the AK-107 has. It's also chambered for 5.56x45mm NATO, and like the AK-104 and AK-105, it's very light and reliable - making it an excellent choice for a carbine assault rifle. (start here for your first session on 11/12/23 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_arsenal_akm">
 		<text>Автомат Калашникова модернизированный, под патрон 7.62x39 мм. Ценится в Зоне за надежность даже в самых неблагоприятных условиях и одновременно за простоту в использовании. Можно встретить у недавно прибывших в зону сталкеров, так и у ветеранов.</text>
