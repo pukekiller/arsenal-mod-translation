@@ -367,10 +367,10 @@
 		<text>Автомат Калашникова модернизированный, под патрон 7.62x39 мм. Ценится в Зоне за надежность даже в самых неблагоприятных условиях и одновременно за простоту в использовании. Можно встретить у недавно прибывших в зону сталкеров, так и у ветеранов.</text>
 	</string>
 	<string id="enc_arsenal_akms">
-		<text>The AKM is an improved version of the AK-47 incorporating numerous design improvements. The AKMS is the variant of the AKM that was made for the Soviet Airborne Forces - it is almost the same weapon as the AKS-47, chambered for the same 7.62x39mm cartridge, but using the design improvements introduced in the AKM.</text>
+		<text>The AKM is an improved version of the AK-47 incorporating numerous design improvements. The AKMS is the variant of the AKM that was made for the Soviet Airborne Forces - it is almost the same weapon as the AKS-47, using the same 7.62x39mm cartridge, but it uses the design improvements introduced in the AKM.</text>
 	</string>
 	<string id="enc_arsenal_aks74u">
-		<text>Укороченный автомат Калашникова образца 1974 года, под патрон 5.45x39 мм. По массе и габаритам близок к пистолетам-пулеметам, однако принцип действия механизма данного оружия и применяемый в нём патрон делают его представителем класса автоматов. К достоинствам относятся малые габариты, что крайне полезно при ведении боя в городских условиях, и довольно высокая пробивающая способность патрона. Главные недостатки - малая прицельная дальность и склонность к быстрому перегреву при стрельбе очередями.</text>
+		<text>The AKS-74U is a shortened carbine version of the AKS-74, designed from the ground-up to give vehicle crews, special forces, rear-echelone support units, and vehicle crews a compact and reliable assault rifle chambered for the 5.45x39mm cartridge. This weapon is somewhat unique because it bridges the gap between submachine guns and assault rifles - it is as light as an SMG, but it uses an intermediate cartridge. The AKS-74U excels in close-quarters and urban combat - and the 5.45x39mm cartridge packs a fair amount of punch, but the AKS-74U tends to overheat easily if you fire it in bursts a lot.</text>
 	</string>
 	<string id="enc_arsenal_aks74u_m1_camo1">
 		<text>Модификация АКС-74У. Установлен коллиматорный прицел "Кобра EKP-8-02", нанесён камуфляжный рисунок. Более длинный ствол позволил устанавливать подствольный гранатомёт ГП-25 "Костёр".</text>
