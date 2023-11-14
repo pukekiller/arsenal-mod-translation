@@ -376,7 +376,7 @@
 		<text>This AKS-74U has been extensively modified; it has an EKP-8-02 Kobra sight attached, a hand-made camoflauge pattern applied, and a longer barrel; the longer barrel allows the installation of a GP-25 Kostyor grenade launcher.</text>
 	</string>
 	<string id="enc_arsenal_an94">
-		<text>Автомат Никонова образца 1994 года. Выполнен по схеме с накоплением импульса отдачи. Очень точное оружие при стрельбе в режиме отсечки двух патронов.</text>
+		<text>The AN-94 (Avtomat Nikonova 1994 goda, or Nikonov's assault rifle model 1994) is a rifle with a long history; originally intended as a replacement for the AK-74, the AN-94 is a very ambitious design that has several unique features that set it apart, such as a very precise two-round burst mode with a very gentle recoil impulse that feels like that only one round is being fired. Sadly, the AN-94 is a massively complex weapon - it can jam fairly easily if not taken care of properly, and it's much more of a hassle to maintain than an AK. Like the AK-74, it's chambered for the 5.45x39mm cartridge. (start here for your first session on 11/14/23 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_arsenal_ak5">
 		<text>Данная винтовка состоит на вооружении армии Швеции. Создана на базе бельгийской винтовки FN FNC.</text>
