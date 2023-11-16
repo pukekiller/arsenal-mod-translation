@@ -382,10 +382,10 @@
 		<text>The Bofors AK 5 is variant of the FN FNC rifle that's the current service rifle of the Swedish Army, chambered for the 5.56x45mm NATO cartridge. It has numerous differences if compared FN FNC - mostly modifications to help the weapon work better in Sweden's subartic climate.</text>
 	</string>
 	<string id="enc_arsenal_aug_a1">
-		<text>A Steyr AUG bullpup rifle with an Swarovski 1.5 optical sight attached. (start here for your first session on 11/15/23 and don't forget to remove this reminder when you start)</text>
+		<text>A Steyr AUG bullpup rifle with an Swarovski 1.5 optical sight attached.</text>
 	</string>
 	<string id="enc_arsenal_aug_a2">
-		<text>Австрийская автоматическая винтовка, с интегрированной планкой Picatinny и выполненная по схеме "булл-пап".</text>
+		<text>An improved variant of the the Steyr AUG bullpup rifle that has an integrated Picatinny rail attachment system, which is compatiable with any optical sight that has a compatiable mount. (start here for your second session on 11/16/23 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_arsenal_famas_f1">
 		<text>Первый образец из серии автоматов FA MAS французской разработки. Высокая скорострельность и схема "булл-пап" сделали его довольно популярным среди любителей зарубежного оружия.</text>
