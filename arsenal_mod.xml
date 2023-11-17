@@ -388,10 +388,10 @@
 		<text>An improved variant of the the Steyr AUG bullpup rifle that has an integrated Picatinny rail attachment system, which is compatiable with any optical sight that has a compatiable mount.</text>
 	</string>
 	<string id="enc_arsenal_famas_f1">
-		<text>The FAMAS F1 is the first iteration of the FAMAS series of French-designed bullpup rifles. Its high rate of fire, decent accuracy, and good ergonomics coming from its good bullpup design have made it quite popular among foreign gun enthusiasts. (start here for your first session on 11/16/23 and don't forget to remove this reminder when you start)</text>
+		<text>The FAMAS F1 is the first iteration of the FAMAS series of French-designed bullpup rifles. Its high rate of fire, decent accuracy, and good ergonomics coming from its good bullpup design have made it quite popular among foreign firearm enthusiasts.</text>
 	</string>
 	<string id="enc_arsenal_famas_g2">
-		<text>Модификация автомата FA MAS F1 со стандартным НАТОвским магазином от M16 на 30 патронов. Высокая скорострельность и схема "булл-пап" сделали его довольно популярным образцом стрелкового оружия.</text>
+		<text>A later variant of the FAMAS bullpup rifle that adheres to NATO-specific standards. One of the major revisions is that the original proprietary magazine was replaced with a 30 round STANAG magazine. The revised design also includes better ergonomics. This weapon is quite popular among foreign firearm enthusiasts. (start here for your second session on 11/17/23 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_arsenal_famas_p3">
 		<text>Прототип нового автомата из серии FA MAS. Очень редкое оружие в Зоне.</text>
