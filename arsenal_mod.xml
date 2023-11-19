@@ -397,7 +397,7 @@
 		<text>A very rare prototype of the FAMAS Commando bullpup rifle. No one knows how this exceedingly rare prototype has managed to get to the Zone. (start here for your first session on 11/17/23 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_arsenal_fnc">
-		<text>The Belgian FN FNC, originally developed and designed in the late 1970s, has been largely used by police agencies from various countries, such as the USA. It's one of the more unknown firearms chambered for the 5.56x45mm NATO cartridge - not nearly as well-known as the M16 and such; those who have used it can testify to its excellent reliability, ergonomics. Despite this, one of the main reasons of its obscurity is the fact that its specific niche has been filled in by other rifles, which explains why this specific assault rifle is largely unknown. (begin here for your second session on 11/19/23 and don't forget to remove this reminder when you start)</text>
+		<text>The Belgian FN FNC, originally developed and designed in the late 1970s, has been largely used by police agencies from various countries, such as the USA. It's one of the more unknown firearms chambered for the 5.56x45mm NATO cartridge - not nearly as well-known as the M16 and such; those who have used it can testify to its excellent reliability, ergonomics. Despite this, one of the main reasons of its obscurity is the fact that its specific niche has been filled in by other rifles, which explains why this specific assault rifle is largely unknown.</text>
 	</string>
 	<string id="enc_arsenal_g36">
 		<text>The G36 assault rifle was developed by German company Heckler und Koch GmbH in early 1990s under the HK 50 designation. In 1995, the G36 was officially adopted by German Army, and in 1999 it was officially adopted by Spanish Armed Forces. The G36 is one of the best post-Cold War era assault rifles - it's ergonomic, accurate and reliable.</text>
@@ -406,7 +406,7 @@
 		<text>A modified variant of the G36 assault rifle that's shorter, making it carbine. It also comes with a Picatinny rail attachment system by default, allowing you to attach any compatible optical sights to it. </text>
 	</string>
 	<string id="enc_arsenal_g36e">
-		<text>Ёкспортный вариант немецкой штурмовой винтовки G36, без встроенного коллиматорного прицела.</text>
+		<text>A variant of the G36 rifle that's meant for the export market. Its key difference is that it doesn't come with the Hensoldt optical sight that comes with the regular G36, having only iron sights and Picatinny rail mounts that can accept any compatible optical sight. (start here for your first session on 11/19/23 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_arsenal_g36k">
 		<text>ћодификаци€ немецкой штурмовой винтовки G36, с универсальной направл€ющей планкой Picatinny и более коротким стволом\цевьЄм.</text>
