@@ -412,10 +412,10 @@
 		<text>The G36K is the carbine variant of the G36, having both a shorter barrel and a Picatinny rail system that can accept any compatible optical sights.</text>
 	</string>
 	<string id="enc_arsenal_galil_ar">
-		<text>The Galil is an Israeli assault rifle that has served as one of the Israel Defense Forces's service rifles for decades. Inspired by the Kalashnikov both in form and function, it's a reliable and unpretentious weapon. It also includes a built-in bottle opener near the front handguard - so if you're feeling thristy, you can use that to open a bottle. (start here for your first session on 11/20/23 and don't forget to remove this when you start)</text>
+		<text>The Galil is an Israeli assault rifle that has served as one of the Israel Defense Forces's service rifles for decades. Inspired by the Kalashnikov both in form and function, it's a reliable and unpretentious weapon. It also includes a built-in bottle opener near the front handguard - so if you're feeling thristy, you can use that to open a bottle.</text>
 	</string>
 	<string id="enc_arsenal_galil_arm">
-		<text>Израилький автомат, образцом к созданию которого послужил знаменитый автомат Калашникова. Выполнен в варианте ручного пулемёта со складными сошками. Надёжное и неприхотливое оружие.</text>
+		<text>The Galil ARM is the light machine gun variant of the Galil, equipped with a folding bipod, carrying handle, and a larger handguard. (start here for your second session on 11/21/23 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_arsenal_galil_mar">
 		<text>Укороченный вариант израильского автомата IMI Galil AR.</text>
