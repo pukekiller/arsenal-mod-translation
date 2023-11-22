@@ -418,10 +418,10 @@
 		<text>The Galil ARM is the light machine gun variant of the Galil, equipped with a folding bipod, carrying handle, and a larger handguard.</text>
 	</string>
 	<string id="enc_arsenal_galil_mar">
-		<text>A carbine variant of the Galil assault rifle that's more compact and portable, making it ideal for vehicle crews or rear echelon personnel. (start here for your first session on 11/21/23 and don't forget to remove this reminder when you start)</text>
+		<text>A carbine variant of the Galil assault rifle that's more compact and portable, making it ideal for vehicle crews or rear echelon personnel.</text>
 	</string>
 	<string id="enc_arsenal_hk416">
-		<text>Штурмовая винтовка (автомат) HK 416 внешне похожа на автоматы серии AR15\M16\M4, но построена на основе газоотводной автоматики с коротким ходом расположенного над стволом газового поршня, заимствованном у немецкой винтовки G36. Блягодаря этому удалось достичь большей надёжности и безотказности образца.</text>
+		<text>The HK 416 assault rifle is similar to the AR-15 assault rifle, but it has one key difference: it has a revised short-stroke gas piston system that's borrowed from the HK G36 assault rifle. (start here for your second session on 11/22/23 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_arsenal_lr300ml">
 		<text>Дальнейшее развитие штурмовой винтовки AR15\M16. Отличается неплохими тактико-техническими характеристиками.</text>
