@@ -430,10 +430,10 @@
 		<text>A carbine variant of the M16A3 that has a long and varied history; the M4 carbine was officially introduced in the early 1990s after demand for a more compact version of the M16 rifle soared - specifically coming from troops deployed in Somalia during the Battle of Mogadishu. Troops needed a smaller version of the M16 rifle, and the M4 Carbine was made to meet that demand. Other carbines based on the M16/AR design existed during this time, such as the CAR-15, but were only made in small numbers. Like the M16A3, the M4 carbine has either fully automatic or single-fire.</text>
 	</string>
 	<string id="enc_arsenal_m16a1">
-		<text>By the early 1970s, the M16 rifle was a fully-fledged combat rifle with a number of significant advantages (and, of course, some disadvantages). Compared to its main rival, the Kalashnikov assault rifle, the M16 was more accurate, more comfortable to use, and easy to handle. On the other hand, the M16 required much more careful maintenance, and better quality ammunition. (start here for your first session on 11/23/23 and don't forget to remove this reminder when you start)</text>
+		<text>By the early 1970s, the M16 rifle was a fully-fledged combat rifle with a number of significant advantages (and, of course, some disadvantages). Compared to its main rival, the Kalashnikov assault rifle, the M16 was more accurate, more comfortable to use, and easy to handle. On the other hand, the M16 required much more careful maintenance, and better quality ammunition.</text>
 	</string>
 	<string id="enc_arsenal_m16a2">
-		<text>Дальнейшая модификация винтовки M16A1. Имеет более тяжёлый ствол, введён режим стрельбы отсечкой по три патрона, заместо полностью автоматического огня, а также более вместительный магазин на 30 патронов.</text>
+		<text>A later development of the M16 rifle, officially replacing the M16A1. If compared to the M16A1 - the A2 has a heavier barrel, a three-round burst mode instead of fully automatic, and a 30 round STANAG magazine instead of the 20 round one the M16A1 originally originally came with. (start here for your second session on 11/24/23 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_arsenal_m16a3">
 		<text>Дальнейшая модификация винтовки M16A1. Имеет более тяжёлый ствол, введён режим стрельбы отсечкой по три патрона, заместо полностью автоматического огня, а также более вместительный магазин на 30 патронов.</text>
