@@ -436,10 +436,10 @@
 		<text>A later development of the M16 rifle, officially replacing the M16A1. If compared to the M16A1 - the A2 has a heavier barrel, a three-round burst mode instead of fully automatic, and a 30 round STANAG magazine instead of the 20 round one the M16A1 originally originally came with.</text>
 	</string>
 	<string id="enc_arsenal_m16a3">
-		<text>A later development of the M16 rifle that's a variant of the M16A2 rifle with one major difference - instead of a three-round burst mode, it has fully automatic fire. Besides this, there's very little difference between the A2 and A3. (start here for your first session on 11/24/23 and don't forget to remove this reminder when you start)</text>
+		<text>A later development of the M16 rifle that's a variant of the M16A2 rifle with one major difference - instead of a three-round burst mode, it has fully automatic fire. Besides this, there's very little difference between the A2 and A3.</text>
 	</string>
 	<string id="enc_arsenal_m16a4">
-		<text>Дальнейшая модификация винтовки M16A1. Имеет более тяжёлый ствол, введён режим стрельбы отсечкой по три патрона, заместо полностью автоматического огня, а также более вместительный магазин на 30 патронов.</text>
+		<text>The A4 is the latest iteration of the M16/AR rifle that serves as the current service rifle of the US Army. The A4 is basically an improved A2, having the same design revisions but with the addition of a Picatinny rail system so that a wide range of optical scopes (or other similar equipment) can be attached to the rifle. (start here for your second session on 11/25/23 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_arsenal_vz58">
 		<text>Данное оружие, внешне похожее на атомат Калашникова, является собственной разработкой чешских оружейников. Обладает более высокой, по сравнению с АК, скорострельностью.</text>
