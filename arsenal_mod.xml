@@ -439,10 +439,10 @@
 		<text>A later development of the M16 rifle that's a variant of the M16A2 rifle with one major difference - instead of a three-round burst mode, it has fully automatic fire. Besides this, there's very little difference between the A2 and A3.</text>
 	</string>
 	<string id="enc_arsenal_m16a4">
-		<text>The A4 is the latest iteration of the M16/AR rifle that serves as the current service rifle of the US Army. The A4 is basically an improved A2, having the same design revisions but with the addition of a Picatinny rail system so that a wide range of optical scopes (or other similar equipment) can be attached to the rifle. (start here for your second session on 11/25/23 and don't forget to remove this reminder when you start)</text>
+		<text>The A4 is the latest iteration of the M16/AR rifle that serves as the current service rifle of the US Army. The A4 is basically an improved A2, having the same design revisions but with the addition of a Picatinny rail system so that a wide range of optical scopes (or other similar equipment) can be attached to the rifle.</text>
 	</string>
 	<string id="enc_arsenal_vz58">
-		<text>Данное оружие, внешне похожее на атомат Калашникова, является собственной разработкой чешских оружейников. Обладает более высокой, по сравнению с АК, скорострельностью.</text>
+		<text>The vz. 58 is an assault rifle of Czech design, and one of the more unique weapons that originally comes from the Warsaw Pact - it uses 7.62x39mm, but it's not a derivative of the Kalashnikov in any way besides that. It is an entirely unique design, sharing no parts with the AK-47/AKM besides resembling one from a distance. (start here for your first session on 11/25/23 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_arsenal_rk95">
 		<text>Данный образец является развитием финского автомата Valmet Rk.62, который в свою очередь является лицензионной копией АК-47, с эргономическими изменениями.</text>
