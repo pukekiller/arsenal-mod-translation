@@ -454,13 +454,13 @@
 		<text>The SIG SG 550 is the current service rifle of the Swiss Army, developed in the early 1980s to replace SIG 540. Comparing the SG 550 to a Swiss-made watch isn't farfetched - it's a firearm with fantastic engineering behind it. It's highly ergonomic, accurate, and reliable.</text>
 	</string>
 	<string id="enc_arsenal_sg551">
-		<text>The SIG SG 551 is a carbine version of the SG 550.</text>
+		<text>The SIG SG 551 is a carbine version of the SG 550. The SG 551 is a good compromise between the SG 550 and the SG 552, making it ideal if you want something that's shorter and lighter - but still accurate at long ranges.</text>
 	</string>
 	<string id="enc_arsenal_sg552">
 		<text>The SIG SG 552 is a carbine version of the SG 550. It's smaller than the SG 551 carbine, so the SG 552 is a good choice if you want something that's small and light. (start here for your second session on 11/28/23 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_arsenal_xm8">
-		<text>Винтовка, когда-то чуть было не ставшая заменой M16A2  в американской армии. Очень редкий образец стрелкового оружия, обладающий хорошими боевыми характеристиками.</text>
+		<text>The HK XM8 is an experimental assault rifle that's inspired by the HK G36. It nearly replaced the M16A2 when it was being evaluated by the US Army during trials, but failed to pass the test. Regardless, this weapon is exceedingly rare - and its ergonomics, accuracy, and reliability are exceptional. (start here for your first session on 11/28/23 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_arsenal_xm177e2">
 		<text>Карабин, принятый на вооружение ряда подразделений армии США, как замена компактному автомату CAR-15.</text>
