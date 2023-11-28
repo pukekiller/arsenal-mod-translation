@@ -454,10 +454,10 @@
 		<text>The SIG SG 550 is the current service rifle of the Swiss Army, developed in the early 1980s to replace SIG 540. Comparing the SG 550 to a Swiss-made watch isn't farfetched - it's a firearm with fantastic engineering behind it. It's highly ergonomic, accurate, and reliable.</text>
 	</string>
 	<string id="enc_arsenal_sg551">
-		<text>The SIG SG 551 is a carbine version of the SG 550. (start here for your first session on 11/27/23 and don't forget to remove this reminder when you start)</text>
+		<text>The SIG SG 551 is a carbine version of the SG 550.</text>
 	</string>
 	<string id="enc_arsenal_sg552">
-		<text>Укороченный вариант автомата SIG SG550.</text>
+		<text>The SIG SG 552 is a carbine version of the SG 550. It's smaller than the SG 551 carbine, so the SG 552 is a good choice if you want something that's small and light. (start here for your second session on 11/28/23 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_arsenal_xm8">
 		<text>Винтовка, когда-то чуть было не ставшая заменой M16A2  в американской армии. Очень редкий образец стрелкового оружия, обладающий хорошими боевыми характеристиками.</text>
