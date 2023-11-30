@@ -466,10 +466,10 @@
 		<text>The XM177E2 is an experimental carbine based on the M16/AR-15 rifle that was developed as a improved version of the CAR-15 carbine. It was only made in small numbers and mostly used by US Army spec ops units.</text>
 	</string>
 	<string id="enc_arsenal_mg36">
-		<text>The HK MG36 is a light machine gun that's based on the HK G36 assault rifle. Because of its intended role, it comes with a 100 round drum magazine instead of the 30 round one that the HK G36 normally comes with. (start here for your first session on 11/29/23 and don't forget to remove this reminder when you start)</text>
+		<text>The HK MG36 is a light machine gun that's based on the HK G36 assault rifle. Because of its intended role, it comes with a 100 round drum magazine instead of the 30 round one that the HK G36 normally comes with.</text>
 	</string>
 	<string id="enc_arsenal_rpk74">
-		<text>Ручной пулемёт Клашникова образца 1974 года с дисковым магазином на 75 патронов.</text>
+		<text>The RPK-74 (Ruchnoy Pulemyot Kalashnikova 1974 goda, or Kalashnikov's hand-held machine model 1974) is a light machine gun that's based on the AK-74 assault rifle. Because of its intended role, it comes with a 75 round drum magazine instead of the 30 round one that the AK-74 normally comes with. (start here for your second session on 11/30/23 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_arsenal_xm8_para">
 		<text>Вариант автомата XM8 с барабанным магазином и утяжелённым стволом, что превращает это оружие в полноценный ручной пулемёт.</text>
