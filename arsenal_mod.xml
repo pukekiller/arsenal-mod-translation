@@ -499,7 +499,7 @@
 		<text>The GSh-18 pistol was developed in the late 1990s at the Tula Instrument Engineering Design Bureau, under the supervision of famous weapons designers Vasiliy P. Gryazev and Arkadiy S. Shipunov. The number 18 in the name denotes the magazine capacity. The GSh-18's advantages include good ergonomics and light weight, large magazine capacity, and good accuracy. (start here for your first session on 12/4/23 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_arsenal_m1911a1">
-		<text>Легендарный "Кольт", который до сих пор имеется на вооружении ряда стран. Следует заметить, что и раньше, и сейчас, пистолеты данной конструкции выпускаются не только фирмой Кольт. Как в исходном Браунинговском варианте, так и в различной степени модифицированном, их выпускают десятки, если не сотни фирм по всему миру.</text>
+		<text>This pistol, the legendary Colt 1911 set the standard for all handgun designs when it was introduced over a century ago. It's still in service in a number of countries and in numerous branches of the US Armed Forces. It should be noted that both before and now, pistols of this design are produced not only by Colt - they are produced by dozens, if not hundreds of companies all over the world; there are many iterations of the Colt 1911 that are still being made, including the original version of the Colt 1911 made by John Browning's company. (start here for your second session on 12/5/23 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_arsenal_m1935hp_mk3">
 		<text>Современная модификация бельгийского пистолета FN Browning HP (High Power 1935), выпускавшегося с 1935 года.</text>
@@ -529,7 +529,7 @@
 		<text>Пистолет системы Макарова был создан в ответ на требование Советской Армии разработать новый пистолет для самообороны офицерского состава, боле компактный и безопасный в обращении, чем пистолет Токарева ТТ, но, при этом, обладающий большим останавливающим действием пули.</text>
 	</string>
 	<string id="enc_arsenal_tt33">
-		<text>Пистолет ТТ (Тульский, Токарева), как следует из его названия, был разработан на Тульском Оружейном заводе легендарным русским оружейником Федором Токаревым и принят на вооружение РККА в 1933 году. Для своего времени пистолет ТТ представлял достаточно совершенное оружие, мощное и надежное, простое в обслуживании и ремонте. Его главными недостатками являлись пониженная безопасность в обращении из-за отсутствия полноценных предохранительных устройств, сравнительно невысокое останавливающее действие легкой 7.62мм пули, и не слишком удобная форма рукоятки.</text>
+		<text>The TT-33 (Tulsky, Tokarev, 1933) pistol, as its name implies, was developed at the Tula Gun Factory by the legendary Russian gunsmith Fyodor Tokarev and adopted by the Red Army in 1933. Based on the FN Model 1903, the TT pistol was an good weapon for its time, being powerful, reliable, and easy to maintain and repair. However, it has some disadvantages if compared to the FN Model 1903 - such as the lack of a safety and poor ergonomics.</text>
 	</string>
 	<string id="enc_arsenal_usp45c">
 		<text>Компактная версия пистолета USP-45 немецкой разработки. В целом же пистолеты серии USP отличаются высочайшей надежностью и живучестью, хорошей точностью стрельбы. Из незначительных недостатков можно отметить значительные размеры оружия, даже в компактном варианте, довольно высоко расположенный центр тяжести и массивный затвор, несколько затрудняющий скрытое ношение.</text>
