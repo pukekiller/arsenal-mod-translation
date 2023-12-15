@@ -559,10 +559,10 @@
 		<text>In 1958, the GRAU (Glavnoye Raketno-Artilleriyskoye Upravleniye, or Main Rocket and Artillery Directorate) of the Soviet Army General Staff announced a competition to develop a semi-automatic sniper rifle for the Soviet Army. The competition was won by the team headed by Yevgeny F. Dragunov, and in 1963 the SVD (Snayperskaya Vintovka Dragunova, or Dragunov Sniper Rifle) was adopted by the Soviet Army. A special variant of the 7.62x54mmR cartridge was created specially for the SVD rifle - a variant that has a steel core and better ballistics, but the SVD can use any 7.62x64mmR cartridge. It should be noted that the tactical role of the SVD rifle in the Soviet and Russian armies is different from the traditional role of a "sniper" in the Western sense of the term. The SVD rifle is used to extend the effective range of fire of a rifle squad beyond the capabilities of standard assault rifles, up to distances of 600-700 meters. It is the most common sniper rifle in the Zone.</text>
 	</string>
 	<string id="enc_arsenal_m1935">
-		<text>The Browning Hi-Power is a Belgian-made pistol, produced since 1935. Chambered for the 9mm cartridge, it has become legendary due to its exceptional performance and reliability. (start here for your first session on 12/14/23 and don't forget to remove this reminder when you start)</text>
+		<text>The Browning Hi-Power is a Belgian-made pistol, produced since 1935. Chambered for the 9mm cartridge, it has become legendary due to its exceptional performance and reliability.</text>
 	</string>
 	<string id="enc_arsenal_sg550sr">
-		<text>Снайперская модификация винтовки SIG SG550.</text>
+		<text>A modified version of the SIG SG 550 that's been altered to perform more like a sniper rifle; the modifications done to this rifle have given it better accuracy, and a scope has been attached. (start here for your second session on 12/15/23 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_arsenal_vss">
 		<text>Винтовка снайперская специальная "Винторез" - точное и бесшумное оружие снайпера. В Зоне встречается крайне редко, из-за дороговизны и не самой высокой надёжности.</text>
