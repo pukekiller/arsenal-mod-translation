@@ -562,10 +562,10 @@
 		<text>The Browning Hi-Power is a Belgian-made pistol, produced since 1935. Chambered for the 9mm cartridge, it has become legendary due to its exceptional performance and reliability.</text>
 	</string>
 	<string id="enc_arsenal_sg550sr">
-		<text>A modified version of the SIG SG 550 that's been altered to perform more like a sniper rifle; the modifications done to this rifle have given it better accuracy, and a scope has been attached. (start here for your second session on 12/15/23 and don't forget to remove this reminder when you start)</text>
+		<text>A modified version of the SIG SG 550 that's been altered to perform more like a sniper rifle; the modifications done to this rifle have given it better accuracy, and a scope has been attached.</text>
 	</string>
 	<string id="enc_arsenal_vss">
-		<text>Винтовка снайперская специальная "Винторез" - точное и бесшумное оружие снайпера. В Зоне встречается крайне редко, из-за дороговизны и не самой высокой надёжности.</text>
+		<text>The VSS Vintorez sniper rifle is an accurate and silent weapon, ideal for any sniper. It is very rare in the Zone due to its high cost. (start here for your first session on 12/15/23 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_arsenal_val">
 		<text>Автомат специальный "Вал" - бесшумный автомат для спецопераций.</text>
