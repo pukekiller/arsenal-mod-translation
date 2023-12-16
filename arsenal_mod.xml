@@ -565,10 +565,10 @@
 		<text>A modified version of the SIG SG 550 that's been altered to perform more like a sniper rifle; the modifications done to this rifle have given it better accuracy, and a scope has been attached.</text>
 	</string>
 	<string id="enc_arsenal_vss">
-		<text>The VSS Vintorez sniper rifle is an accurate and silent weapon, ideal for any sniper. It is very rare in the Zone due to its high cost. (start here for your first session on 12/15/23 and don't forget to remove this reminder when you start)</text>
+		<text>The VSS Vintorez sniper rifle is an accurate and silent weapon, ideal for any sniper. It is very rare in the Zone due to its high cost.</text>
 	</string>
 	<string id="enc_arsenal_val">
-		<text>Автомат специальный "Вал" - бесшумный автомат для спецопераций.</text>
+		<text>The AS Val is a specialized, silenced assault rifle meant for special forces taking part in operations where stealth is a priority. (start here for your second session on 12/16/23 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_arsenal_l85a2">
 		<text>Английская штурмовая винтовка, принятая на вооружение в 1980-х годах. Винтовка L85A2 выполнена по схеме булл-пап. Автоматика на основе газоотводного механизма с коротким ходом газового поршня и трехпозиционным газовым регулятором (обеспечивающим стрельбу в обычных условиях, в условиях повышенной загрязненности и метание ружейных гранат со ствола).  Запирание ствола - традиционным поворотным затвором, имеющим 7 боевых упоров, за вкладыш ствольной коробки. Затворная рама перемещается внутри ствольной коробки на двух направляющих стержнях, не касаясь стенок, возвратная пружина расположена посередине между стрежнями и выше их. Рукоятка взведения зафиксирована на затворной раме справа и движется при стрельбе.</text>
