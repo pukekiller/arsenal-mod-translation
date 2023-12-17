@@ -574,10 +574,10 @@
 		<text>The L85A2 is an British bullpup rifle; the first variant, the L85, was officially adopted into service in the 1980s, while the L85A2 was adopted in the 2000s. Like most modern day assault rifles, the L85A2 uses the gas created by the propellant when it ignites to help cycle the weapon, using a short-stroke gas piston. The L85A2 has a gas regulator that has three modes; the first one allows the L85A2 to fire either normally, the second in unfavorable conditions, and the third mode is for firing rifle grenades. Barrel locking is done with a conventional rotary bolt, which has 7 action stops, behind the receiver liner. The bolt carrier moves inside the receiver on two guide rods, without touching the walls, and the recoil spring is located in the middle between and above the rods. The cocking handle is fixed on the bolt carrier on the right side and moves when firing.</text>
 	</string>
 	<string id="enc_arsenal_mp5a2">
-		<text>The German HK MP5 submachine gun (in this case, the MP5A2 version that comes with a fixed buttstock) has been adopted by many law enforcement agencies around the world. The MP5 owes its success to its features, such as excellent reliability, ease of handling, and high accuracy. HK's marketing division has capitalized on the strengths of the MP5 to sell it, which has made the MP5 an incredibly popular submachine gun. (start here for your second session on 12/17/23 and don't forget to remove this reminder when you start)</text>
+		<text>The German HK MP5 submachine gun (in this case, the MP5A2 version that comes with a fixed buttstock) has been adopted by many law enforcement agencies around the world. The MP5 owes its success to its features, such as excellent reliability, ease of handling, and high accuracy. HK's marketing division has capitalized on the strengths of the MP5 to sell it, which has made the MP5 an incredibly popular submachine gun.</text>
 	</string>
 	<string id="enc_arsenal_acog">
-		<text>4-х кратный оптический прицел для винтовок НАТО.</text>
+		<text>The ACOG is a 4x telescopic sight meant for NATO rifles that use the Picatinny rail system. (start here for your first session on 12/17/23 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_arsenal_aug_a1_scope">
 		<text>Линза оптического прицела винтовки Steyr AUG-77.</text>
