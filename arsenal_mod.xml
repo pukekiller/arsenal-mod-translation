@@ -580,10 +580,10 @@
 		<text>The ACOG is a 4x telescopic sight meant for NATO rifles that use the Picatinny rail system.</text>
 	</string>
 	<string id="enc_arsenal_aug_a1_scope">
-		<text>A original Steyr AUG rifle scope. These are made by Swarovski. (start here for your second session on 12/18/23 and don't forget to remove this reminder when you start)</text>
+		<text>A original Steyr AUG rifle scope. These are manufactured by Swarovski.</text>
 	</string>
 	<string id="enc_arsenal_g36_scope">
-		<text>Линза оптического прицела винтовки G36.</text>
+		<text>A original HK G36 rifle scope. These are manufactured by Hensoldt. (start here for your first session on 12/18/23 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_arsenal_scope1">
 		<text>Съёмный оптический прицел старого образца для винтовок M16A1\A2.</text>
