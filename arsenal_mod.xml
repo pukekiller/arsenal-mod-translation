@@ -577,10 +577,10 @@
 		<text>The German HK MP5 submachine gun (in this case, the MP5A2 version that comes with a fixed buttstock) has been adopted by many law enforcement agencies around the world. The MP5 owes its success to its features, such as excellent reliability, ease of handling, and high accuracy. HK's marketing division has capitalized on the strengths of the MP5 to sell it, which has made the MP5 an incredibly popular submachine gun.</text>
 	</string>
 	<string id="enc_arsenal_acog">
-		<text>The ACOG is a 4x telescopic sight meant for NATO rifles that use the Picatinny rail system. (start here for your first session on 12/17/23 and don't forget to remove this reminder when you start)</text>
+		<text>The ACOG is a 4x telescopic sight meant for NATO rifles that use the Picatinny rail system.</text>
 	</string>
 	<string id="enc_arsenal_aug_a1_scope">
-		<text>Линза оптического прицела винтовки Steyr AUG-77.</text>
+		<text>A original Steyr AUG rifle scope. These are made by Swarovski. (start here for your second session on 12/18/23 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_arsenal_g36_scope">
 		<text>Линза оптического прицела винтовки G36.</text>
