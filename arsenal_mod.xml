@@ -586,10 +586,10 @@
 		<text>A original HK G36 rifle scope. These are manufactured by Hensoldt.</text>
 	</string>
 	<string id="enc_arsenal_scope1">
-		<text>A original optical scope meant for the M16A1 and M16A2. These are manufactured by Colt. (start here for your second session on 12/9/23 and don't forget to remove this reminder when you start)</text>
+		<text>A original optical scope meant for the M16A1 and M16A2. These are manufactured by Colt.</text>
 	</string>
 	<string id="enc_arsenal_sil_9_p">
-		<text>Прибор бесшумной стрельбы для пистолетов калибра 9мм.</text>
+		<text>A silencer that's compatiable with 9mm caliber pistols. (start here for your first session on 12/19/23 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_arsenal_sil_762_p">
 		<text>Прибор бесшумной стрельбы для пистолетов калибра 7.62мм.</text>
