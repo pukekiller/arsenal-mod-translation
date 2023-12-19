@@ -268,7 +268,7 @@
 		<text>Hensoldt ZF Optical Scope</text>
 	</string>
 	<string id="ars-scope1">
-		<text>Barska Optical Scope</text>
+		<text>Colt Optical Scope</text>
 	</string>
 	<string id="ars-sil_9_p">
 		<text>M9-P Silencer</text>
@@ -394,7 +394,7 @@
 		<text>A later variant of the FAMAS bullpup rifle that adheres to NATO-specific standards. One of the major revisions is that the original proprietary magazine was replaced with a 30 round STANAG magazine. The revised design also includes better ergonomics. This weapon is quite popular among foreign firearm enthusiasts.</text>
 	</string>
 	<string id="enc_arsenal_famas_p3">
-		<text>A very rare prototype of the FAMAS Commando bullpup rifle. No one knows how this exceedingly rare prototype has managed to get to the Zone. (start here for your first session on 11/17/23 and don't forget to remove this reminder when you start)</text>
+		<text>A very rare prototype of the FAMAS Commando bullpup rifle. No one knows how this exceedingly rare prototype has managed to get to the Zone.</text>
 	</string>
 	<string id="enc_arsenal_fnc">
 		<text>The Belgian FN FNC, originally developed and designed in the late 1970s, has been largely used by police agencies from various countries, such as the USA. It's one of the more unknown firearms chambered for the 5.56x45mm NATO cartridge - not nearly as well-known as the M16 and such; those who have used it can testify to its excellent reliability, ergonomics. Despite this, one of the main reasons of its obscurity is the fact that its specific niche has been filled in by other rifles, which explains why this specific assault rifle is largely unknown. However, the Bofors Ak 5, a modified version of the FN FNC is the most well-known iteration of the FN FNC, which currently serves as the current service rifle for the Swedish Army. </text>
@@ -421,7 +421,7 @@
 		<text>A carbine variant of the Galil assault rifle that's more compact and portable, making it ideal for vehicle crews or rear echelon personnel.</text>
 	</string>
 	<string id="enc_arsenal_hk416">
-		<text>The HK 416 assault rifle is similar to the AR-15 assault rifle, but it has one key difference: it has a revised short-stroke gas piston system that's borrowed from the HK G36 assault rifle. (start here for your second session on 11/22/23 and don't forget to remove this reminder when you start)</text>
+		<text>The HK 416 assault rifle is similar to the AR-15 assault rifle, but it has one key difference: it has a revised short-stroke gas piston system that's borrowed from the HK G36 assault rifle.</text>
 	</string>
 	<string id="enc_arsenal_lr300ml">
 		<text>The LR-300 is a revised design of the AR-15 that has several noticeable improvements, such as a unique, delayed semi-direct gas impingement system; this innovation gives the LR-300 better performance, giving it more controllable recoil impulse and better accuracy.</text>
@@ -457,7 +457,7 @@
 		<text>The SIG SG 551 is a carbine version of the SG 550. The SG 551 is a good compromise between the SG 550 and the SG 552, making it ideal if you want something that's shorter and lighter - but still accurate at long ranges.</text>
 	</string>
 	<string id="enc_arsenal_sg552">
-		<text>The SIG SG 552 is a carbine version of the SG 550. It's smaller than the SG 551 carbine, so the SG 552 is a good choice if you want something that's small and light. (start here for your second session on 11/28/23 and don't forget to remove this reminder when you start)</text>
+		<text>The SIG SG 552 is a carbine version of the SG 550. It's smaller than the SG 551 carbine, so the SG 552 is a good choice if you want something that's small and light.</text>
 	</string>
 	<string id="enc_arsenal_xm8">
 		<text>The HK XM8 is an experimental assault rifle that's inspired by the HK G36. It nearly replaced the M16A2 when it was being evaluated by the US Army during trials, but failed to pass the test. Regardless, this weapon is exceedingly rare - and its ergonomics, accuracy, and reliability are exceptional.</text>
@@ -487,7 +487,7 @@
 		<text>The Desert Eagle is a highly controversial pistol, developed by IMI and originally meant for the Israel Defense Forces, that has been featured in countless movies and games; this has made the Desert Eagle immensely popular. This pistol is fairly rare, and it uses a rotary bolt locking system, using the energy of the propellant gases from the barrel for cycling the weapon. The Desert Eagle is a very powerful pistol, with tremendous recoil.</text>
 	</string>
 	<string id="enc_arsenal_fort12">
-		<text>The Fort-12 is an Ukrainian-made pistol adopted as a replacement for the obsolete Makarov PM The basic ammunition for this pistol was the already available and well mastered 9x18mm cartridge, but the new pistol had to provide more accuracy and firepower than the PM (due to larger magazine capacity). In essence, the Fort-12 is a revamped version of the Czech CZ-83 pistol; a CZ-83 served as the original testbed prototype for the Fort-12, and the necessary equipment for production was purchased in the Czech Republic. (start here for your second session on 12/3/23 and don't forget to remove this reminder when you start)</text>
+		<text>The Fort-12 is an Ukrainian-made pistol adopted as a replacement for the obsolete Makarov PM The basic ammunition for this pistol was the already available and well mastered 9x18mm cartridge, but the new pistol had to provide more accuracy and firepower than the PM (due to larger magazine capacity). In essence, the Fort-12 is a revamped version of the Czech CZ-83 pistol; a CZ-83 served as the original testbed prototype for the Fort-12, and the necessary equipment for production was purchased in the Czech Republic.</text>
 	</string>
 	<string id="enc_arsenal_glock18c_sk1">
 		<text>The Glock 18 pistol (the number in Glock's naming scheme normally indicates how many rounds the weapon's magazine can hold - in this case, 18) was developed by the Austrian company Glock for the Austrian Army, and it was the first pistol made by Glock. Nevertheless, the pistol was extremely successful, reliable and comfortable, and was adopted by the Austrian Army. This variant has a three-round burst mode, along with a semi-automatic mode.</text>
@@ -532,7 +532,7 @@
 		<text>The TT-33 (Tulsky, Tokarev, 1933) pistol, as its name implies, was developed at the Tula Gun Factory by the legendary Russian gunsmith Fyodor Tokarev and adopted by the Red Army in 1933. Based on the FN Model 1903, the TT pistol was an good weapon for its time, being powerful, reliable, and easy to maintain and repair. However, it has some disadvantages if compared to the FN Model 1903 - such as the lack of a safety and poor ergonomics.</text>
 	</string>
 	<string id="enc_arsenal_usp45c">
-		<text>The USP 45 Compact is a smaller version of the German designed USP-45 pistol. In general, the USP series of pistols are characterized by high reliability, excellent durability, and good accuracy. However, the USP series isn't without its faults - the original USP pistol is huge; even the Compact version is debatably too big. The USP's high center of gravity also makes it a bit awkward to handle, and good luck trying to conceal your USP on your person - trying to conceal even the Compact version is difficult. (start here for your second session on 12/10/23 and don't forget to remove this reminder when you start)</text>
+		<text>The USP 45 Compact is a smaller version of the German designed USP-45 pistol. In general, the USP series of pistols are characterized by high reliability, excellent durability, and good accuracy. However, the USP series isn't without its faults - the original USP pistol is huge; even the Compact version is debatably too big. The USP's high center of gravity also makes it a bit awkward to handle, and good luck trying to conceal your USP on your person - trying to conceal even the Compact version is difficult.</text>
 	</string>
 	<string id="enc_arsenal_m1935">
 		<text>The Browning Hi-Power pistol has manufactured by Belgian company FN Herstal since 1935. Having a development history that spans over a decade, the Browning Hi-Power started life as a prototype developed by John Browning, and then picked up and improved by Dieudonne Saive after John Browning's death - going through various iterations of development until the design finalized into what it is today. Throughout history, the Browning Hi-Power was in service with armies and police forces of many countries, including British Commonwealth countries (Great Britain, Canada...), and was produced in Belgium, Canada, Egypt and many other countries. The weapon is still in service in Great Britain, Belgium and many other countries.</text>
@@ -583,10 +583,10 @@
 		<text>A original Steyr AUG rifle scope. These are manufactured by Swarovski.</text>
 	</string>
 	<string id="enc_arsenal_g36_scope">
-		<text>A original HK G36 rifle scope. These are manufactured by Hensoldt. (start here for your first session on 12/18/23 and don't forget to remove this reminder when you start)</text>
+		<text>A original HK G36 rifle scope. These are manufactured by Hensoldt.</text>
 	</string>
 	<string id="enc_arsenal_scope1">
-		<text>Съёмный оптический прицел старого образца для винтовок M16A1\A2.</text>
+		<text>A original optical scope meant for the M16A1 and M16A2. These are manufactured by Colt. (start here for your second session on 12/9/23 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_arsenal_sil_9_p">
 		<text>Прибор бесшумной стрельбы для пистолетов калибра 9мм.</text>
