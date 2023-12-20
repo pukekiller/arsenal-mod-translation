@@ -589,10 +589,10 @@
 		<text>A original optical scope meant for the M16A1 and M16A2. These are manufactured by Colt.</text>
 	</string>
 	<string id="enc_arsenal_sil_9_p">
-		<text>A silencer that's compatiable with 9mm caliber pistols. (start here for your first session on 12/19/23 and don't forget to remove this reminder when you start)</text>
+		<text>A silencer that's compatiable with 9mm caliber pistols.</text>
 	</string>
 	<string id="enc_arsenal_sil_762_p">
-		<text>Прибор бесшумной стрельбы для пистолетов калибра 7.62мм.</text>
+		<text>A silencer that's compatiable with 7.62 caliber pistols. (start here for your second session on 12/20/23 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_arsenal_sil_9_pb">
 		<text>Прибор бесшумной стрельбы для пистолета ПБ (6П9).</text>
