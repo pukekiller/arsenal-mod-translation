@@ -592,10 +592,10 @@
 		<text>A silencer that's compatiable with 9mm caliber pistols.</text>
 	</string>
 	<string id="enc_arsenal_sil_762_p">
-		<text>A silencer that's compatiable with 7.62 caliber pistols. (start here for your second session on 12/20/23 and don't forget to remove this reminder when you start)</text>
+		<text>A silencer that's compatiable with 7.62 caliber pistols.</text>
 	</string>
 	<string id="enc_arsenal_sil_9_pb">
-		<text>Прибор бесшумной стрельбы для пистолета ПБ (6П9).</text>
+		<text>A silencer that's only compatible with the PB pistol (GRAU index specification 6P9) - a suppressed pistol that's chambered for 9x18mm. (start here for your first session on 12/20/23 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_arsenal_sil_545_ar">
 		<text>Прибор бесшумной стрельбы для автоматов калибра 5.45мм.</text>
