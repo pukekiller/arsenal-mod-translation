@@ -610,10 +610,10 @@
 		<text>A silencer that's compatiable with the 7.62 caliber SVD sniper rifle.</text>
 	</string>
 	<string id="enc_arsenal_sil_1143_p">
-		<text>A silencer that's compatiable with .45 ACP caliber pistols. (start here for your second session on 12/23/23 and don't forget to remove this reminder when you start)</text>
+		<text>A silencer that's compatiable with .45 ACP caliber pistols.</text>
 	</string>
 	<string id="enc_arsenal_50_ae">
-		<text>Пистолетный патрон с пулей крупного калибра для пистолета Desert Eagle.</text>
+		<text>A silencer that's compatiable with the .50 AE caliber Desert Eagle pistol. (start here for your first session on 12/23/23 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_arsenal_7.62x25_p">
 		<text>Советский пистолетный патрон калибра 7.62мм. Простая цельнометаллическая пуля.</text>
