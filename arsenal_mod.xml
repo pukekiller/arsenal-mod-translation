@@ -613,10 +613,10 @@
 		<text>A silencer that's compatiable with .45 ACP caliber pistols.</text>
 	</string>
 	<string id="enc_arsenal_50_ae">
-		<text>A silencer that's compatiable with the .50 AE caliber Desert Eagle pistol. (start here for your first session on 12/23/23 and don't forget to remove this reminder when you start)</text>
+		<text>A silencer that's compatiable with the .50 AE caliber Desert Eagle pistol.</text>
 	</string>
 	<string id="enc_arsenal_7.62x25_p">
-		<text>Советский пистолетный патрон калибра 7.62мм. Простая цельнометаллическая пуля.</text>
+		<text>The 7.62x25mm P cartridge is a simple, full metal jacket bullet that was developed by Soviet arms designer Fedor Tokarev in conjunction with the TT-30/TT-33 pistol. (start here for your second session on 12/24/23 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_arsenal_7.62x25_ps">
 		<text>Советский пистолетный патрон калибра 7.62мм. Пуля со стальным сердечником, улучшенная бронебойность.</text>
