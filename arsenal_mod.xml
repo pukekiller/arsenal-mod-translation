@@ -622,10 +622,10 @@
 		<text>The 7.62x25mm PS cartridge is an armor-piercing variant of the 7.62x25mm round. It comes with a steel core instead of the usual soft lead core, giving it better penetration.</text>
 	</string>
 	<string id="enc_arsenal_7.62x39_fmj">
-		<text>The 7.62x39 FMJ cartridge is a simple, full metal jacket bullet that was originally developed for the SKS rifle. Soviet arms designers saw the advantages that an intermediate cartridge would have after witnessing how effective the STG-44 was during World War 2, prompting the Soviet military and defense industry to develop their own. (start here for your second session on 12/25/23 and don't forget to remove this reminder when you start)</text>
+		<text>The 7.62x39 FMJ cartridge is a simple, full metal jacket bullet that was originally developed for the SKS rifle. Soviet arms designers saw the advantages that an intermediate cartridge would have after witnessing how effective the STG-44 was during World War 2, prompting the Soviet military and defense industry to develop their own.</text>
 	</string>
 	<string id="enc_arsenal_7.62x39_ap">
-		<text>Советский автоматный патрон калибра 7.62мм. Пуля со стальным сердечником, улучшенная бронебойность.</text>
+		<text>The 7.62x39mm AP cartridge is an armor-piercing variant of the 7.62x39mm round. It comes with a steel core instead of the usual soft lead core, giving it better penetration. (start here for your first session on 12/25/23 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_arsenal_7.62x51_fmj">
 		<text>Винтовочный боеприпас стандарта НАТО. Калибр - 7.62мм. Простая цельнометаллическая пуля.</text>
