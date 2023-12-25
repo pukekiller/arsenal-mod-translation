@@ -385,7 +385,7 @@
 		<text>A Steyr AUG bullpup rifle with an Swarovski 1.5 optical sight attached.</text>
 	</string>
 	<string id="enc_arsenal_aug_a2">
-		<text>An improved variant of the the Steyr AUG bullpup rifle that has an integrated Picatinny rail attachment system, which is compatiable with any optical sight that has a compatible mount.</text>
+		<text>An improved variant of the the Steyr AUG bullpup rifle that has an integrated Weaver rail attachment system, which is compatiable with any optical sight that has a compatible mount.</text>
 	</string>
 	<string id="enc_arsenal_famas_f1">
 		<text>The FAMAS F1 is the first iteration of the FAMAS series of French-designed bullpup rifles. Its high rate of fire, decent accuracy, and good ergonomics coming from its good bullpup design have made it quite popular among foreign firearm enthusiasts.</text>
@@ -403,13 +403,13 @@
 		<text>The G36 assault rifle was developed by German company Heckler und Koch GmbH in early 1990s under the HK 50 designation. In 1995, the G36 was officially adopted by German Army, and in 1999 it was officially adopted by Spanish Armed Forces. The G36 is one of the best post-Cold War era assault rifles - it's ergonomic, accurate and reliable.</text>
 	</string>
 	<string id="enc_arsenal_g36c">
-		<text>A modified variant of the G36 assault rifle that's shorter, making it carbine. It also comes with a Picatinny rail attachment system by default, allowing you to attach any compatible optical sights to it. </text>
+		<text>A modified variant of the G36 assault rifle that's shorter, making it carbine. It also comes with a Weaver rail attachment system by default, allowing you to attach any compatible optical sights to it. </text>
 	</string>
 	<string id="enc_arsenal_g36e">
-		<text>A variant of the G36 rifle that's meant for the export market. Its key difference is that it doesn't come with the Hensoldt optical sight that comes with the regular G36, having only iron sights and Picatinny rail mounts that can accept any compatible optical sight.</text>
+		<text>A variant of the G36 rifle that's meant for the export market. Its key difference is that it doesn't come with the Hensoldt optical sight that comes with the regular G36, having only iron sights and Weaver rail mounts that can accept any compatible optical sight.</text>
 	</string>
 	<string id="enc_arsenal_g36k">
-		<text>The G36K is the carbine variant of the G36, having both a shorter barrel and a Picatinny rail system that can accept any compatible optical sights.</text>
+		<text>The G36K is the carbine variant of the G36, having both a shorter barrel and a Weaver rail system that can accept any compatible optical sights.</text>
 	</string>
 	<string id="enc_arsenal_galil_ar">
 		<text>The Galil is an Israeli assault rifle that has served as one of the Israel Defense Forces's service rifles for decades. Inspired by the Kalashnikov both in form and function, it's a reliable and unpretentious weapon. It also includes a built-in bottle opener near the front handguard - so if you're feeling thristy, you can use that to open a bottle.</text>
@@ -439,7 +439,7 @@
 		<text>A later development of the M16 rifle that's a variant of the M16A2 rifle with one major difference - instead of a three-round burst mode, it has fully automatic fire. Besides this, there's very little difference between the A2 and A3.</text>
 	</string>
 	<string id="enc_arsenal_m16a4">
-		<text>The A4 is the latest iteration of the M16/AR rifle that serves as the current service rifle of the US Army. The A4 is basically an improved A2, having the same design revisions but with the addition of a Picatinny rail system so that a wide range of optical scopes (or other similar equipment) can be attached to the rifle.</text>
+		<text>The A4 is the latest iteration of the M16/AR rifle that serves as the current service rifle of the US Army. The A4 is basically an improved A2, having the same design revisions but with the addition of a Weaver rail system so that a wide range of optical scopes (or other similar equipment) can be attached to the rifle.</text>
 	</string>
 	<string id="enc_arsenal_vz58">
 		<text>The vz. 58 is an assault rifle of Czech design, and one of the more unique weapons that originally comes from the Warsaw Pact - it uses 7.62x39mm, but it's not a derivative of the Kalashnikov in any way besides that. Don't let the vz. 58's resemblance to the Kalashnikov fool you - it is an entirely unique design, sharing no parts with the AK-47/AKM.</text>
@@ -577,7 +577,7 @@
 		<text>The German HK MP5 submachine gun (in this case, the MP5A2 version that comes with a fixed buttstock) has been adopted by many law enforcement agencies around the world. The MP5 owes its success to its features, such as excellent reliability, ease of handling, and high accuracy. HK's marketing division has capitalized on the strengths of the MP5 to sell it, which has made the MP5 an incredibly popular submachine gun.</text>
 	</string>
 	<string id="enc_arsenal_acog">
-		<text>The ACOG is a 4x telescopic sight meant for NATO rifles that use the Picatinny rail system.</text>
+		<text>The ACOG is a 4x telescopic sight meant for NATO rifles that use the Weaver rail system.</text>
 	</string>
 	<string id="enc_arsenal_aug_a1_scope">
 		<text>A original Steyr AUG rifle scope. These are manufactured by Swarovski.</text>
