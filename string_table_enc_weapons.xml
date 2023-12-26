@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="Ammo">
-		<text>Боеприпасы</text>
+		<text>Ammunition (start here for your first session on 12/26/23 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ammo-11.43x23-fmj">
 		<text>Патроны .45ACP</text>
