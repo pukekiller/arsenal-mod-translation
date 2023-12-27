@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="Ammo">
-		<text>Ammunition (start here for your first session on 12/26/23 and don't forget to remove this reminder when you start)</text>
+		<text>Ammunition</text>
 	</string>
 	<string id="ammo-11.43x23-fmj">
-		<text>Патроны .45ACP</text>
+		<text>.45 ACP rounds</text>
 	</string>
 	<string id="ammo-11.43x23-fmj_s">
-		<text>.45ACP</text>
+		<text>.45 ACP (start here for your second session on 12/27/23 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ammo-11.43x23-hydro">
 		<text>.45ACP Гидрошок</text>
