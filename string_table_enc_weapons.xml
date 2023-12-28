@@ -19,13 +19,13 @@
 		<text>12x70 Buckshot rounds</text>
 	</string>
 	<string id="ammo-12x70-buck_s">
-		<text>12x70 Buckshot (start here for your second session on 12/28/23 and don't forget to remove this reminder when you start)</text>
+		<text>12x70 Buckshot</text>
 	</string>
 	<string id="ammo-12x76-dart">
-		<text>Патроны 12x76 дротик</text>
+		<text>12x76 Dart rounds</text>
 	</string>
 	<string id="ammo-12x76-dart_s">
-		<text>12x76 дт.</text>
+		<text>12x76 Dart (start here for your first session on 12/28/23 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ammo-12x76-zhekan">
 		<text>Патроны 12x76 жекан</text>
