@@ -31,13 +31,13 @@
 		<text>12x76 Slug rounds</text>
 	</string>
 	<string id="ammo-12x76-zhekan_s">
-		<text>12x76 Slug (start here for your second session on 12/30/23 and don't forget to remove this reminder when you start)</text>
+		<text>12x76 Slug</text>
 	</string>
 	<string id="ammo-5.45x39-ap">
-		<text>Патроны 5,45x39 мм БП</text>
+		<text>5.45x39mm AP rounds</text>
 	</string>
 	<string id="ammo-5.45x39-ap_s">
-		<text>5,45 БП</text>
+		<text>5.45x39mm AP (start here for your first session on 12/30/23 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ammo-5.45x39-fmj">
 		<text>Патроны 5,45x39 мм</text>
