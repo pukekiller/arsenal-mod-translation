@@ -34,10 +34,10 @@
 		<text>12x76 Slug</text>
 	</string>
 	<string id="ammo-5.45x39-ap">
-		<text>5.45x39mm AP rounds</text>
+		<text>5.45x39mm BP rounds</text>
 	</string>
 	<string id="ammo-5.45x39-ap_s">
-		<text>5.45x39mm AP</text>
+		<text>5.45x39mm BP</text>
 	</string>
 	<string id="ammo-5.45x39-fmj">
 		<text>5.45x39mm FMJ rounds</text>
@@ -67,13 +67,13 @@
 		<text>7.62x54mm 7N14 rounds</text>
 	</string>
 	<string id="ammo-7.62x54-7h14_s">
-		<text>7.62x54mm 7N14 (start here for your second session on 1/2/24 and don't forget to remove this reminder when you start)</text>
+		<text>7.62x54mm 7N14</text>
 	</string>
 	<string id="ammo-7.62x54-ap">
-		<text>Патроны 7,62x54 мм БП</text>
+		<text>7.62x54mm BP rounds</text>
 	</string>
 	<string id="ammo-7.62x54-ap_s">
-		<text>7,62 БП</text>
+		<text>7.62x54mm BP (start here for your first session on 1/2/23 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ammo-9x18-fmj">
 		<text>Патроны 9х18 мм</text>
