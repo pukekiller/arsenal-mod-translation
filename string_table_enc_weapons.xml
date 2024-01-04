@@ -85,13 +85,13 @@
 		<text>9x18mm +P+ rounds</text>
 	</string>
 	<string id="ammo-9x18-pmm_s">
-		<text>9x18mm +P+ (start here for your first session on 1/3/24 and don't forget to remove this reminder when you start)</text>
+		<text>9x18mm +P+</text>
 	</string>
 	<string id="ammo-9x19-fmj">
-		<text>9х19mm ЦМО</text>
+		<text>9x19mm FMJ rounds</text>
 	</string>
 	<string id="ammo-9x19-fmj_s">
-		<text>9х19 ЦМО</text>
+		<text>9x19mm FMJ (start here for your second session on 1/4/23 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ammo-9x19-pbp">
 		<text>Патроны 9x19mm PBP</text>
