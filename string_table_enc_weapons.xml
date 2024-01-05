@@ -103,13 +103,13 @@
 		<text>9x39mm SP-6 rounds</text>
 	</string>
 	<string id="ammo-9x39-ap_s">
-		<text>9x39mm SP-6 (start here for your second session on 1/5/24 and don't forget to remove this reminder when you start)</text>
+		<text>9x39mm SP-6</text>
 	</string>
 	<string id="ammo-9x39-pab9">
-		<text>Патроны 9х39 мм ПАБ-9</text>
+		<text>9x39mm PAB-9 rounds</text>
 	</string>
 	<string id="ammo-9x39-pab9_s">
-		<text>9х39 ПАБ9</text>
+		<text>9x39mm PAB-9 (start here for your first session on 1/5/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ammo-9x39-sp5">
 		<text>Патроны 9х39 мм СП-5</text>
