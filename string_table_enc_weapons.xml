@@ -118,10 +118,10 @@
 		<text>9x39mm SP-5 (start here for your second session on 1/6/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ammo-gauss">
-		<text>Гаусс-патроны</text>
+		<text>Gauss rifle rounds</text>
 	</string>
 	<string id="ammo-gauss_s">
-		<text>Гаусс</text>
+		<text>Gauss rifle rounds (start here for your first session on 1/6/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ammo-m209">
 		<text>Заряд M209</text>
