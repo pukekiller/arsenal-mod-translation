@@ -139,13 +139,13 @@
 		<text>VOG-25 grenade</text>
 	</string>
 	<string id="ammo-vog-25_s">
-		<text>VOG-25 (start here for your second session on 1/8/24 and don't forget to remove this reminder when you start)</text>
+		<text>VOG-25</text>
 	</string>
 	<string id="ammo-vog-25p">
-		<text>Заряд ВОГ-25P</text>
+		<text>VOG-25P grenade</text>
 	</string>
 	<string id="ammo-vog-25p_s">
-		<text>ВОГ-25P</text>
+		<text>VOG-25P (start here for your first session on 1/8/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-11.43x23-fmj">
 		<text>Базовый патрон для пистолетов Colt M1911A1 и HK USP .45. Простой сердечник, оболочечная пуля.</text>
