@@ -154,10 +154,10 @@
 		<text>This unusual .45 ACP caliber round is comprised of a jacketed soft point bullet with an expanding hollow and a steel core. It is a combination of jacketed expanding soft point and armor piercing bullets, benefiting, from the advantages of both and, suffering from their downsides.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-12x70-buck">
-		<text>Standard 12-gauge round filled with 6 mm shot. Highly lethal at close range. Only suitable for use with smoothbore weapons. (start here for your second session on 1/10/24 and don't forget to remove this reminder when you start)</text>
+		<text>Standard 12-gauge round filled with 6 mm shot. Highly lethal at close range. Only suitable for use with smoothbore weapons.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-12x76-dart">
-		<text>Оперённая пуля, стабилизирующаяся в полёте, что положительно сказывается на точности. Для дробовиков ТОЗ-34, обреза, Winchester 1300, SPAS-12. Увеличенные дальность и бронебойность - эффективен на дальностях до 150 метров.</text>
+		<text>This 12-gauge round contains a dart bullet. Its fins add stability, resulting in increased accuracy. The massive steel body of the bullet can penetrate any body armor. (start here for your first session on 1/10/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-12x76-zhekan">
 		<text>Патрон с тяжёлой безоболочечной пулей. Обычно используется для охоты на крупных животных, но подходит и для других целей. Его тяжёлая пуля не пробивает, а фактически продавливает бронежилеты. Предназначен для дробовиков ТОЗ-34, обреза, Winchester 1300, SPAS-12. Эффективен на дальностях до 100 метров.</text>
