@@ -160,10 +160,10 @@
 		<text>This 12-gauge round contains a dart bullet. Its fins add stability, resulting in increased accuracy. The massive steel body of the bullet can penetrate any body armor.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-12x76-zhekan">
-		<text>This heavy 12-gauge slug round is normally used for hunting big game, but is also good for other purposes. Instead of piercing, this hefty slug simply crushes through armor. (start here for your second session on 1/11/24 and don't forget to remove this reminder when you start)</text>
+		<text>This heavy 12-gauge slug round is normally used for hunting big game, but is also good for other purposes. Instead of piercing, this hefty slug simply crushes through armor.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-5.45x39-ap">
-		<text>Бронебойный патрон для автоматов AК-74С, АКС-74У, АН-94 "Абакан". Улучшенная бронебойная способность пули.</text>
+		<text>Military 5.45x39 7H22 caliber armor-piercing round for automatic rifles of Warsaw Pact countries. The bullet contains a hard-alloy armor piercing penetrator. Effective against body armor. (start here for your first session on 1/11/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-5.45x39-fmj">
 		<text>Стандартный патрон для автоматов AК-74С, АКС-74У, АН-94 "Абакан". Простой сердечник, оболочечная пуля.</text>
