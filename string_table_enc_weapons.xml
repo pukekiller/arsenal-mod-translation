@@ -166,10 +166,10 @@
 		<text>Military 5.45x39 7H22 caliber armor-piercing round for automatic rifles of Warsaw Pact countries. The bullet contains a hard-alloy armor piercing penetrator. Effective against body armor.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-5.45x39-fmj">
-		<text>Military 5.45x39 7H10 caliber improved piercing round for automatic rifles of Warsaw Pact countries. Provides better accuracy than the 7.62 caliber round thanks to reduced recoil and a 100 meter increase in range. (start here for your second session on 1/12/24 and don't forget to remove this reminder when you start)</text>
+		<text>Military 5.45x39 7H10 caliber improved piercing round for automatic rifles of Warsaw Pact countries. Provides better accuracy than the 7.62 caliber round thanks to reduced recoil and a 100 meter increase in range.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-5.56x45-ap">
-		<text>Патрон с бронебойной пулей для штурмовых винтовок L85A2, LR-300, SIG 550, HK G36, FN F2000.</text>
+		<text>A common NATO military 5.56x45 caliber armor piercing round, known under its SS190/M855 designation, widely used by Western security agencies and special services. Effective against body armor. (start here for your first session on 1/12/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-5.56x45-ss190">
 		<text>Стандартный натовский патрон, широко известный под бельгийским индексом SS109. Используется в штурмовых винтовках L85A2, LR-300, SIG 550, HK G36, FN F2000.</text>
