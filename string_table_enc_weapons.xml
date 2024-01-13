@@ -163,10 +163,10 @@
 		<text>This heavy 12-gauge slug round is normally used for hunting big game, but is also good for other purposes. Instead of piercing, this hefty slug simply crushes through armor.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-5.45x39-ap">
-		<text>Military 5.45x39 7H22 caliber armor-piercing round for automatic rifles of Warsaw Pact countries. The bullet contains a hard-alloy armor piercing penetrator. Effective against body armor.</text>
+		<text>Military 5.45x39 7N22 caliber armor-piercing round for automatic rifles of Warsaw Pact countries. The bullet contains a hard-alloy armor piercing penetrator. Effective against body armor.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-5.45x39-fmj">
-		<text>Military 5.45x39 7H10 caliber improved piercing round for automatic rifles of Warsaw Pact countries. Provides better accuracy than the 7.62 caliber round thanks to reduced recoil and a 100 meter increase in range.</text>
+		<text>Military 5.45x39 7N10 caliber improved piercing round for automatic rifles of Warsaw Pact countries. Provides better accuracy than the 7.62 caliber round thanks to reduced recoil and a 100 meter increase in range.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-5.56x45-ap">
 		<text>A common NATO military 5.56x45 caliber armor piercing round, known under its SS190/M855 designation, widely used by Western security agencies and special services. Effective against body armor.</text>
