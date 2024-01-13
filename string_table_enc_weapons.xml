@@ -169,10 +169,10 @@
 		<text>Military 5.45x39 7H10 caliber improved piercing round for automatic rifles of Warsaw Pact countries. Provides better accuracy than the 7.62 caliber round thanks to reduced recoil and a 100 meter increase in range.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-5.56x45-ap">
-		<text>A common NATO military 5.56x45 caliber armor piercing round, known under its SS190/M855 designation, widely used by Western security agencies and special services. Effective against body armor. (start here for your first session on 1/12/24 and don't forget to remove this reminder when you start)</text>
+		<text>A common NATO military 5.56x45 caliber armor piercing round, known under its SS190/M855 designation, widely used by Western security agencies and special services. Effective against body armor.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-5.56x45-ss190">
-		<text>Стандартный натовский патрон, широко известный под бельгийским индексом SS109. Используется в штурмовых винтовках L85A2, LR-300, SIG 550, HK G36, FN F2000.</text>
+		<text>A standard issue NATO 5.56x45 caliber round specially designed for accurate automatic fire. Provides good ballistic characteristics, having been designed on the basis of a hunting round. Widely known under its SS109 designation. (start here for your second session on 1/13/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-7.62x54-7h1">
 		<text>Дешёвая в изготовлении модификация снайперского патрона для снайперских винтовок СВД, СВУ.</text>
