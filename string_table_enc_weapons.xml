@@ -184,10 +184,10 @@
 		<text>A 7.62 caliber high precision armor-piercing sniper round.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-9x18-fmj">
-		<text>A full metal jacket round with a steel penetrator and a lead core under a metal jacket. Provides good stopping power but is ineffective against body armor. (start here for your second session on 1/15/24 and don't forget to remove this reminder when you start)</text>
+		<text>A full metal jacket round with a steel penetrator and a lead core under a metal jacket. Provides good stopping power but is ineffective against body armor.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-9x18-pmm">
-		<text>Патрон с улучшенными баллистическими характеристиками для пистолетов ПМ, ПБ, Форт-12. За счёт более высокой начальной скорости пули намного эффективнее обычного патрона. Более выраженный бронебойный эффект.</text>
+		<text>This round contains a bullet with enhanced stopping power, while its European +P+ designation indicates "overpressure ammunition" with a 30% increase in muzzle velocity. Ineffective against body armor. (start here for your first session on 1/15/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-9x19-fmj">
 		<text>Базовый патрон для пистолета Walther P99 и пистолета-пулемета HK MP5. Оболочечная пуля. Слабое бронебойное действие.</text>
