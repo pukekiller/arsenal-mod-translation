@@ -94,10 +94,10 @@
 		<text>9x19mm FMJ</text>
 	</string>
 	<string id="ammo-9x19-pbp">
-		<text>9x19mm PBP rounds</text>
+		<text>9x19mm JHP rounds</text>
 	</string>
 	<string id="ammo-9x19-pbp_s">
-		<text>9x19mm PBP</text>
+		<text>9x19mm JHP</text>
 	</string>
 	<string id="ammo-9x39-ap">
 		<text>9x39mm SP-6 rounds</text>
@@ -190,10 +190,10 @@
 		<text>This round contains a bullet with enhanced stopping power, while its European +P+ designation indicates "overpressure ammunition" with a 30% increase in muzzle velocity. Ineffective against body armor.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-9x19-fmj">
-		<text>This basic 9x19 caliber round with a jacketed bullet has good characteristics while being simple to produce. The round is popular due to the fact that international conventions prohibit the use of expanding ammunition in combat. Ineffective against body armor. (start here for your second session on 1/16/24 and don't forget to remove this reminder when you start)</text>
+		<text>This basic 9x19 caliber round with a jacketed bullet has good characteristics while being simple to produce. The round is popular due to the fact that international conventions prohibit the use of expanding ammunition in combat. Ineffective against body armor.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-9x19-pbp">
-		<text>Патрон с улучшенными характеристиками для пистолета Walther P99 и пистолета-пулемета HK MP5. Мощный патрон с экспансивной пулей и бронебойным сердечником.</text>
+		<text>This 9x19 caliber jacketed hollow point bullet with an expanding hollow provides high stopping power and low ricochet propensity. Used by police and for self-defense. Ineffective against body armor due to its low penetration potential. (start here for your first session on 1/16/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-9x39-ap">
 		<text>Бронебойный патрон для автоматов "Гроза", "ВАЛ" и специальной снайперской винтовки "Винторез". Имеет дозвуковую скорость полёта, но за счёт пули особой конструкции пробивает большинство бронежилетов на дальностях до 400 метров.</text>
