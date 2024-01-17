@@ -196,10 +196,10 @@
 		<text>This 9x19 caliber jacketed hollow point bullet with an expanding hollow provides high stopping power and low ricochet propensity. Used by police and for self-defense. Ineffective against body armor due to its low penetration potential.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-9x39-ap">
-		<text>The SP-6 is a subsonic assault rifle round with a jacketed soft point bullet with a hard steel core that protrudes from the casing. Requires a silencer for stealth firing. Used by special services of Warsaw Pact countries. Effective against body armor. (start here for your second session on 1/17/24 and don't forget to remove this reminder when you start)</text>
+		<text>The SP-6 is a subsonic assault rifle round with a jacketed soft point bullet with a hard steel core that protrudes from the casing. Requires a silencer for stealth firing. Used by special services of Warsaw Pact countries. Effective against body armor.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-9x39-pab9">
-		<text>Патрон для автоматов "Гроза", "ВАЛ" и специальной снайперской винтовки "Винторез". Более поздняя и дешёвая в изготовлении модификация бронебойного патрона. Имеет дозвуковую скорость полёта, но за счёт пули особой конструкции пробивает большинство бронежилетов на дальностях до 300 метров.</text>
+		<text>The PAB-9 is a subsonic assault rifle round that was developed as a cheaper alternative to the SP-5 and SP-6 rounds. It has a special design that allows it to penetrate most bulletproof vests at a range of up to 300 meters. (start here for your first session on 1/17/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-9x39-sp5">
 		<text>Снайперский патрон для автоматов "Гроза", "ВАЛ" и специальной снайперской винтовки "Винторез". Имеет дозвуковую скорость полета, но за счёт тяжёлой пули особой конструкции пробивает большинство бронежилетов на дальностях до 400 метров.</text>
