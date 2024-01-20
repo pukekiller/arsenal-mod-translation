@@ -211,10 +211,10 @@
 		<text>40mm grenade for the M203 underbarrel grenade launcher. This round has a 5 meter kill zone.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-og-7b">
-		<text>A high-explosive, rocket propelled grenade for the RPG-7. It is equally effective against troops and lightly armored vehicles. (start here for your first session on 1/19/24 and don't forget to remove this reminder when you start)</text>
+		<text>A high-explosive, rocket propelled grenade for the RPG-7. It is equally effective against troops and lightly armored vehicles.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-vog-25">
-		<text>Стандартная граната для подствольного гранатомета ГП-25 "Костёр", интегрированного подствольника у "Грозы" и револьверного гранатомета РГ-6.</text>
+		<text>A grenade for the GP-25 Kostyor grenade launcher, the integrated grenade launcher of the Groza, and the RG-6 revolver grenade launcher. (start here for your second session on 1/20/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-vog-25p">
 		<text>Граната для подствольного гранатомета ГП-25 "Костёр", интегрированного подствольника у "Грозы" и револьверного гранатомета РГ-6. Перед взрывом граната подпрыгивает на высоту около метра, что увеличивает её поражающее действие.</text>
