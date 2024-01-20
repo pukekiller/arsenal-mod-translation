@@ -214,10 +214,10 @@
 		<text>A high-explosive, rocket propelled grenade for the RPG-7. It is equally effective against troops and lightly armored vehicles.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-vog-25">
-		<text>A grenade for the GP-25 Kostyor grenade launcher, the integrated grenade launcher of the Groza, and the RG-6 revolver grenade launcher. (start here for your second session on 1/20/24 and don't forget to remove this reminder when you start)</text>
+		<text>A grenade for the GP-25 Kostyor grenade launcher, the integrated grenade launcher of the Groza, and the RG-6 revolver grenade launcher.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-vog-25p">
-		<text>Граната для подствольного гранатомета ГП-25 "Костёр", интегрированного подствольника у "Грозы" и револьверного гранатомета РГ-6. Перед взрывом граната подпрыгивает на высоту около метра, что увеличивает её поражающее действие.</text>
+		<text>A improved grenade for the GP-25 Kostyor grenade launcher, the integrated grenade launcher of the Groza, and the RG-6 revolver grenade launcher. Before the VOG-25R explodes, it leaps up about one meter into the air, increasing its effectiveness. (start here for your first session on 1/20/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_grenade-f1">
 		<text>Ручная оборонительная граната с большим радиусом поражения осколками. Бросать рекомендуется только из укрытия.</text>
