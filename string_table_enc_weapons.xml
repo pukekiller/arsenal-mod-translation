@@ -307,19 +307,19 @@
 		<text>A modified model of a pistol from the first half of the 20th century, which is as reliable, powerful and accurate as the original. Pistols of this series deserve their reputation as one of the best handguns of the 20th century and are in great demand in the Zone.</text>
 	</string>
 	<string id="enc_weapons1_wpn-knife">
-		<text>Охотничий нож</text>
+		<text>Knife</text>
 	</string>
 	<string id="enc_weapons1_wpn-l85">
-		<text>После того, как эта винтовка была заменена армией Великобритании на немецкую G36, она в большом количестве всплыла на чёрном рынке, а затем и в Зоне. Главным достоинством L85A2 являются штатный 4-кратный прицел и высокая точность первого выстрела. При стрельбе очередями точность боя резко падает, а надёжность основных механизмов винтовки недостаточно высока.\n Боеприпасы:\n обычный 5,56x45 мм SS109,\n бронебойный 5,56x45 мм АР.</text>
+		<text>This rifle's considerable number of drawbacks caused most of these weapons to be modernized, with the retired stock making its way to the Zone via the black market. The rifle's main advantages are its built-in 4x scope, high single-shot accuracy and reliable upgrade technology. When the weapon is fired in bursts, its accuracy decreases significantly and the rifle's basic internal mechanisms become somewhat unreliable.</text>
 	</string>
 	<string id="enc_weapons1_wpn-l85_m1">
-		<text>С помощью нескольких модификаций удалось уменьшить эффект подкидывания ствола.</text>
+		<text>This L85 has been improved with a with a few modifications, giving it a better recoil impulse and better reliability.</text>
 	</string>
 	<string id="enc_weapons1_wpn-l85_m2">
-		<text>Оружие снабжено интегрированным глушителем. Многие детали заменены на более легкие аналоги, что существенно уменьшает вес оружия.</text>
+		<text>This L85 comes with an integrated silencer. Many of its parts have been replaced with lighter ones, which makes the weapon significantly lighter.</text>
 	</string>
 	<string id="enc_weapons1_wpn-lr300">
-		<text>Автоматический карабин на основе M4 с дальностью эффективного огня до 300 метров. Благодаря исключительно ровному спуску, высокой эргономике и небольшому весу данное оружие отличается высокой точностью боя, хотя высокая чувствительность к загрязнению делает её не всегда пригодной для использования в сложных полевых условиях.\n Боеприпасы:\n обычный 5,56x45 мм SS109,\n бронебойный 5,56x45 мм АР.</text>
+		<text>A new step in the development of the M16's family weapon family. The changes were made to the upper half of the steel construction comprising the barrel, gas tube and bolt assembly, reducing the weapon's weight, improving ergonomics and its gas system. The weapon is highly accurate, although its propensity to catch dirt makes it a poor choice for the Zone's difficult conditions. (start here for your first session on 1/21/24 and don't forget to remov this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_wpn-lr300_m1">
 		<text>Модификация штурмового оружия под стрельбу одиночными выстрелами. Предполагалось, что она будет использоваться, как дешевый аналог снайперской винтовки.</text>
