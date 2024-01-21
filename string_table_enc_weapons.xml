@@ -268,13 +268,13 @@
 		<text>Beretta pistols enjoy the reputation of a relatively reliable, albeit somewhat cumbersome weapon, around the world. In service with armed forces and police across the ocean, as well as various military and law enforcement organizations worldwide. The pistol is equally popular with members of the underworld, thanks to its powerful round and magazine capacity. Berettas found in the Zone are usually dated, probably from retired stock.</text>
 	</string>
 	<string id="enc_weapons1_wpn-bm16">
-		<text>A sawed-off TOZ-66 hunting shotgun with two side-by-side barrels, making it lighter and more compact than a full shotgun. One of the most popular weapons among bandits due to its combination of ease of concealment and extreme effectiveness in close combat. (start here for your second session on 1/21/24 and don't forget to remove this reminder when you start)</text>
+		<text>A sawed-off TOZ-66 hunting shotgun with two side-by-side barrels, making it lighter and more compact than a full shotgun. One of the most popular weapons among bandits due to its combination of ease of concealment and extreme effectiveness in close combat.</text>
 	</string>
 	<string id="enc_weapons1_wpn-colt_m1">
-		<text>Оружие наемных убийц. Старый добрый надежный кольт, снабженный несъемным глушителем.</text>
+		<text>A weapon for hired assassins. This reliable Colt M1911 pistol comes with a non-replaceable silencer.</text>
 	</string>
 	<string id="enc_weapons1_wpn-colt1911">
-		<text>Классический автоматический "кольт", с честью прошедший все вооружённые конфликты XX века и уверенно вошедший в новое столетие. Невысокая ёмкость магазина в определённой степени компенсируется использованием мощного патрона.\n Боеприпасы:\n обычный .45 ACP,\n улучшенный .45 ACP Гидрошок.</text>
+		<text>A classic automatic pistol, which passed all the major armed conflicts of the 20th century with flying colors and entered the new millennium with confidence. Produced by dozens if not hundreds of arms manufacturers around the world in both standard and modified configurations. The weapon's only drawback, its mediocre magazine capacity, is largely compensated by the hard-hitting ammo it uses. (start here for your second session on 1/21/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_wpn-desert-eagle">
 		<text>Настоящая пушка для настоящих героев. Большая, тяжелая и чрезвычайно убойная. Из-за цены и габаритов особой популярностью в Зоне не пользуется, все таки не каждый день охотишься на слона.\n Боеприпасы:\n обычный .45 ACP,\n улучшенный .45 ACP Гидрошок.</text>
