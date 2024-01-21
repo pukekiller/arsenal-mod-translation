@@ -238,7 +238,7 @@
 		<text>This machine gun has an grenade launcher installed under the barrel - making it an incredibly useful weapon in the Zone.</text>
 	</string>
 	<string id="enc_weapons1_wpn-addon-grenade-launcher">
-		<text>This revolver-type grenade launcher uses six rifled front-loading barrels, identical to underbarrel launcher attachments. The drum is also front-loading. Widely used for rapid suppression of enemy firing position and, when in the open, attacking defended fixed targets or fighting particularly tough monsters.</text>
+		<text>A single shot, front loaded, rifled underbarrel grenade launcher for assault rifles made in Warsaw Pact countries. The firing mechanism is self-cocking, with a manual safety catch and automatic shot prevention if incorrectly installed onto a rifle. Uses VOG-25 grenades.</text>
 	</string>
 	<string id="enc_weapons1_wpn-addon-grenade-launcher-m203">
 		<text>A modified M203 grenade launcher that has been shortened by three inches, attached to weapons by means of a Picatinny Rail. Thanks to a changed mount, this grenade launcher is widely used around the world.</text>
@@ -319,34 +319,34 @@
 		<text>This L85 comes with an integrated silencer. Many of its parts have been replaced with lighter ones, which makes the weapon significantly lighter.</text>
 	</string>
 	<string id="enc_weapons1_wpn-lr300">
-		<text>A new step in the development of the M16's family weapon family. The changes were made to the upper half of the steel construction comprising the barrel, gas tube and bolt assembly, reducing the weapon's weight, improving ergonomics and its gas system. The weapon is highly accurate, although its propensity to catch dirt makes it a poor choice for the Zone's difficult conditions. (start here for your first session on 1/21/24 and don't forget to remov this reminder when you start)</text>
+		<text>A new step in the development of the M16's family weapon family. The changes were made to the upper half of the steel construction comprising the barrel, gas tube and bolt assembly, reducing the weapon's weight, improving ergonomics and its gas system. The weapon is highly accurate, although its propensity to catch dirt makes it a poor choice for the Zone's difficult conditions.</text>
 	</string>
 	<string id="enc_weapons1_wpn-lr300_m1">
-		<text>Модификация штурмового оружия под стрельбу одиночными выстрелами. Предполагалось, что она будет использоваться, как дешевый аналог снайперской винтовки.</text>
+		<text>A modified LR-300. It can only fire in semi-auto, but it has better accuracy. It can be assumed that this weapon was going to be used as a cheap analog for a sniper rifle.</text>
 	</string>
 	<string id="enc_weapons1_wpn-mp5">
-		<text>Одно из самых лучших в классе пистолетов-пулеметов оружие. В течение последних десятилетий XX века был принят на вооружение спецподразделений армии и полиции во многих странах мира. С началом постепенной его замены более современными моделями стал часто появляться на чёрном рынке, откуда массово попал и в Зону.\n Боеприпасы:\n основной 9х19 мм Парабеллум,\n улучшенный 9х19 мм PBP.</text>
+		<text>This submachine gun has gained popularity around the world thanks to its reliability, ease of use and accuracy. Over the last few decades the MP5 was in service with special armed forces and police units worldwide. Not surprisingly, having flooded the global black markets, it eventually made its way to the Zone.</text>
 	</string>
 	<string id="enc_weapons1_wpn-mp5_m1">
-		<text>Легкий, компактный, а теперь еще и переделанный под распространенный калибр, этот пистолет-пулемет является настоящей находкой для начинающих сталкеров.</text>
+		<text>Light, compact, and rechambered to accept the more widespread 9x18mm round, this submachinegun is a great find for novice stalkers.</text>
 	</string>
 	<string id="enc_weapons1_wpn-mp5_m2">
-		<text>Модификация базовой модели. Интегрирован несъемный глушитель.</text>
+		<text>A modified variant of the MP5 that has a non-replaceable silencer attached.</text>
 	</string>
 	<string id="enc_weapons1_wpn-pb">
-		<text>Пистолет с интегрированным глушителем, некогда использовавшийся советским спецназом. Морально устарел, но в умелых руках по-прежнему довольно эффективен.\n Боеприпасы:\n основной 9х18 мм,\n улучшенный 9х18 мм +P+.</text>
+		<text>This pistol was developed in the second half of the 20th century on the basis of the Makarov PM for use by special forces and scouting units. The front of the pistol's barrel is covered with an integrated silencer, while the bolt mechanism is short, which prevents a back-moving spring from being located inside it, and it is therefore situated in the weapon's handle. Morally obsolete, the weapon is still effective in the right hands.</text>
 	</string>
 	<string id="enc_weapons1_wpn-pm">
-		<text>Наиболее распространённый в зоне пистолет - наследие советской эпохи. Достаточно надёжный и дешёвый, отличается невысокой ёмкостью магазина при недостаточной мощности и неудовлетворительной кучности патрона. Основное оружие сталкера-новичка.\n Боеприпасы:\n основной 9х18 мм,\n улучшенный 9х18 мм +P+.</text>
+		<text>This Soviet legacy is the most common pistol in the Zone and is one of the best compact self-defense handguns available. It is small, highly reliable, easy to use and maintain in working order. It also suffers from several drawbacks, including its short range, low firing accuracy and poor stopping power, while also losing out to modern pistols in its class in terms of weight and magazine size.</text>
 	</string>
 	<string id="enc_weapons1_wpn-rg-6">
-		<text>Гранатомет револьверного типа. Иногда просто незаменим, в частности при очистке больших площадей от мутантов, нападении на охраняемые стационарные объекты, в бою с особо живучими тварями.\n Боеприпасы - граната ВОГ-25,\n и граната ВОГ-25P.</text>
+		<text>This revolver-type grenade launcher uses six rifled front-loading barrels, identical to underbarrel launcher attachments. The drum is also front-loading. Widely used for rapid suppression of enemy firing position and, when in the open, attacking defended fixed targets or fighting particularly tough monsters.</text>
 	</string>
 	<string id="enc_weapons1_wpn-rg6_m1">
-		<text>Модификация револьверного гранатомета. Данная модель приспособлена для ведения огня гранатами западного образца.</text>
+		<text>A variant of the RG-6 revolver-type grenade launcher. It has been modified to use M209 rounds instead of the VOG-25 round.</text>
 	</string>
 	<string id="enc_weapons1_wpn-rpg7">
-		<text>Гранатомет образца 1960-х, в огромном количестве оставшийся на армейских складах, откуда и попал в Зону. Редкое для сталкеров оружие: внушительные габариты и большой вес делают его не слишком популярным, хотя для некоторых заданий он просто незаменим.\n Боеприпасы - ОГ-7B.</text>
+		<text>This grenade launcher from the 1960s made its way into the Zone from army depots. The weapon is a smoothbore single-shot recoilless launch system with an open-rear tube. Comes with a PGO-7 x2.7 optical scope. Although its huge size and weight make it an unlikely choice for stalkers, given its huge destructive power and ease of use, it has found admirers in the Zone.</text>
 	</string>
 	<string id="enc_weapons1_wpn-sig_m1">
 		<text>Оружие создавалось для ведения боев в условиях города. Чтобы облегчить вес, были убраны или заменены некоторые компоненты. В результате на оружие больше нельзя повесить ни прицел, ни подствольный гранатомет. Зато и вес снизился почти вдвое.</text>
