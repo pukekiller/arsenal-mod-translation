@@ -274,37 +274,37 @@
 		<text>A weapon for hired assassins. This reliable Colt M1911 pistol comes with a non-replaceable silencer.</text>
 	</string>
 	<string id="enc_weapons1_wpn-colt1911">
-		<text>A classic automatic pistol, which passed all the major armed conflicts of the 20th century with flying colors and entered the new millennium with confidence. Produced by dozens if not hundreds of arms manufacturers around the world in both standard and modified configurations. The weapon's only drawback, its mediocre magazine capacity, is largely compensated by the hard-hitting ammo it uses. (start here for your second session on 1/21/24 and don't forget to remove this reminder when you start)</text>
+		<text>A classic automatic pistol, which passed all the major armed conflicts of the 20th century with flying colors and entered the new millennium with confidence. Produced by dozens if not hundreds of arms manufacturers around the world in both standard and modified configurations. The weapon's only drawback, its mediocre magazine capacity, is largely compensated by the hard-hitting ammo it uses.</text>
 	</string>
 	<string id="enc_weapons1_wpn-desert-eagle">
-		<text>Настоящая пушка для настоящих героев. Большая, тяжелая и чрезвычайно убойная. Из-за цены и габаритов особой популярностью в Зоне не пользуется, все таки не каждый день охотишься на слона.\n Боеприпасы:\n обычный .45 ACP,\n улучшенный .45 ACP Гидрошок.</text>
+		<text>The ultimate hand cannon - bulky, heavy and highly lethal. Developed as a specialized weapon for hunting medium-sized and large game, as well as for shooting competitions involving firing at steel body targets at distances over 50 meters. Its limited use in the Zone can be attributed to its price, size and weight, which are all double those of other pistols.</text>
 	</string>
 	<string id="enc_weapons1_wpn-eagle_m1">
-		<text>И без того мощный пистолет переработан под винтовочный патрон. Поистине убийственная штука для ближнего боя.</text>
+		<text>A gun that is already powerful, reworked to fit rifle bullets. Truly a killing machine for close-range combat.</text>
 	</string>
 	<string id="enc_weapons1_wpn-fn2000">
-		<text>Автоматно-гранатометный комплекс с компьютеризованным прицелом-модулем управления огнем и 40-миллиметровым гранатомётом.\n Боеприпасы:\n обычный 5,56x45 мм SS109,\n бронебойный 5,56x45 мм АР.</text>
+		<text>This futuristic-looking weapon with a bullpup layout is actually a mass produced modular system, comprising a rifle grenade complex with a computerized fire control system and a 40-mm grenade launcher. Despite its bulky appearance, the weapon is highly ergonomic, easy to use and benefits from good technical characteristics.</text>
 	</string>
 	<string id="enc_weapons1_wpn-fort">
-		<text>Пистолет полицейского назначения украинского производства, пришедший на смену ПМ. Обладает лучшими по сравнению с последним точностью боя, эргономикой и более вместительным магазином, однако менее надёжен.\n Боеприпасы:\n основной 9х18 мм,\n улучшенный 9х18 мм +P+.</text>
+		<text>A Ukranian-made pistol predominantly used by law enforcement organizations. Provides higher accuracy, better ergonomics and has a larger magazine than the Makarov PM. These pistols make it into the Zone in large numbers thanks to the sale of defective weapons, which suffer from technical miscalculations in early design models. Despite this, the pistol is in demand among stalkers thanks to its good combat characteristics.</text>
 	</string>
 	<string id="enc_weapons1_wpn-fort_m1">
-		<text>Новая модель пистолета Форт. Больше и мощнее предыдущей модели, увеличена ёмкость магазина за счёт применения магазина типа Glock.</text>
+		<text>This Fort pistol is a experimental prototype. It's larger and more powerful than its predecessor, and it has a larger magazine capacity due to the fact that its magazine design is inspired by the Glock's.</text>
 	</string>
 	<string id="enc_weapons1_wpn-g36">
-		<text>Штурмовая винтовка немецкого производства, представляющая собой первоклассный образец современного оружия - лёгкого, надёжного и эргономичного.\n Боеприпасы:\n обычный 5,56x45 мм SS109,\n бронебойный 5,56x45 мм АР.</text>
+		<text>A new addition to the Western-made assault rifle family, which differs significantly from previous models in the series built on an automatic foundation with a semi-open bolt assembly, this weapon is more like American automatic gas-operated assault rifles with a short-stroke gas piston system. These changes ensure that the rifle is a first-rate example of a modern weapon - lightweight, reliable and ergonomic.</text>
 	</string>
 	<string id="enc_weapons1_wpn-gauss">
-		<text>Сверхточное оружие, которое собрали конструкторы в Зоне. Работает почти бесшумно, поскольку для стрельбы используется энергия артефактов, а не пороховых газов. Несмотря на коллосальную мощность выстрела, отдача у гаусс-пушки очень невелика. По точности и убойной силе превосходит любое классическое стрелковое оружие.\n Боеприпасы - 2-миллиметровые гаусс-патроны.</text>
+		<text>A super-accurate high-tech weapon, this rifle was developed in secret laboratories located inside the Zone. The weapon operates by accelerating bullets to extremely high speeds using a system of electromagnets, which provides incredible stopping power with virtually no recoil. The weapon is powered by using encapsulated artifact fragments in the batteries.</text>
 	</string>
 	<string id="enc_weapons1_wpn-groza">
-		<text>Автоматно-гранатомётный комплекс - очень удачный в условиях Зоны вариант штурмовой винтовки: компактный, надёжный, и в то же время универсальный и мощный. "Грозу" очень любят военные сталкеры.\n Боеприпасы:\n обычный 9x39 мм ПАБ-9,\n бронебойный 9x39 мм СП-6,\n снайперский 9х39 мм СП-5,\n для подствольника - гранаты ВОГ-25 и ВОГ-25Р.</text>
+		<text>This assault rifle combined with a grenade launcher, which is similar to the AK series, was specifically developed for rapid response units. The main differences are its 9x39 caliber ammunition, bullpup layout and extensive configuration options. This weapon is highly valued by military stalkers due to its ability to kill enemies wearing body armor behind improvised cover at a distance during urban combat, as well as its excellent stopping power.</text>
 	</string>
 	<string id="enc_weapons1_wpn-groza_m1">
-		<text>Данный ствол - отличная работа одного из сталкеров-умельцев, которому удалось переделать винтовку под более распространенный патрон 5,45 мм.</text>
+		<text>This Groza has been modified to use 5.45mm rounds. Rechambering a rifle like this would take talent; one of the stalker craftsmen who lives in the Zone was able to rechamber this weapon so that it accepts the more common 5.45mm round.</text>
 	</string>
 	<string id="enc_weapons1_wpn-hpsa">
-		<text>Это оружие заслуженно считается одним из лучших пистолетов XX века. Надежный, мощный, с хорошей кучностью стрельбы. Емкость магазина 13 патронов.\n Боеприпасы:\n основной 9х19 мм Парабеллум,\n улучшенный 9х19 мм PBP.</text>
+		<text>A modified model of a pistol from the first half of the 20th century, which is as reliable, powerful and accurate as the original. Pistols of this series deserve their reputation as one of the best handguns of the 20th century and are in great demand in the Zone.</text>
 	</string>
 	<string id="enc_weapons1_wpn-knife">
 		<text>Охотничий нож</text>
