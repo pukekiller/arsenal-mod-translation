@@ -217,49 +217,49 @@
 		<text>A grenade for the GP-25 Kostyor grenade launcher, the integrated grenade launcher of the Groza, and the RG-6 revolver grenade launcher.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-vog-25p">
-		<text>A improved grenade for the GP-25 Kostyor grenade launcher, the integrated grenade launcher of the Groza, and the RG-6 revolver grenade launcher. Before the VOG-25R explodes, it leaps up about one meter into the air, increasing its effectiveness. (start here for your first session on 1/20/24 and don't forget to remove this reminder when you start)</text>
+		<text>A improved grenade for the GP-25 Kostyor grenade launcher, the integrated grenade launcher of the Groza, and the RG-6 revolver grenade launcher. Before the VOG-25R explodes, it leaps up about one meter into the air, increasing its effectiveness.</text>
 	</string>
 	<string id="enc_weapons1_grenade-f1">
-		<text>Ручная оборонительная граната с большим радиусом поражения осколками. Бросать рекомендуется только из укрытия.</text>
+		<text>A defensive hand grenade, with fragments capable of piercing medium level body armor. The grenade has a 7 meter kill radius. Stalkers get F1 grenades from trading with the military, who write them off as having been used for fighting mutants.</text>
 	</string>
 	<string id="enc_weapons1_grenade-gd05">
-		<text>Ручная дымовая граната. Предназначена для установки дымового прикрытия. Время действия - 10 секунд.</text>
+		<text>A smoke grenade; smoke grenades are excellent for visual cover - the smoke they emit makes it hard for anyone to see you. It'll emit smoke for about 10 seconds.</text>
 	</string>
 	<string id="enc_weapons1_grenade-rgd5">
-		<text>Наступательная ручная граната с небольшим радиусом поражения осколками.</text>
+		<text>An offensive hand grenade with a small kill zone of 5 meters. Often used by stalkers to "smoke out" mutants due to its relatively low cost.</text>
 	</string>
 	<string id="enc_weapons1_wpn-abakan">
-		<text>Оружие элитных войск советской армии. Был разработан в качестве замены устаревшему АК-74. В "Абакане" подвижны не только внутренние механизмы, но и вся ствольная коробка вместе со стволом, что позволяет снизить отдачу, тем самым значительно повысив точность боя.\n Боеприпасы:\n обычный 5,45x39 мм,\n бронебойный 5,45x39 мм БП.</text>
+		<text>A modern assault rifle developed as a replacement for the aging AK-74. The main difference is its high speed 2-round burst firing mode, which allows two bullets to be fired at exactly the same spot on a target up to 100 meters away. This significantly increases the likelihood of hitting the target in comparison to the 1 round firing mode, which considerably improves kill potential, stopping power and armor piercing capability.</text>
 	</string>
 	<string id="enc_weapons1_wpn-abakan_m1">
-		<text>Автомат, снабженный модифицированным оптическим прицелом для ведения снайперского огня. Вмонтированная в корпус оптика обладает большей кратностью, чем стандартные прицелы.</text>
+		<text>Machine gun supplied with a modified optic sight for carrying out sniper fire. The optics embedded into the body of the weapon has a higher resolution than the standard model.</text>
 	</string>
 	<string id="enc_weapons1_wpn-abakan_m2">
-		<text>Данный автомат снабжен интегрированным подствольным гранатометом, что делает эту модель еще более универсальным оружием.</text>
+		<text>This machine gun has an grenade launcher installed under the barrel - making it an incredibly useful weapon in the Zone.</text>
 	</string>
 	<string id="enc_weapons1_wpn-addon-grenade-launcher">
-		<text>Подствольный гранатомет для автоматов, используемых в странах Варшавского договора. \n Боеприпасы - граната ВОГ-25\n и граната ВОГ-25P.</text>
+		<text>This revolver-type grenade launcher uses six rifled front-loading barrels, identical to underbarrel launcher attachments. The drum is also front-loading. Widely used for rapid suppression of enemy firing position and, when in the open, attacking defended fixed targets or fighting particularly tough monsters.</text>
 	</string>
 	<string id="enc_weapons1_wpn-addon-grenade-launcher-m203">
-		<text>Подствольный гранатомет для винтовок НАТО.\n Боеприпасы - 40мм гранаты M209.</text>
+		<text>A modified M203 grenade launcher that has been shortened by three inches, attached to weapons by means of a Picatinny Rail. Thanks to a changed mount, this grenade launcher is widely used around the world.</text>
 	</string>
 	<string id="enc_weapons1_wpn-addon-scope">
-		<text>Широко распространённый оптический прицел советского производства. Для установки на оружие используется стандартное для стран Варшавского договора крепление типа "ласточкин хвост".</text>
+		<text>A common Soviet-made 5.0x fixed zoom optical scope with a range scale. Attached to weapons by means of a dovetail mount, which is standard in Warsaw Pact countries.</text>
 	</string>
 	<string id="enc_weapons1_wpn-addon-scope-susat">
-		<text>Оптический 4-кратный прицел, производимый в странах НАТО. Устанавливается на стандартное натовское крепление - так называемую планку Пикатинни.</text>
+		<text>A 4x fixed zoom scope produced primarily in Western countries. Attached to weapons by means of the NATO-standard Picatinny rail. Often used for accurate fire from small arms at medium to long range.</text>
 	</string>
 	<string id="enc_weapons1_wpn-addon-silencer">
-		<text>Эффективный глушитель, собранный в Зоне какими-то умельцами. С ним в комплекте идёт набор переходников под оружие любого калибра.</text>
+		<text>An effective silencer which can be modified on the go as required. The body of the silencer around the barrel contains a roll of fine brass mesh, while the front comprises a set of metal diaphragms with holes for the bullet to pass through. The set includes adaptors and sealants for most weapons. Normally used to thin out enemy ranks without drawing attention.</text>
 	</string>
 	<string id="enc_weapons1_wpn-ak74">
-		<text>Автомат складной образца 1974 года под патрон 5,45x39 мм. Представляет собой простое и надёжное оружие, хотя дешёвизна в производстве несколько сказалась на удобстве использования и точности боя. В Зоне это основное оружие военных сталкеров и многих одиночек.\n Боеприпасы:\n обычный 5,45x39 мм,\n бронебойный 5,45x39 мм БП.</text>
+		<text>This weapon, designed in 1974, signaled the adoption of small caliber and low impulse rounds by Warsaw Pact countries. A descendant of the most popular assault rifle in the world, the AKS-74 has an even bigger muzzle brake, resulting in a reduction of what was already manageable recoil. This facilitates better accuracy and groupings, especially when fired in fast single shots or bursts. As before, the rifle is very simple and reliable.</text>
 	</string>
 	<string id="enc_weapons1_wpn-ak74_m1">
-		<text>Модифицированный затворный механизм увеличивает скорость стрельбы.</text>
+		<text>The modified closing system increases the speed of shooting.</text>
 	</string>
 	<string id="enc_weapons1_wpn-ak74u">
-		<text>По своим габаритам и массе АКС-74У (укороченный) близок к пистолетам-пулеметам, однако принцип действия механизма данного оружия и применяемый в нём патрон делают его представителем класса автоматов. К достоинствам относятся малые габариты, что крайне полезно при ведении боя в городских условиях, и довольно высокая пробивающая способность патрона. Главные недостатки - малая прицельная дальность и склонность к быстрому перегреву при стрельбе очередями.\n Боеприпасы:\n обычный 5,45x39 мм,\n бронебойный 5,45x39 мм БП.</text>
+		<text>Despite being similar to submachineguns in size, weight and tactical purpose, this weapon is classified as an assault rifle due to the fact that its internal mechanism is identical to that of the AK-74. The weapon is notable for its mobility in close quarters and high armor-penetration capacity, while its drawbacks are its short effective range, despite the relatively long bullet range, a tendency to overheat and high ricochet propensity. (start here for your first session on 1/20/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_wpn-ak74u_m1">
 		<text>Модифицированный автомат. Снабжен несъемным глушителем.</text>
