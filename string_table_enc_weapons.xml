@@ -259,16 +259,16 @@
 		<text>The modified closing system increases the speed of shooting.</text>
 	</string>
 	<string id="enc_weapons1_wpn-ak74u">
-		<text>Despite being similar to submachineguns in size, weight and tactical purpose, this weapon is classified as an assault rifle due to the fact that its internal mechanism is identical to that of the AK-74. The weapon is notable for its mobility in close quarters and high armor-penetration capacity, while its drawbacks are its short effective range, despite the relatively long bullet range, a tendency to overheat and high ricochet propensity. (start here for your first session on 1/20/24 and don't forget to remove this reminder when you start)</text>
+		<text>Despite being similar to submachineguns in size, weight and tactical purpose, this weapon is classified as an assault rifle due to the fact that its internal mechanism is identical to that of the AK-74. The weapon is notable for its mobility in close quarters and high armor-penetration capacity, while its drawbacks are its short effective range, despite the relatively long bullet range, a tendency to overheat and high ricochet propensity.</text>
 	</string>
 	<string id="enc_weapons1_wpn-ak74u_m1">
-		<text>Модифицированный автомат. Снабжен несъемным глушителем.</text>
+		<text>Enhanced machine gun. Comes with a non-replaceable silencer.</text>
 	</string>
 	<string id="enc_weapons1_wpn-beretta">
-		<text>Состоит на вооружении вооружённых сил и полиции США, многих военизированных и правоохранительных формирований во всём мире. Столь же популярна и у представителей преступного мира благодаря мощному патрону и большой ёмкости магазина.\n Боеприпасы:\n основной 9х19 мм ЦМО,\n улучшенный 9х19 мм PBP.</text>
+		<text>Beretta pistols enjoy the reputation of a relatively reliable, albeit somewhat cumbersome weapon, around the world. In service with armed forces and police across the ocean, as well as various military and law enforcement organizations worldwide. The pistol is equally popular with members of the underworld, thanks to its powerful round and magazine capacity. Berettas found in the Zone are usually dated, probably from retired stock.</text>
 	</string>
 	<string id="enc_weapons1_wpn-bm16">
-		<text>Обрез охотничьего ружья. Значительно компактней и легче новой двустволки, но эффективен только в ближнем бою. Один из самых распространённых видов оружия у новичков.\n Боеприпасы:\n 12х70 дробь,\n 12x76 жекан,\n 12x76 дротик.</text>
+		<text>A sawed-off TOZ-66 hunting shotgun with two side-by-side barrels, making it lighter and more compact than a full shotgun. One of the most popular weapons among bandits due to its combination of ease of concealment and extreme effectiveness in close combat. (start here for your second session on 1/21/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_wpn-colt_m1">
 		<text>Оружие наемных убийц. Старый добрый надежный кольт, снабженный несъемным глушителем.</text>
