@@ -373,25 +373,25 @@
 		<text>This sniper rifle has an improved scope, making it more effective. The weight balance for this sniper rifle has also been shifted around, making the recoil impulse less harsh.</text>
 	</string>
 	<string id="enc_weapons1_wpn-svu">
-		<text>A modernized version of the SVD - the SVU is sniper rifle in a compact bullpup design made on the order of rapid response forces. It allows faster precision fire and is considerably lighter, while its single shot firing accuracy at short and medium range is similar to that of its predecessor. These qualities have earned it the admiration of countless stalkers. (start here for your second session on 1/22/24 and don't forget to remove this reminder when you start)</text>
+		<text>A modernized version of the SVD - the SVU is sniper rifle in a compact bullpup design made on the order of rapid response forces. It allows faster precision fire and is considerably lighter, while its single shot firing accuracy at short and medium range is similar to that of its predecessor. These qualities have earned it the admiration of countless stalkers.</text>
 	</string>
 	<string id="enc_weapons1_wpn-toz34">
-		<text>Широко распространённое и ничем особым не примечательное охотничье ружье-"вертикалка".\n Боеприпасы:\n 12х70 дробь,\n 12x76 жекан,\n 12x76 дротик.</text>
+		<text>This extremely common over-and-under hunting shotgun can offer better protection against mutants than a pistol, thanks to its accuracy and stopping power. Used mostly by rookies on the outskirts of the Zone.</text>
 	</string>
 	<string id="enc_weapons1_wpn-usp">
-		<text>Солидный ствол. Немецкое качество и надежность. Компактное оружие ближнего боя. Пользуется особой популярностью среди ветеранов Зоны.\n Боеприпасы:\n обычный .45 ACP,\n улучшенный .45 ACP Гидрошок.</text>
+		<text>Impeccable reliability and durability combined with excellent accuracy are the main noteworthy features of this weapon. Its minor drawbacks include its considerable size, relatively high center of gravity and massive bolt, which make it difficult to conceal but do not outweigh the weapon's positive features. The weapon is especially popular with the Zone's veterans.</text>
 	</string>
 	<string id="enc_weapons1_wpn-val">
-		<text>Создан на базе бесшумной снайперской винтовки «Винторез», от которой отличается складным прикладом, возможностью вести огонь очередями, а также более ёмким магазином. Изначально предназначался для применения спецподразделениями в условиях атаки, требующей бесшумной и беспламенной стрельбы.\n Боеприпасы:\n обычный 9x39 мм ПАБ-9,\n бронебойный 9x39 мм СП-6,\n снайперский 9х39 мм СП-5.</text>
+		<text>A modified version of the silent VSS Vintorez sniper rifle, the assault rifle was designed as a special forces weapon. The rifle's primary purpose is effective fire against enemies employing modern personal protection equipment without disclosing the shooter's location. Thanks to its integrated silencer and 9x39 caliber round with a heavy subsonic bullet, the weapon's noise and muzzle flash have been reduced to a minimum.</text>
 	</string>
 	<string id="enc_weapons1_wpn-val_m1">
-		<text>От базовой модели отличается возможностью добавлять оптический прицел ПСО-1.</text>
+		<text>Differs from the basic model in its ability to add an PSO-1 optical sight.</text>
 	</string>
 	<string id="enc_weapons1_wpn-vintorez">
-		<text>Винтовка снайперская специальная предназначена для бесшумной и беспламенной снайперской стрельбы, снабжена интегрированным глушителем. Дальность стрельбы 400м, с расстояния 100 метров пробивает бронежилет IV класса. Очень ценимое сталкерами любого уровня оружие.\n Боеприпасы:\n обычный 9x39 мм ПАБ-9,\n бронебойный 9x39 мм СП-6,\n снайперский 9х39 мм СП-5.</text>
+		<text>A special military sniper rifle purpose-built for silent, flashless sniping during special operations where avoiding early detection of the shooter may be critical. The VSS Vintorez provides high armor-piercing capability and stopping power, as well as being equipped with an integrated sniper and optical scope. Highly rated by many stalkers despite its small magazine.</text>
 	</string>
 	<string id="enc_weapons1_wpn-walther">
-		<text>Отличный пистолет немецкого производства, отличающийся высокой надёжностью, ёмким магазином и хорошей точностью боя, особенно в данном варианте - под 9-миллиметровый патрон Parabellum.\n Боеприпасы:\n основной 9х19 мм Parabellum,\n улучшенный 9х19 мм PBP.</text>
+		<text>An excellent German-made pistol with high reliability, good accuracy and a large magazine - especially in this model, which uses the 9-mm Parabellum round. Uses 9x19 mm ammo. (start here for your second session on 1/22/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_wpn-walther_m1">
 		<text>Модификация пистолета для ведения огня боеприпасами калибра 9x18 мм.</text>
