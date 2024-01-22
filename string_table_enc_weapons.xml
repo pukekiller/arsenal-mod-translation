@@ -361,19 +361,19 @@
 		<text>A relatively new assault rifle that has quickly found admirers around the world, despite lacking a "trendy" design. Weapons of this series are one of the best in their class, renowned for their reliability, accuracy and ease of use. Despite being relatively difficult to obtain in the Zone, this assault rifle is often ordered by experienced stalkers at considerable expense.</text>
 	</string>
 	<string id="enc_weapons1_wpn-spas12">
-		<text>This special purpose smoothbore automatic shotgun was designed in the second half of the 20th century and comes with pump-action and self-cocking firing modes. Used as an all-purpose weapon by the police and assault troops. Notable for its reliability and tactical flexibility. Despite its large weight, complex mechanism and considerable cost it is in demand in the Zone due to its effectiveness against mutants. (start here for your first session on 1/22/24 and don't forget to remove this reminder when you start)</text>
+		<text>This special purpose smoothbore automatic shotgun was designed in the second half of the 20th century and comes with pump-action and self-cocking firing modes. Used as an all-purpose weapon by the police and assault troops. Notable for its reliability and tactical flexibility. Despite its large weight, complex mechanism and considerable cost it is in demand in the Zone due to its effectiveness against mutants.</text>
 	</string>
 	<string id="enc_weapons1_wpn-spas12_m1">
-		<text>Модифицированный на уменьшение дисперсии этот SPAS-12 плохо подходит для стрельбы дробью, зато идеально для стрельбы жеканом или дротиком.</text>
+		<text>This SPAS-12 has a rifled bore which greatly increases its accuracy when firing darts or slugs. However, using buckshot is more difficult - those are better suited for shotguns with non-rifled bores.</text>
 	</string>
 	<string id="enc_weapons1_wpn-svd">
-		<text>Снайперская винтовка. Широко использовалась во всех боевых операциях, проводившихся советской и российской армиями с 1960-х. Зарекомендовала себя как исключительно надёжное и удобное в обращении оружие. В Зоне её особенно предпочитают опытные сталкеры группировки «Долг».\n Боеприпасы:\n обычный 7,62x54 мм 7Н1,\n бронебойный 7,62x54 мм БП,\n снайперский 7,62x54 мм 7Н14.</text>
+		<text>An army sniper rifle that has been on the market for more than fifty years and has earned its reputation for exceptional reliability and ease of use. The SVD is normally used by the army to improve the effective range of its units, but stalkers respect this weapon for its armor-piercing properties, which allow it to penetrate mutant hide and army body armor.</text>
 	</string>
 	<string id="enc_weapons1_wpn-svd_m1">
-		<text>Модифицирована оптика, за счет чего увеличена кратность зума. Улучшен баланс оружия, в результате уменьшена отдача.</text>
+		<text>This sniper rifle has an improved scope, making it more effective. The weight balance for this sniper rifle has also been shifted around, making the recoil impulse less harsh.</text>
 	</string>
 	<string id="enc_weapons1_wpn-svu">
-		<text>Более современный вариант винтовки, выполненный по компактной схеме "булл-пап". Очень хорош в дальних путешествиях по Зоне.\n Боеприпасы:\n обычный 7,62x54 мм 7Н1,\n бронебойный 7,62x54 мм БП,\n снайперский 7,62x54 мм 7Н14.</text>
+		<text>A modernized version of the SVD - the SVU is sniper rifle in a compact bullpup design made on the order of rapid response forces. It allows faster precision fire and is considerably lighter, while its single shot firing accuracy at short and medium range is similar to that of its predecessor. These qualities have earned it the admiration of countless stalkers. (start here for your second session on 1/22/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_wpn-toz34">
 		<text>Широко распространённое и ничем особым не примечательное охотничье ружье-"вертикалка".\n Боеприпасы:\n 12х70 дробь,\n 12x76 жекан,\n 12x76 дротик.</text>
