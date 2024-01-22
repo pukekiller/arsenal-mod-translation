@@ -349,19 +349,19 @@
 		<text>This grenade launcher from the 1960s made its way into the Zone from army depots. The weapon is a smoothbore single-shot recoilless launch system with an open-rear tube. Comes with a PGO-7 x2.7 optical scope. Although its huge size and weight make it an unlikely choice for stalkers, given its huge destructive power and ease of use, it has found admirers in the Zone.</text>
 	</string>
 	<string id="enc_weapons1_wpn-sig_m1">
-		<text>Оружие создавалось для ведения боев в условиях города. Чтобы облегчить вес, были убраны или заменены некоторые компоненты. В результате на оружие больше нельзя повесить ни прицел, ни подствольный гранатомет. Зато и вес снизился почти вдвое.</text>
+		<text>The weapon was modified so that it's more viable for close-quarters combat in a city. To lessen the weight, some parts were removed or replaced. As a result, there is no way to attach neither a sight nor a grenade launcher under the barrel. But at least it weighs almost half of what it did before.</text>
 	</string>
 	<string id="enc_weapons1_wpn-sig_m2">
-		<text>Модификация для ведения снайперского огня. Оружие снабжено несъемным оптическим прицелом повышенной кратности.</text>
+		<text>This rifle has been modified so that it performs more like a sniper rifle. It's furnished with a non-removeable optical sight that has modified, increasing its magnification.</text>
 	</string>
 	<string id="enc_weapons1_wpn-sig220">
-		<text>Модель, разработанная ещё в 1975 году, но до сих пор популярная во всём мире. Магазин недостаточно ёмкий, зато механизм надёжен, как швейцарские часы; вторым плюсом является использование мощного кольтовского патрона.\n Боеприпасы:\n обычный .45 ACP,\n улучшенный .45 ACP Гидрошок.</text>
+		<text>The only remaining mass produced model of a globally renowned pistol, this weapon has earned a reputation for its excellent ergonomics and accuracy, and while its magazine is relatively small, it benefits from powerful ammo and a mechanism that functions like a Swiss watch. Some believe the SIG P220 to be the best mass produced .45ACP caliber handgun there is and it has certainly got a following among experienced stalkers and mercenaries.</text>
 	</string>
 	<string id="enc_weapons1_wpn-sig550">
-		<text>Эта штурмовая винтовка под патрон 5,56x45 мм SS109 принята на вооружение швейцарской армии как Stgw.90. Точность, мягкая отдача и высокая надёжность данного оружия быстро завоевали ему самую широкую популярность.\n Боеприпасы:\n обычный 5,56x45 мм SS109,\n бронебойный 5,56x45 мм АР.</text>
+		<text>A relatively new assault rifle that has quickly found admirers around the world, despite lacking a "trendy" design. Weapons of this series are one of the best in their class, renowned for their reliability, accuracy and ease of use. Despite being relatively difficult to obtain in the Zone, this assault rifle is often ordered by experienced stalkers at considerable expense.</text>
 	</string>
 	<string id="enc_weapons1_wpn-spas12">
-		<text>Гладкоствольное ружье SPAS-12 было разработано в конце 1970-х в качестве универсального боевого оружия для полиции и штурмовых подразделений армии. Данное оружие отличают высокая надёжность и гибкость применения; с другой стороны, оно довольно массивно, сложно в устройстве и дорого. Пожалуй, лучшего ствола для ближнего боя в Зоне не найти.\n Боеприпасы:\n 12х70 дробь,\n 12x76 жекан,\n 12x76 дротик.</text>
+		<text>This special purpose smoothbore automatic shotgun was designed in the second half of the 20th century and comes with pump-action and self-cocking firing modes. Used as an all-purpose weapon by the police and assault troops. Notable for its reliability and tactical flexibility. Despite its large weight, complex mechanism and considerable cost it is in demand in the Zone due to its effectiveness against mutants. (start here for your first session on 1/22/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="enc_weapons1_wpn-spas12_m1">
 		<text>Модифицированный на уменьшение дисперсии этот SPAS-12 плохо подходит для стрельбы дробью, зато идеально для стрельбы жеканом или дротиком.</text>
