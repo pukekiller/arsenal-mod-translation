@@ -421,37 +421,37 @@
 		<text>HK USP .45 Compact</text>
 	</string>
 	<string id="wpn-abakan">
-		<text>AN-94 Abakan (start here for your second session on 1/22/24 and don't forget to remove this reminder when you start)</text>
+		<text>AN-94 Abakan</text>
 	</string>
 	<string id="wpn-abakan_m1">
-		<text>АН-94 Абакан с оптикой</text>
+		<text>Sniper AN-94 Abakan</text>
 	</string>
 	<string id="wpn-abakan_m2">
-		<text>АН-94 Абакан с подствольником</text>
+		<text>Storming AN-94 Abakan</text>
 	</string>
 	<string id="wpn-addon-grenade-launcher">
-		<text>ГП-25 "Костёр"</text>
+		<text>GP-25 Kostyor</text>
 	</string>
 	<string id="wpn-addon-grenade-launcher-m203">
-		<text>M203PI</text>
+		<text>M203</text>
 	</string>
 	<string id="wpn-addon-scope">
-		<text>Прицел ПСО-1</text>
+		<text>PSO-1 scope</text>
 	</string>
 	<string id="wpn-addon-scope-susat">
-		<text>Прицел SUSAT</text>
+		<text>SUSAT Scope</text>
 	</string>
 	<string id="wpn-addon-silencer">
-		<text>Глушитель</text>
+		<text>Silencer</text>
 	</string>
 	<string id="wpn-ak74">
-		<text>АКС-74</text>
+		<text>AKS-74</text>
 	</string>
 	<string id="wpn-ak74_m1">
-		<text>Скоростр. АКС-74М1</text>
+		<text>Rapid fire AKS-74</text>
 	</string>
 	<string id="wpn-ak74u">
-		<text>АКС-74У</text>
+		<text>AKS-74U (start here for your first session on 1/22/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="wpn-ak74u_m1">
 		<text>АКС-74УБ спецназ</text>
@@ -577,6 +577,6 @@
 		<text>Walther P99 9х18</text>
 	</string>
 	<string id="wpn-wincheaster1300">
-		<text>Winchester 1300</text>
+		<text>Mossberg Maverick 88</text>
 	</string>
 </string_table>
