@@ -391,25 +391,25 @@
 		<text>A special military sniper rifle purpose-built for silent, flashless sniping during special operations where avoiding early detection of the shooter may be critical. The VSS Vintorez provides high armor-piercing capability and stopping power, as well as being equipped with an integrated sniper and optical scope. Highly rated by many stalkers despite its small magazine.</text>
 	</string>
 	<string id="enc_weapons1_wpn-walther">
-		<text>An excellent German-made pistol with high reliability, good accuracy and a large magazine - especially in this model, which uses the 9-mm Parabellum round. Uses 9x19 mm ammo. (start here for your second session on 1/22/24 and don't forget to remove this reminder when you start)</text>
+		<text>An excellent German-made pistol with high reliability, good accuracy and a large magazine - especially in this model, which uses the 9x19mm Parabellum round. Uses 9x19 mm ammo.</text>
 	</string>
 	<string id="enc_weapons1_wpn-walther_m1">
-		<text>Модификация пистолета для ведения огня боеприпасами калибра 9x18 мм.</text>
+		<text>A modified version of the Walther P99 that accepts 9x18mm rounds.</text>
 	</string>
 	<string id="enc_weapons1_wpn-wincheaster1300">
-		<text>Гладкоствольное помповое ружье американского производства, созданное для применения в самых неблагоприятных условиях и отличающееся высокой надёжностью. Все детали снабжены антикоррозийным покрытием.\n Боеприпасы:\n 12х70 дробь,\n 12x76 жекан,\n 12x76 дротик.</text>
+		<text>A Western smoothbore shotgun that is extremely popular around the world thanks to its amazing reliability and faster reloading speed. Particularly valued for its functionality by the Zone's hunters. All of its parts are coated with an anti-corrosion compound.</text>
 	</string>
 	<string id="grenade-f1">
-		<text>Граната Ф1</text>
+		<text>F1 grenade</text>
 	</string>
 	<string id="grenade-gd05">
-		<text>ГД-05</text>
+		<text>GD-05 smoke grenade</text>
 	</string>
 	<string id="grenade-rgd5">
-		<text>Граната РГД-5</text>
+		<text>RGD-5 grenade</text>
 	</string>
 	<string id="Weapons1">
-		<text>Оружие</text>
+		<text>Weapons</text>
 	</string>
 	<string id="wp_desert_eagle">
 		<text>Desert Eagle</text>
@@ -421,7 +421,7 @@
 		<text>HK USP .45 Compact</text>
 	</string>
 	<string id="wpn-abakan">
-		<text>АН-94 Абакан</text>
+		<text>AN-94 Abakan (start here for your second session on 1/22/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="wpn-abakan_m1">
 		<text>АН-94 Абакан с оптикой</text>
