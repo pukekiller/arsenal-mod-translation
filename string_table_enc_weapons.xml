@@ -496,16 +496,16 @@
 		<text>L85</text>
 	</string>
 	<string id="wpn-l85_m1">
-		<text>Balanced L85 (start here for your second session on 1/23/24 and don't forget to remove this reminder when you start)</text>
+		<text>Balanced L85</text>
 	</string>
 	<string id="wpn-l85_m2">
-		<text>Облегченный L85A2</text>
+		<text>Lightened L85</text>
 	</string>
 	<string id="wpn-lr300">
 		<text>LR-300 ML</text>
 	</string>
 	<string id="wpn-lr300_m1">
-		<text>LR-300 снайперская</text>
+		<text>Sniper LR-300 ML</text>
 	</string>
 	<string id="wpn-mp5">
 		<text>HK MP5A3</text>
@@ -517,19 +517,19 @@
 		<text>HK MP5SD3</text>
 	</string>
 	<string id="wpn-pb">
-		<text>ПБ</text>
+		<text>PB</text>
 	</string>
 	<string id="wpn-pm">
-		<text>ПМ</text>
+		<text>Makarov PM</text>
 	</string>
 	<string id="wpn-rg-6">
-		<text>РГ-6</text>
+		<text>RG-6</text>
 	</string>
 	<string id="wpn-rg6_m1">
-		<text>РГ-6 м209</text>
+		<text>RG-6 M209</text>
 	</string>
 	<string id="wpn-rpg7">
-		<text>РПГ-7</text>
+		<text>RPG-7 (start here for your first session on 1/23/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="wpn-sig_m1">
 		<text>SIG 550 облегчённый</text>
