@@ -271,10 +271,10 @@
 		<text>A sawed-off TOZ-66 hunting shotgun with two side-by-side barrels, making it lighter and more compact than a full shotgun. One of the most popular weapons among bandits due to its combination of ease of concealment and extreme effectiveness in close combat.</text>
 	</string>
 	<string id="enc_weapons1_wpn-colt_m1">
-		<text>A weapon for hired assassins. This reliable Colt M1911 pistol comes with a non-replaceable silencer.</text>
+		<text>A weapon for hired assassins. This reliable Colt M1911A1 pistol comes with a non-replaceable silencer.</text>
 	</string>
 	<string id="enc_weapons1_wpn-colt1911">
-		<text>A classic automatic pistol, which passed all the major armed conflicts of the 20th century with flying colors and entered the new millennium with confidence. Produced by dozens if not hundreds of arms manufacturers around the world in both standard and modified configurations. The weapon's only drawback, its mediocre magazine capacity, is largely compensated by the hard-hitting ammo it uses.</text>
+		<text>An improved version of a classic automatic pistol, which passed all the major armed conflicts of the 20th century with flying colors and entered the new millennium with confidence. Produced by dozens if not hundreds of arms manufacturers around the world in both standard and modified configurations. The weapon's only drawback, its mediocre magazine capacity, is largely compensated by the hard-hitting ammo it uses.</text>
 	</string>
 	<string id="enc_weapons1_wpn-desert-eagle">
 		<text>The ultimate hand cannon - bulky, heavy and highly lethal. Developed as a specialized weapon for hunting medium-sized and large game, as well as for shooting competitions involving firing at steel body targets at distances over 50 meters. Its limited use in the Zone can be attributed to its price, size and weight, which are all double those of other pistols.</text>
@@ -451,52 +451,52 @@
 		<text>Rapid fire AKS-74</text>
 	</string>
 	<string id="wpn-ak74u">
-		<text>AKS-74U (start here for your first session on 1/22/24 and don't forget to remove this reminder when you start)</text>
+		<text>AKS-74U</text>
 	</string>
 	<string id="wpn-ak74u_m1">
-		<text>АКС-74УБ спецназ</text>
+		<text>AKS-74U Special</text>
 	</string>
 	<string id="wpn-beretta">
 		<text>Beretta 92FS</text>
 	</string>
 	<string id="wpn-bm16">
-		<text>Обрез двустволки</text>
+		<text>Sawed-off TOZ-66</text>
 	</string>
 	<string id="wpn-colt_m1">
-		<text>Бесшумный Colt M1911</text>
+		<text>Silenced Colt M1911</text>
 	</string>
 	<string id="wpn-colt1911">
 		<text>Colt M1911A1</text>
 	</string>
 	<string id="wpn-eagle_m1">
-		<text>Desert Eagle мод.</text>
+		<text>Big Ben</text>
 	</string>
 	<string id="wpn-fn2000">
 		<text>FN F2000</text>
 	</string>
 	<string id="wpn-fort">
-		<text>Форт-12</text>
+		<text>Fort-12</text>
 	</string>
 	<string id="wpn-fort_m">
-		<text>Форт-14</text>
+		<text>Fort-14</text>
 	</string>
 	<string id="wpn-g36">
 		<text>HK G36</text>
 	</string>
 	<string id="wpn-gauss">
-		<text>Гаусс-пушка</text>
+		<text>Gauss rifle</text>
 	</string>
 	<string id="wpn-groza">
-		<text>Гроза ОЦ-14</text>
+		<text>OTs-14 Groza</text>
 	</string>
 	<string id="wpn-groza_m1">
-		<text>Гроза 5.45мм</text>
+		<text>5.45mm Groza</text>
 	</string>
 	<string id="wpn-l85">
-		<text>L85A2</text>
+		<text>L85</text>
 	</string>
 	<string id="wpn-l85_m1">
-		<text>L85A2 Баланс</text>
+		<text>Balanced L85 (start here for your second session on 1/23/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="wpn-l85_m2">
 		<text>Облегченный L85A2</text>
