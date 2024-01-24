@@ -10,13 +10,13 @@
 		<text>I hid some stuff in a tree stump near the tunnel. It's a convenient place for a stash.</text>
 	</string>
 	<string id="agr_secret_0001_name">
-		<text>Hollow tree stump (start here for your second session on 1/24/24 and don't forget to remove this reminder when you start)</text>
+		<text>Hollow tree stump</text>
 	</string>
 	<string id="agr_secret_0002_descr">
-		<text>Под крестом, возле куста, закопал хабара чуток.</text>
+		<text>I buried some loot here - under a cross that's near a bush.</text>
 	</string>
 	<string id="agr_secret_0002_name">
-		<text>Заначка под крестом</text>
+		<text>The stash under the cross (start here for your first session on 1/24/24 and don't forget to remove this remnder when you start)</text>
 	</string>
 	<string id="agr_secret_0003_descr">
 		<text>Скинул рюкзак под поваленным деревом.</text>
