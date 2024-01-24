@@ -529,13 +529,13 @@
 		<text>RG-6 M209</text>
 	</string>
 	<string id="wpn-rpg7">
-		<text>RPG-7 (start here for your first session on 1/23/24 and don't forget to remove this reminder when you start)</text>
+		<text>RPG-7</text>
 	</string>
 	<string id="wpn-sig_m1">
-		<text>SIG 550 облегчённый</text>
+		<text>Storming SIG 550</text>
 	</string>
 	<string id="wpn-sig_m2">
-		<text>SIG 550 снайперский</text>
+		<text>Sniper SIG 550</text>
 	</string>
 	<string id="wpn-sig220">
 		<text>SIG-Sauer P220 .45</text>
@@ -547,28 +547,28 @@
 		<text>SPAS-12</text>
 	</string>
 	<string id="wpn-spas12_m1">
-		<text>SPAS-12 нарезной</text>
+		<text>Threaded SPAS-12</text>
 	</string>
 	<string id="wpn-svd">
-		<text>СВД</text>
+		<text>SVD</text>
 	</string>
 	<string id="wpn-svd_m1">
-		<text>СВД "Дальнобойщик"</text>
+		<text>Farshooter SVD</text>
 	</string>
 	<string id="wpn-svu">
-		<text>СВУ</text>
+		<text>SVU</text>
 	</string>
 	<string id="wpn-toz34">
-		<text>ТОЗ-34</text>
+		<text>TOZ-34</text>
 	</string>
 	<string id="wpn-val">
-		<text>Автомат АС "ВАЛ"</text>
+		<text>AS Val</text>
 	</string>
 	<string id="wpn-val_m1">
-		<text>АС "ВАЛ" снайперский</text>
+		<text>Sniper AS Val</text>
 	</string>
 	<string id="wpn-vintorez">
-		<text>ВСС "Винторез"</text>
+		<text>VSS Vintorez</text>
 	</string>
 	<string id="wpn-walther">
 		<text>Walther P99</text>
