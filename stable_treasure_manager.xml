@@ -52,25 +52,25 @@
 		<text>At the factory, I put the backpack on the top of the building - so you can't see it from underneath. Sadly, I don't remember exactly what's in it.</text>
 	</string>
 	<string id="agr_secret_0008_name">
-		<text>Backpack in the porthole (start here for your second session on 1/25/24 and don't forget to remove this reminder when you start)</text>
+		<text>Backpack in the porthole</text>
 	</string>
 	<string id="agr_secret_0009_descr">
-		<text>Внутри фабрики, в ящике спрятал вещички.</text>
+		<text>I've hid my stuff in a drawer that's located at this factory.</text>
 	</string>
 	<string id="agr_secret_0009_name">
-		<text>Радиоактивный ящик</text>
+		<text>Radioactive box</text>
 	</string>
 	<string id="agr_secret_0010_descr">
-		<text>Под лестницей в ящике тайник.</text>
+		<text>There's a stash under the stairs in a drawer here.</text>
 	</string>
 	<string id="agr_secret_0010_name">
-		<text>Ящик в пролете</text>
+		<text>Stash under the stairs</text>
 	</string>
 	<string id="agr_secret_0011_descr">
-		<text>В ящичке спрятал, все равно никто проверять не будет.</text>
+		<text>I hid my stuff in a drawer here, nobody's gonna check it.</text>
 	</string>
 	<string id="agr_secret_0011_name">
-		<text>Фабричный ящик</text>
+		<text>Drawer stash (start here for your first session on 1/25/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="agr_secret_0012_descr">
 		<text>Скинул сумку за окном, заберу ее потом.</text>
