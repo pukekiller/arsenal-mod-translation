@@ -16,25 +16,25 @@
 		<text>I buried some loot here - under a cross that's near a bush.</text>
 	</string>
 	<string id="agr_secret_0002_name">
-		<text>The stash under the cross (start here for your first session on 1/24/24 and don't forget to remove this remnder when you start)</text>
+		<text>The stash under the cross</text>
 	</string>
 	<string id="agr_secret_0003_descr">
-		<text>Скинул рюкзак под поваленным деревом.</text>
+		<text>I've hid my backpack under a fallen tree here.</text>
 	</string>
 	<string id="agr_secret_0003_name">
-		<text>Рюкзак под деревом</text>
+		<text>Backpack under the fallen tree</text>
 	</string>
 	<string id="agr_secret_0004_descr">
-		<text>Рюкзак засунул в трубу, возле фабрики. Никто не найдет.</text>
+		<text>I put my backpack in a pipe near the factory. No one will find it.</text>
 	</string>
 	<string id="agr_secret_0004_name">
-		<text>Рюкзак трубочиста</text>
+		<text>Chimney sweep's backpack</text>
 	</string>
 	<string id="agr_secret_0005_descr">
-		<text>Ящик снычковал на крыше фабрики, там никто не увидит. Только под дождем заржавеет.</text>
+		<text>I've stashed the box on the roof of the factory, where no one will see it. It'll rust in the rain.</text>
 	</string>
 	<string id="agr_secret_0005_name">
-		<text>Ящик на крыше</text>
+		<text>The box on the roof (start here for your second session on 1/25/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="agr_secret_0006_descr">
 		<text>Стреляли, пришлось бросить рюкзак под вагоном, за колесом. Зато ушел. Потом вернусь, заберу.</text>
