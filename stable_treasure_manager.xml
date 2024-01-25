@@ -34,25 +34,25 @@
 		<text>I've stashed the box on the roof of the factory, where no one will see it. It'll rust in the rain.</text>
 	</string>
 	<string id="agr_secret_0005_name">
-		<text>The box on the roof (start here for your second session on 1/25/24 and don't forget to remove this reminder when you start)</text>
+		<text>The box on the roof</text>
 	</string>
 	<string id="agr_secret_0006_descr">
-		<text>Стреляли, пришлось бросить рюкзак под вагоном, за колесом. Зато ушел. Потом вернусь, заберу.</text>
+		<text>I was in caught in shootout; I threw off my backpack and put it under this wagon behind the wheel. Thankfully, the shootout ended, so I'll go get it later.</text>
 	</string>
 	<string id="agr_secret_0006_name">
-		<text>Рюкзак пьяницы</text>
+		<text>Drunkard's backpack</text>
 	</string>
 	<string id="agr_secret_0007_descr">
-		<text>Под крестом спрятал, за цистернами. Покопай немного, только не увлекайся.</text>
+		<text>I've hidden my stash under the cross here, behind the cisterns. I'll have dig a little to get it, and I'll try to remember to not to overdo it.</text>
 	</string>
 	<string id="agr_secret_0007_name">
-		<text>У трех цистерн</text>
+		<text>Three tanks</text>
 	</string>
 	<string id="agr_secret_0008_descr">
-		<text>На фабрике положил рюкзак наверху, так что снизу не увидать. Только вот точно не помню, что в нем.</text>
+		<text>At the factory, I put the backpack on the top of the building - so you can't see it from underneath. Sadly, I don't remember exactly what's in it.</text>
 	</string>
 	<string id="agr_secret_0008_name">
-		<text>Рюкзак в иллюминаторе</text>
+		<text>Backpack in the porthole (start here for your second session on 1/25/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="agr_secret_0009_descr">
 		<text>Внутри фабрики, в ящике спрятал вещички.</text>
