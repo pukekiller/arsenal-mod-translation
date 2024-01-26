@@ -70,19 +70,19 @@
 		<text>I hid my stuff in a drawer here, nobody's gonna check it.</text>
 	</string>
 	<string id="agr_secret_0011_name">
-		<text>Drawer stash (start here for your first session on 1/25/24 and don't forget to remove this reminder when you start)</text>
+		<text>Drawer stash</text>
 	</string>
 	<string id="agr_secret_0012_descr">
-		<text>Скинул сумку за окном, заберу ее потом.</text>
+		<text>I dropped my bag outside the window here, I'll pick it up later.</text>
 	</string>
 	<string id="agr_secret_0012_name">
-		<text>Сумка на опоре</text>
+		<text>Bag on a support</text>
 	</string>
 	<string id="agr_secret_0013_descr">
-		<text>Мы с Коляном на Агропроме неплохо погуляли, хлама разного нагребли, но кое-что довелось припрятать. Ящик положили в мусорном контейнере.</text>
+		<text>Kolyan and I had a nice walk at Agroprom, we collected a lot of junk, but we had to hide some of the stuff. We put the stuff inside a box, and put it in the dumpster here.</text>
 	</string>
 	<string id="agr_secret_0013_name">
-		<text>Ящик мусора</text>
+		<text>Dumpster stash (start here for your second session on 1/26/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="agr_secret_0014_descr">
 		<text>Под поваленным деревом нашел сейф, пока буду тут все прятать.</text>
