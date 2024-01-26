@@ -82,19 +82,19 @@
 		<text>Kolyan and I had a nice walk at Agroprom, we collected a lot of junk, but we had to hide some of the stuff. We put the stuff inside a box, and put it in the dumpster here.</text>
 	</string>
 	<string id="agr_secret_0013_name">
-		<text>Dumpster stash (start here for your second session on 1/26/24 and don't forget to remove this reminder when you start)</text>
+		<text>Dumpster stash</text>
 	</string>
 	<string id="agr_secret_0014_descr">
-		<text>Под поваленным деревом нашел сейф, пока буду тут все прятать.</text>
+		<text>I found a safe under a fallen tree, so I'll hide everything my stuff in here for now.</text>
 	</string>
 	<string id="agr_secret_0014_name">
-		<text>Сейф под деревом</text>
+		<text>Safe under the tree</text>
 	</string>
 	<string id="agr_secret_0015_descr">
-		<text>В трубу кинул вещи, потом заберу. Пришлось, а то бы с собой забрал, конечно. Только бы не намокли.</text>
+		<text>I threw my stuff down the chimney - I'll pick it up later. I had to get rid of my stuff, or I'd have taken it with me, of course. As long my stuff doesn't get wet from the rain, it'll be a good place to hide my stuff.</text>
 	</string>
 	<string id="agr_secret_0015_name">
-		<text>Вещи в трубе</text>
+		<text>Chimney stash (start here for your second session on 1/26/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="agr_secret_0016_descr">
 		<text>Добро в старой трубе, надо будет пацанам сказать. Я туда не полезу.</text>
