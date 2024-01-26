@@ -94,37 +94,37 @@
 		<text>I threw my stuff down the chimney - I'll pick it up later. I had to get rid of my stuff, or I'd have taken it with me, of course. As long my stuff doesn't get wet from the rain, it'll be a good place to hide my stuff.</text>
 	</string>
 	<string id="agr_secret_0015_name">
-		<text>Chimney stash (start here for your second session on 1/26/24 and don't forget to remove this reminder when you start)</text>
+		<text>Chimney stash</text>
 	</string>
 	<string id="agr_secret_0016_descr">
-		<text>Добро в старой трубе, надо будет пацанам сказать. Я туда не полезу.</text>
+		<text>The good stuff's in the old pipe, I'll have to tell the boys. I'm not going in there.</text>
 	</string>
 	<string id="agr_secret_0016_name">
-		<text>Радиоактивная труба</text>
+		<text>Radioactive pipe</text>
 	</string>
 	<string id="agr_secret_0017_descr">
-		<text>Сбежал с базы, ну их в баню, лезть под пули сталкеров. Спрятал шмотки в трубу, в завале. Пересижу пока не улетят, потом заберу.</text>
+		<text>I ran away from the base, to hell with them. I'm not going to get shot by stalkers. I hid my clothes in a chimney in the rubble. I'll sit tight until they fly away, then I'll get my clothes back.</text>
 	</string>
 	<string id="agr_secret_0017_name">
-		<text>Завал</text>
+		<text>Stash in the debris</text>
 	</string>
 	<string id="agr_secret_0018_descr">
-		<text>Под кустом полузакопанный сейф, тут все прячу.</text>
+		<text>There's a half-buried safe under a bush here. I've hidden all my stuff in there</text>
 	</string>
 	<string id="agr_secret_0018_name">
-		<text>Сейф под кустом</text>
+		<text>The safe in the bush</text>
 	</string>
 	<string id="agr_secret_0019_descr">
-		<text>Ящик обнаружили под опорой, кто-то его тащил аж с НИИ. Подождем вертолета, тогда заберем.</text>
+		<text>We've found some box under a support beam, someone dragged it all the way from the research institute. We'll wait for the helicopter, then we'll take it with us.</text>
 	</string>
 	<string id="agr_secret_0019_name">
-		<text>Архивный бокс</text>
+		<text>Archive box</text>
 	</string>
 	<string id="agr_secret_0020_descr">
-		<text>В железной байдовине спрятал вещички.</text>
+		<text>I've hidden my stuff here under this iron hatch.</text>
 	</string>
 	<string id="agr_secret_0020_name">
-		<text>Под люком</text>
+		<text>Stash hidden under the hatch (start here for your first session on 1/26/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="agr_secret_0021_descr">
 		<text>Под кустом полузакопанный сейф, там все прячу.</text>
