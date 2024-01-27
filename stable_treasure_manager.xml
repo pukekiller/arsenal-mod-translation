@@ -124,25 +124,25 @@
 		<text>I've hidden my stuff here under this iron hatch.</text>
 	</string>
 	<string id="agr_secret_0020_name">
-		<text>Stash hidden under the hatch (start here for your first session on 1/26/24 and don't forget to remove this reminder when you start)</text>
+		<text>Stash hidden under the hatch</text>
 	</string>
 	<string id="agr_secret_0021_descr">
-		<text>Под кустом полузакопанный сейф, там все прячу.</text>
+		<text>There's a half-buried safe under a bush here where I hide all my stuff.</text>
 	</string>
 	<string id="agr_secret_0021_name">
-		<text>Под кустом у стены</text>
+		<text>Near the wall and under the bush</text>
 	</string>
 	<string id="agr_secret_0022_descr">
-		<text>Удобный ящик, чтоб лишнее барахло сбрасывать.</text>
+		<text>There's a handy drawer to dump extra junk in here.</text>
 	</string>
 	<string id="agr_secret_0022_name">
-		<text>Институтский ящик</text>
+		<text>Research Institute box</text>
 	</string>
 	<string id="agr_secret_0023_descr">
-		<text>В сейфе спрятал, а пришли военные. Не достать теперь добро.</text>
+		<text>I hid some stuff in the safe, but the military came. I can't the stuff in there now.</text>
 	</string>
 	<string id="agr_secret_0023_name">
-		<text>Агросейф</text>
+		<text>Agrosafe (start here for your second session on 1/27/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="agr_secret_0024_descr">
 		<text>В трубу кинул шмотки, потом заберу.</text>
