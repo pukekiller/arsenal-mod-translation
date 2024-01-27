@@ -142,25 +142,25 @@
 		<text>I hid some stuff in the safe, but the military came. I can't the stuff in there now.</text>
 	</string>
 	<string id="agr_secret_0023_name">
-		<text>Agrosafe (start here for your second session on 1/27/24 and don't forget to remove this reminder when you start)</text>
+		<text>Agrosafe</text>
 	</string>
 	<string id="agr_secret_0024_descr">
-		<text>В трубу кинул шмотки, потом заберу.</text>
+		<text>I put some of my stuff in the chimney so that it's safe. I'll pick it up later.</text>
 	</string>
 	<string id="agr_secret_0024_name">
-		<text>Кузов грузовика</text>
+		<text>Chimney on the truck bed</text>
 	</string>
 	<string id="agr_secret_0025_descr">
-		<text>Забрать вещи из трухлявого бревна.</text>
+		<text>I've put some of my stuff in this rotten log here.</text>
 	</string>
 	<string id="agr_secret_0025_name">
-		<text>Гнилое бревно</text>
+		<text>Rotten log stash</text>
 	</string>
 	<string id="agr_secret_0026_descr">
-		<text>Удобный ящик, чтоб лишнее барахло сбрасывать. Когда-то в нем хранился институтский хозяйственный инвентарь.</text>
+		<text>There's a handy box to dump your junk in here. It was once used to store the institute's equipment - now it's storing some of my stuff.</text>
 	</string>
 	<string id="agr_secret_0026_name">
-		<text>Ящик завхоза</text>
+		<text>The institute employee's box (start here for your second session on 1/27/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="agr_secret_0027_descr">
 		<text>Удобный ящик для небольших вещей, я в таком слесарные инструменты дома держал.</text>
