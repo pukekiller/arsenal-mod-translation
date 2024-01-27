@@ -91,10 +91,10 @@
 		<text>Safe under the tree</text>
 	</string>
 	<string id="agr_secret_0015_descr">
-		<text>I threw my stuff down the chimney - I'll pick it up later. I had to get rid of my stuff, or I'd have taken it with me, of course. As long my stuff doesn't get wet from the rain, it'll be a good place to hide my stuff.</text>
+		<text>I threw my stuff down the pipe - I'll pick it up later. I had to get rid of my stuff, or I'd have taken it with me, of course. As long my stuff doesn't get wet from the rain, it'll be a good place to hide my stuff.</text>
 	</string>
 	<string id="agr_secret_0015_name">
-		<text>Chimney stash</text>
+		<text>Pipe stash</text>
 	</string>
 	<string id="agr_secret_0016_descr">
 		<text>The good stuff's in the old pipe, I'll have to tell the boys. I'm not going in there.</text>
@@ -103,7 +103,7 @@
 		<text>Radioactive pipe</text>
 	</string>
 	<string id="agr_secret_0017_descr">
-		<text>I ran away from the base, to hell with them. I'm not going to get shot by stalkers. I hid my clothes in a chimney in the rubble. I'll sit tight until they fly away, then I'll get my clothes back.</text>
+		<text>I ran away from the base, to hell with them. I'm not going to get shot by stalkers. I hid my clothes in a pipe in the rubble. I'll sit tight until they fly away, then I'll get my clothes back.</text>
 	</string>
 	<string id="agr_secret_0017_name">
 		<text>Stash in the debris</text>
@@ -145,10 +145,10 @@
 		<text>Agrosafe</text>
 	</string>
 	<string id="agr_secret_0024_descr">
-		<text>I put some of my stuff in the chimney so that it's safe. I'll pick it up later.</text>
+		<text>I put some of my stuff in the pipe so that it's safe. I'll pick it up later.</text>
 	</string>
 	<string id="agr_secret_0024_name">
-		<text>Chimney on the truck bed</text>
+		<text>Pipe on the truck bed</text>
 	</string>
 	<string id="agr_secret_0025_descr">
 		<text>I've put some of my stuff in this rotten log here.</text>
@@ -160,25 +160,25 @@
 		<text>There's a handy box to dump your junk in here. It was once used to store the institute's equipment - now it's storing some of my stuff.</text>
 	</string>
 	<string id="agr_secret_0026_name">
-		<text>The institute employee's box (start here for your second session on 1/27/24 and don't forget to remove this reminder when you start)</text>
+		<text>The institute employee's box</text>
 	</string>
 	<string id="agr_secret_0027_descr">
-		<text>”добный €щик дл€ небольших вещей, € в таком слесарные инструменты дома держал.</text>
+		<text>This drawer has come in handy for small things, I used to keep my locksmith tools at home in one of these.</text>
 	</string>
 	<string id="agr_secret_0027_name">
-		<text>»нвентарь слесар€</text>
+		<text>Locksmith's equipment</text>
 	</string>
 	<string id="agr_u_secret_0000_descr">
-		<text>Ѕандиты что-то пр€чут под трубой, надо наведатьс€. »з разговора €сно, что там их запасы.</text>
+		<text>The bandits are hiding something under the pipe, so we should check it out. From what we're hearing, it's clear that's where their supplies are.</text>
 	</string>
 	<string id="agr_u_secret_0000_name">
-		<text>Ѕандитский общак</text>
+		<text>Bandit stash</text>
 	</string>
 	<string id="agr_u_secret_0001_descr">
-		<text>—пр€тал рюкзак за кусками бетона, пойду налегке. Ћучше буду голодный, но живой.</text>
+		<text>I hid my backpack behind some concrete, I'm going to travel light. I'd rather be hungry but alive - that backpack was weighing me down.</text>
 	</string>
 	<string id="agr_u_secret_0001_name">
-		<text>–юкзак в закоулке</text>
+		<text>Backpack in the alley (start here for your first session on 1/27/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="agr_u_secret_0002_descr">
 		<text>ящик за ржавой "бочкой" в подземелье, все там лежит. я туда возвращатьс€ не собираюсь, дудки!  аким чудом € того кровососа задавил, до сих пор не помню.</text>
