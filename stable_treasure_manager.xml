@@ -187,7 +187,7 @@
 		<text>The bloodsucker's box</text>
 	</string>
 	<string id="agr_u_secret_0003_descr">
-		<text>There's loot behind the wall here. I'll take responsibility for what I say!</text>
+		<text>There's loot behind the wall here. I'm answering for the goods in store!</text>
 	</string>
 	<string id="agr_u_secret_0003_name">
 		<text>Stalker's loot</text>
@@ -196,31 +196,31 @@
 		<text>I've been digging up some valuables. I found sneaky place for my stash - it's at the yellow barrel here, hard to find.</text>
 	</string>
 	<string id="agr_u_secret_0004_name">
-		<text>The mole's burrow (start here for your second session on 1/28/24 and don't forget to remove this reminder when you start)</text>
+		<text>The mole's burrow</text>
 	</string>
 	<string id="bar_secret_0000_description">
-		<text>Спрятал рюкзак возле базы долга. Потом заберу</text>
+		<text>I hid my backpack near Duty's base. I'll pick it up later.</text>
 	</string>
 	<string id="bar_secret_0000_name">
-		<text>Спрятанный рюкзак</text>
+		<text>A hidden backpack</text>
 	</string>
 	<string id="bar_secret_0001_description">
-		<text>За мной погналась большая стая собак, если бы рюкзак не оставил, то до заставы не добежал бы</text>
+		<text>I was chased by a big pack of dogs. If I hadn't ditched my backpack here, I wouldn't have made it to the outpost.</text>
 	</string>
 	<string id="bar_secret_0001_name">
-		<text>Оставленный рюкзак</text>
+		<text>A backpack left behind</text>
 	</string>
 	<string id="bar_secret_0002_description">
-		<text>Все что осталось закопали под крестом</text>
+		<text>I've put the rest of my stash under the cross here.</text>
 	</string>
 	<string id="bar_secret_0002_name">
-		<text>Тайник под крестом</text>
+		<text>The stash under the cross</text>
 	</string>
 	<string id="bar_secret_0003_description">
-		<text>Скинул тут рюкзак, так полегче будет</text>
+		<text>Dropped my backpack here - it'll be easier that way.</text>
 	</string>
 	<string id="bar_secret_0003_name">
-		<text>Рюкзак</text>
+		<text>Backpack stash (start here for your second session on 1/28/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="bar_secret_0004_description">
 		<text>Снаряга заставы Долга, хранится в бункере, но за ящиком никто не следит</text>
