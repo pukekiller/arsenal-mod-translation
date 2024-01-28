@@ -178,25 +178,25 @@
 		<text>I hid my backpack behind some concrete, I'm going to travel light. I'd rather be hungry but alive - that backpack was weighing me down.</text>
 	</string>
 	<string id="agr_u_secret_0001_name">
-		<text>Backpack in the alley (start here for your first session on 1/27/24 and don't forget to remove this reminder when you start)</text>
+		<text>Backpack in the alley</text>
 	</string>
 	<string id="agr_u_secret_0002_descr">
-		<text>Ящик за ржавой "бочкой" в подземелье, все там лежит. Я туда возвращаться не собираюсь, дудки! Каким чудом я того кровососа задавил, до сих пор не помню.</text>
+		<text>I've put my stuff in the box behind the rusty barrel in the dungeon. I'm not going back there, no way! I still don't remember by what miracle I survived my encounter with that bloodsucker there.</text>
 	</string>
 	<string id="agr_u_secret_0002_name">
-		<text>Ящик кровососа</text>
+		<text>The bloodsucker's box</text>
 	</string>
 	<string id="agr_u_secret_0003_descr">
-		<text>За стеной лежит хабар. Отвечаю за базар!</text>
+		<text>There's loot behind the wall here. I'll take responsibility for what I say!</text>
 	</string>
 	<string id="agr_u_secret_0003_name">
-		<text>Хабар сталкера</text>
+		<text>Stalker's loot</text>
 	</string>
 	<string id="agr_u_secret_0004_descr">
-		<text>Я тут нарыл кое-какие ценности. Хитрое местечко для моего тайника. На желтой бочке, фиг найдешь.</text>
+		<text>I've been digging up some valuables. I found sneaky place for my stash - it's at the yellow barrel here, hard to find.</text>
 	</string>
 	<string id="agr_u_secret_0004_name">
-		<text>Нора крота</text>
+		<text>The mole's burrow (start here for your second session on 1/28/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="bar_secret_0000_description">
 		<text>Спрятал рюкзак возле базы долга. Потом заберу</text>
