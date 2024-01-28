@@ -220,16 +220,16 @@
 		<text>Dropped my backpack here - it'll be easier that way.</text>
 	</string>
 	<string id="bar_secret_0003_name">
-		<text>Backpack stash (start here for your second session on 1/28/24 and don't forget to remove this reminder when you start)</text>
+		<text>Backpack stash</text>
 	</string>
 	<string id="bar_secret_0004_description">
-		<text>Снаряга заставы Долга, хранится в бункере, но за ящиком никто не следит</text>
+		<text>This outpost that's owned by Duty has a crate in a bunker that stores the gear used by the guards. No one keeps an eye on it.</text>
 	</string>
 	<string id="bar_secret_0004_name">
-		<text>Склад в бункере</text>
+		<text>Bunker storage crate</text>
 	</string>
 	<string id="bar_secret_0005_description">
-		<text>Видел как долговец что-то сунул в трубу, возле заставы</text>
+		<text>I saw a Dutyer shove something down a pipe that's near the outpost. I've marked it here. (start here for your first session on 1/28/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="bar_secret_0005_name">
 		<text>Тайник</text>
