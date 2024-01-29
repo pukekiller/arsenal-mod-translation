@@ -262,19 +262,19 @@
 		<text>I've hidden my stuff in a pipe under some stairs here.</text>
 	</string>
 	<string id="bar_secret_0010_name">
-		<text>Secret stash (Start here for your second session on 1/29/24 and don't forget to remove this reminder when you start)</text>
+		<text>Secret stash</text>
 	</string>
 	<string id="bar_secret_0011_description">
-		<text>Недалеко от бара схоронил добро, за аномалиями, никто не подберется. Да и как открывать не знают, а все просто, там поддеть дверцу надо, сразу и откроется</text>
+		<text>I hid the goods not far from the bar, behind the anomalies - nobody will get in there. And even they got there they wouldn't know how to open it. But it's all very simple - just pull up at the door, and everything will open.</text>
 	</string>
 	<string id="bar_secret_0011_name">
-		<text>Тайник Арни</text>
+		<text>Arnie's secret stash</text>
 	</string>
 	<string id="bar_secret_0012_description">
-		<text>Недалеко от бара схоронил добро</text>
+		<text>I buried some good loot near the bar. I've marked the stash here.</text>
 	</string>
 	<string id="bar_secret_0012_name">
-		<text>Тайник</text>
+		<text>Secret stash (start here for your first session on 1/29/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="bar_secret_0013_description">
 		<text>Возле бара в ящике</text>
