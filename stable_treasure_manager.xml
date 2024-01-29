@@ -229,28 +229,28 @@
 		<text>Bunker storage crate</text>
 	</string>
 	<string id="bar_secret_0005_description">
-		<text>I saw a Dutyer shove something down a pipe that's near the outpost. I've marked it here. (start here for your first session on 1/28/24 and don't forget to remove this reminder when you start)</text>
+		<text>I saw a Dutyer shove something down a pipe that's near the outpost. I've marked it here.</text>
 	</string>
 	<string id="bar_secret_0005_name">
-		<text>Тайник</text>
+		<text>Secret stash</text>
 	</string>
 	<string id="bar_secret_0006_description">
-		<text>Это все ему принадлежало, пусть пока тут и полежит</text>
+		<text>All of this stuff belongs to another stalker, so he can keep it here for now.</text>
 	</string>
 	<string id="bar_secret_0006_name">
-		<text>Тайник под крестом</text>
+		<text>The hiding place under the cross</text>
 	</string>
 	<string id="bar_secret_0007_description">
-		<text>Иду в бар, рюкзак оставил в ангаре</text>
+		<text>I'm going to the bar. I left my backpack in the hangar - no one will find it there.</text>
 	</string>
 	<string id="bar_secret_0007_name">
-		<text>Рюкзак</text>
+		<text>Backpack stash</text>
 	</string>
 	<string id="bar_secret_0008_description">
-		<text>Говорят на территории Долга, в электрощитке, что-то ценное лежит</text>
+		<text>They say that there's something valuable hidden on the Duty's territory in the electrical box.</text>
 	</string>
 	<string id="bar_secret_0008_name">
-		<text>Электрощиток с тайником</text>
+		<text>Electrical box stash (start here for your second session on 1/29/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="bar_secret_0009_description">
 		<text>Наверху башни возле Долга запихнул ящичек так, что никто не заметит</text>
