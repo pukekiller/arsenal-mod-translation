@@ -304,25 +304,25 @@
 		<text>I stashed a box of antirads in a pipe near the arena.</text>
 	</string>
 	<string id="bar_secret_0017_name">
-		<text>Antirad stash (start here for your second session on 1/30/24 and don't forget to remove this reminder when you start)</text>
+		<text>Antirad stash</text>
 	</string>
 	<string id="bar_secret_0018_description">
-		<text>Под башней спрятал шмотье в трубе</text>
+		<text>I hid my clothes in the pipe under the tower, I've marked its located here.</text>
 	</string>
 	<string id="bar_secret_0018_name">
-		<text>Тайник</text>
+		<text>Secret stash</text>
 	</string>
 	<string id="bar_secret_0019_description">
-		<text>Под крестом тайник</text>
+		<text>There's a stash buried under the cross here.</text>
 	</string>
 	<string id="bar_secret_0019_name">
-		<text>Тайник</text>
+		<text>Secret stash</text>
 	</string>
 	<string id="esc_secret_0000_descr">
-		<text>Во время перегруппировки спрятал боеприпас в вагоне. Не забыть.</text>
+		<text>I hid army supplies in a train car during regrouping. I need to remember where it is, so I've marked it here.</text>
 	</string>
 	<string id="esc_secret_0000_name">
-		<text>Вагон над мостом</text>
+		<text>Train car above the bridge (start here for your first session on 1/30/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="esc_secret_0001_descr">
 		<text>Видел, как возле железнодорожного туннеля в лесу накрылся в аномалии какой-то сталкер, вроде шмотки неплохие были.</text>
