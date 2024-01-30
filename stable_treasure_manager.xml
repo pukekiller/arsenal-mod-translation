@@ -274,25 +274,25 @@
 		<text>I buried some good loot near the bar. I've marked the stash here.</text>
 	</string>
 	<string id="bar_secret_0012_name">
-		<text>Secret stash (start here for your first session on 1/29/24 and don't forget to remove this reminder when you start)</text>
+		<text>Secret stash</text>
 	</string>
 	<string id="bar_secret_0013_description">
-		<text>Возле бара в ящике</text>
+		<text>There's a box by the bar here. I've hid some of my stuff in it.</text>
 	</string>
 	<string id="bar_secret_0013_name">
-		<text>Ящик</text>
+		<text>Box</text>
 	</string>
 	<string id="bar_secret_0014_description">
-		<text>В закоулке, возле бара, припрятал ящичек</text>
+		<text>I've made a stash with a box and put it in a nook near the bar.</text>
 	</string>
 	<string id="bar_secret_0014_name">
-		<text>Ящичек</text>
+		<text>Nook stash</text>
 	</string>
 	<string id="bar_secret_0015_description">
-		<text>Закопал под крестом, за елками</text>
+		<text>I buried some stuff under the cross here, behind the trees.</text>
 	</string>
 	<string id="bar_secret_0015_name">
-		<text>Тайник</text>
+		<text>Secret stash (start here for your second session on 1/30/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="bar_secret_0016_description">
 		<text>Под крестом, недалеко от прохода к Дикой территории</text>
