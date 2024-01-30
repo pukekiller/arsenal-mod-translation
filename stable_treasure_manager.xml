@@ -292,19 +292,19 @@
 		<text>I buried some stuff under the cross here, behind the trees.</text>
 	</string>
 	<string id="bar_secret_0015_name">
-		<text>Secret stash (start here for your second session on 1/30/24 and don't forget to remove this reminder when you start)</text>
+		<text>Secret stash</text>
 	</string>
 	<string id="bar_secret_0016_description">
-		<text>Под крестом, недалеко от прохода к Дикой территории</text>
+		<text>I've put some of my stuff under the cross that's near the passageway to the Wild Territory.</text>
 	</string>
 	<string id="bar_secret_0016_name">
-		<text>Тайник</text>
+		<text>Secret stash</text>
 	</string>
 	<string id="bar_secret_0017_description">
-		<text>В трубе, возле Арены, припрятал ящичек c антирадом</text>
+		<text>I stashed a box of antirads in a pipe near the arena.</text>
 	</string>
 	<string id="bar_secret_0017_name">
-		<text>Ящичек</text>
+		<text>Antirad stash (start here for your second session on 1/30/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="bar_secret_0018_description">
 		<text>Под башней спрятал шмотье в трубе</text>
