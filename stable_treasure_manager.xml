@@ -328,7 +328,7 @@
 		<text>I saw a stalker go down under an anomaly by the train tunnel in the woods. Seemed like he had some pretty good stuff.</text>
 	</string>
 	<string id="esc_secret_0001_name">
-		<text>Things belonging to the stalker who perished in the anomaly.</text>
+		<text>Things belonging to the stalker who perished in the anomaly</text>
 	</string>
 	<string id="esc_secret_0002_descr">
 		<text>I've hid some of my loot under the cross near the bandit camp. I've marked the location here.</text>
@@ -346,13 +346,13 @@
 		<text>When my comrades and I were fighting off the dogs in uniform, I buried some goods under the bridge. Let them stay there for now.</text>
 	</string>
 	<string id="esc_secret_0004_name">
-		<text>Stash under the cross (start here for your second session on 1/31/24 and don't forget to remove this reminder when you start)</text>
+		<text>Stash under the cross</text>
 	</string>
 	<string id="esc_secret_0005_descr">
-		<text>Рюкзак я сунул на чердак. Вернусь потом, пока никак.</text>
+		<text>I stuck the backpack in the cellar. I'll be back later - can't get to it right now.</text>
 	</string>
 	<string id="esc_secret_0005_name">
-		<text>Убежище на чердаке</text>
+		<text>Shelter in the cellar	(start here for your second session on 1/31/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="esc_secret_0006_descr">
 		<text>На ферме нашел полузакопанный сейф, буду пока там хранить добро.</text>
