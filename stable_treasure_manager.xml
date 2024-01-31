@@ -328,25 +328,25 @@
 		<text>I saw a stalker go down under an anomaly by the train tunnel in the woods. Seemed like he had some pretty good stuff.</text>
 	</string>
 	<string id="esc_secret_0001_name">
-		<text>Things belonging to the stalker who perished in the anomaly (start here for your first session on 1/30/24 and don't forget to remove this reminder when you start)</text>
+		<text>Things belonging to the stalker who perished in the anomaly.</text>
 	</string>
 	<string id="esc_secret_0002_descr">
-		<text>Возле лагеря бандитов под крестом я спрятал хабар.</text>
+		<text>I've hid some of my loot under the cross near the bandit camp. I've marked the location here.</text>
 	</string>
 	<string id="esc_secret_0002_name">
-		<text>Крест у лагеря бандюков</text>
+		<text>The cross near the bandits' camp</text>
 	</string>
 	<string id="esc_secret_0003_descr">
-		<text>Перехваченный бандитами ящик обнаружен на чердаке центрального дома, надо подготовить отряд и отбить его.</text>
+		<text>The crate stolen by the bandits has been found in the cellar of the central building. Need to prepare a detachment and get it.</text>
 	</string>
 	<string id="esc_secret_0003_name">
-		<text>Бандитский склад</text>
+		<text>Bandits' warehouse</text>
 	</string>
 	<string id="esc_secret_0004_descr">
-		<text>Когда мы с братками отбивались от собак в погонах, я зарыл кое-какое добро под крестом. Пусть полежит.</text>
+		<text>When my comrades and I were fighting off the dogs in uniform, I buried some goods under the bridge. Let them stay there for now.</text>
 	</string>
 	<string id="esc_secret_0004_name">
-		<text>Под крестом</text>
+		<text>Stash under the cross (start here for your second session on 1/31/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="esc_secret_0005_descr">
 		<text>Рюкзак я сунул на чердак. Вернусь потом, пока никак.</text>
