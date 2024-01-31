@@ -352,25 +352,25 @@
 		<text>I stuck the backpack in the cellar. I'll be back later - can't get to it right now.</text>
 	</string>
 	<string id="esc_secret_0005_name">
-		<text>Shelter in the cellar	(start here for your second session on 1/31/24 and don't forget to remove this reminder when you start)</text>
+		<text>Shelter in the cellar</text>
 	</string>
 	<string id="esc_secret_0006_descr">
-		<text>На ферме нашел полузакопанный сейф, буду пока там хранить добро.</text>
+		<text>I've found a half-buried safe at the farm, I'll keep my stuff in it for now.</text>
 	</string>
 	<string id="esc_secret_0006_name">
-		<text>Сейф на ферме</text>
+		<text>Safe at the farm</text>
 	</string>
 	<string id="esc_secret_0007_descr">
-		<text>Ребятки шепнули, что в вагоне на мосту кто-то что-то прячет, надо заглянуть на обратном пути. Узнать бы кто...</text>
+		<text>A little bird told me that somebody's hiding something in the train car on the bridge. Will need to check it out on the way back. I wonder who...</text>
 	</string>
 	<string id="esc_secret_0007_name">
-		<text>Контейнер в вагоне</text>
+		<text>Container in the train car</text>
 	</string>
 	<string id="esc_secret_0008_descr">
-		<text>Спрятал товар под самой крышей, в домике возле моста.</text>
+		<text>Hid the goods right under the roof of the little house by the bridge.</text>
 	</string>
 	<string id="esc_secret_0008_name">
-		<text>Товар сталкера</text>
+		<text>Goods of the shooter (start here for your first session on 1/31/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="esc_secret_0009_descr">
 		<text>Шмотье спрятал в одном из ящиков недалеко от моста. Все, завязываю. Ухожу из Зоны, прощайте, братки! Не забуду мать родную.</text>
