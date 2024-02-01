@@ -379,16 +379,16 @@
 		<text>Old Tokarev pistol and loot stash</text>
 	</string>
 	<string id="esc_secret_0010_descr">
-		<text>Недалеко от лагеря новичков сгинул какой-то сталкер, надо бы посмотреть его добро.</text>
+		<text>One of the stalkers died near the newbies' camp. Check out his goods.</text>
 	</string>
 	<string id="esc_secret_0010_name">
-		<text>Снял с военного ствол, а Сидорович гад за копейки купить хотел... Ну его нафиг. Припрятал его и немного патронов в своей нычке на черный день.</text>
+		<text>The backpack near the village</text>
 	</string>
 	<string id="esc_secret_0011_descr">
-		<text>На чердаке тайник, узнал у Лихого. Он много языком ляпал, мы его и пришили.</text>
+		<text>Found out from Lihoi that the secret stash is in the cellar. He was talking too much so we shut him up for good, and I took his PDA.</text>
 	</string>
 	<string id="esc_secret_0011_name">
-		<text>Чердак в деревне</text>
+		<text>Cellar in the village (start here for your second session on 2/1/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="esc_secret_0012_descr">
 		<text>Нашел на чердаке отличный тайник, подожду, пока кто-то туда что-то положит.</text>
