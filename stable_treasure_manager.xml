@@ -445,16 +445,16 @@
 		<text>Bandits' storage (start here for your second session on 2/2/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="gar_secret_0001_descr">
-		<text>Мы с Васей ходили посмотреть чё как, тут Васю и настигла ментовская пуля. А я тут ни при чем. Пуля - дура. Вещички схоронил на кране в трубе.</text>
+		<text>I killed a stalker the other day. Hid all his loot by the crane. There's something odd about the gun he had though, it looks really old. I've never the type of gun he had before.</text>
 	</string>
 	<string id="gar_secret_0001_name">
-		<text>Грохнул сталкера недавно. Весь хабар спрятал около крана. Вот только ствол у него был какойто странный... видать очень старый, я таких не видел.</text>
+		<text>Bandit's loot</text>
 	</string>
 	<string id="gar_secret_0002_descr">
-		<text>На Свалке в железнодорожном туннеле за дизелем со всем своим барахлом накрылся Гризли. Жаль парня.</text>
+		<text>Grizzly died while carrying all of his stuff with him at the Garbage, in the train tunnel behind the diesel locomotive. Pity about Grizzly.</text>
 	</string>
 	<string id="gar_secret_0002_name">
-		<text>Вещи Гризли</text>
+		<text>Grizzly's things (start here for your first session on 2/2/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="gar_secret_0003_descr">
 		<text>Хабар прятанул в трубе на свалке.</text>
