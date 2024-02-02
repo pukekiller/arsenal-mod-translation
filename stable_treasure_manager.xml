@@ -418,25 +418,25 @@
 		<text>The goodies are hidden in the bandits' cellar. They weren't there before so let's wait for the right time to take them all.</text>
 	</string>
 	<string id="esc_secret_0016_name">
-		<text>The robbers' cellar (start here for your first session on 2/1/24 and don't forget to remove this reminder when you start)</text>
+		<text>The robbers' cellar</text>
 	</string>
 	<string id="esc_secret_0017_descr">
-		<text>Обнаружил инвентарь в трубе, недалеко от фермы. Вот гауптвахта закончится - обязательно вернусь.</text>
+		<text>Discovered some loot being stored in a pipe that's not far from the farm. Once the stockade is over, I'll definitely come back.</text>
 	</string>
 	<string id="esc_secret_0017_name">
-		<text>Газовая труба</text>
+		<text>Gas pipe</text>
 	</string>
 	<string id="esc_secret_0018_descr">
-		<text>Недалеко от поста скинул рюкзак, надо поскорее забрать, пока командир не перевел нас на другую локацию.</text>
+		<text>I've temporarily left a crate at the tower, I've marked its location on the map. I'll pick it up when I can.</text>
 	</string>
 	<string id="esc_secret_0018_name">
-		<text>Спрятанные вещи</text>
+		<text>Hidden stash</text>
 	</string>
 	<string id="esc_secret_0019_descr">
-		<text>На вышке временно оставил ящик. Заберу, когда смогу.</text>
+		<text>I've temporarily left a crate at the tower, I've marked its location on the map. I'll pick it up when I can.</text>
 	</string>
 	<string id="esc_secret_0019_name">
-		<text>Вышка на КПП</text>
+		<text>Tower at the checkpoint (start here for your second session on  2/2/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="gar_secret_0000_descr">
 		<text>Видел, как бандит прятал свое добро в ангаре в ящике. Как бы это тихо упереть?</text>
