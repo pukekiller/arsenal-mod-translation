@@ -436,13 +436,13 @@
 		<text>I've temporarily left a crate at the tower, I've marked its location on the map. I'll pick it up when I can.</text>
 	</string>
 	<string id="esc_secret_0019_name">
-		<text>Tower at the checkpoint (start here for your second session on  2/2/24 and don't forget to remove this reminder when you start)</text>
+		<text>Tower at the checkpoint</text>
 	</string>
 	<string id="gar_secret_0000_descr">
-		<text>Видел, как бандит прятал свое добро в ангаре в ящике. Как бы это тихо упереть?</text>
+		<text>I saw how a bandit hid his goods in a crate in the hangar. How can I quietly steal it?</text>
 	</string>
 	<string id="gar_secret_0000_name">
-		<text>Бандитский схрон</text>
+		<text>Bandits' storage (start here for your second session on 2/2/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="gar_secret_0001_descr">
 		<text>Мы с Васей ходили посмотреть чё как, тут Васю и настигла ментовская пуля. А я тут ни при чем. Пуля - дура. Вещички схоронил на кране в трубе.</text>
