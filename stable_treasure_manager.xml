@@ -484,25 +484,25 @@
 		<text>Someone's backpack is lying around in the valley, with anomalies all around. How could you get to it?</text>
 	</string>
 	<string id="gar_secret_0007_name">
-		<text>Nobody's backpack (start here for your second session on 2/3/24 and don't forget to remove this reminder when yuo start)</text>
+		<text>Nobody's backpack</text>
 	</string>
 	<string id="gar_secret_0008_descr">
-		<text>Замочили стукача на болоте, там мы его и прикопали. А хабарок его под крестом оставили, не до того было.</text>
+		<text>Finished off the traitor in the swamp... we buried him there too and left his goodies under the cross. Had more important things to worry about.</text>
 	</string>
 	<string id="gar_secret_0008_name">
-		<text>Вещи убитого</text>
+		<text>The belongings of the murdered one</text>
 	</string>
 	<string id="gar_secret_0009_descr">
-		<text>В пеньке тайник, хорошее место.</text>
+		<text>There's a secret stash in the stump here - this is a good place to hide stuff.</text>
 	</string>
 	<string id="gar_secret_0009_name">
-		<text>Трухлявый пень</text>
+		<text>Rotted stump</text>
 	</string>
 	<string id="gar_secret_0010_descr">
-		<text>В лесу бревно, внутри - дыра. В ней клад, забрать его пора.</text>
+		<text>There's a log in the forest with a hold inside. In the hole there's treasure - it's time to get it.</text>
 	</string>
 	<string id="gar_secret_0010_name">
-		<text>Бревно в лесу</text>
+		<text>Log in the forest (start here for your first session on 2/3/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="gar_secret_0011_descr">
 		<text>Петренко передал, что есть информация про тайник группы Стрелка на Свалке. Тут на равнине в низине должен быть люк, рассказал как его надо хитро открывать. Как успокоится все, надо туда смотаться.</text>
