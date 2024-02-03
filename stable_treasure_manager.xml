@@ -466,25 +466,25 @@
 		<text>The things are in the garbage, in one of the pipes. If you don't know exactly where they are, you won't find them.</text>
 	</string>
 	<string id="gar_secret_0004_name">
-		<text>Extra cash in the scrap metal (start here for your second session on 2/3/24 and don't forget to remove this reminder when you start)</text>
+		<text>Extra cash in the scrap metal</text>
 	</string>
 	<string id="gar_secret_0005_descr">
-		<text>Спрятал барахло в металлической трубе возле двух цистерн. Надо бы забрать, но некогда.</text>
+		<text>I hid the stuff in a metal pipe next to the two cisterns. I should pick it up, but don't have the time.</text>
 	</string>
 	<string id="gar_secret_0005_name">
-		<text>Чугунка возле цистерн</text>
+		<text>Iron furnace next to the cistern</text>
 	</string>
 	<string id="gar_secret_0006_descr">
-		<text>Среди радиоактивного мусора, где мало кто шастает, спрятаны кое-какие полезные вещи.</text>
+		<text>There are some useful things hidden among the radioactive waste, where few hang around.</text>
 	</string>
 	<string id="gar_secret_0006_name">
-		<text>Труба на Восточной куче</text>
+		<text>Pipe on the East pile</text>
 	</string>
 	<string id="gar_secret_0007_descr">
-		<text>В низине валяется чей-то рюкзак, вокруг аномалии. Как бы до него добраться?</text>
+		<text>Someone's backpack is lying around in the valley, with anomalies all around. How could you get to it?</text>
 	</string>
 	<string id="gar_secret_0007_name">
-		<text>Ничейный рюкзак</text>
+		<text>Nobody's backpack (start here for your second session on 2/3/24 and don't forget to remove this reminder when yuo start)</text>
 	</string>
 	<string id="gar_secret_0008_descr">
 		<text>Замочили стукача на болоте, там мы его и прикопали. А хабарок его под крестом оставили, не до того было.</text>
