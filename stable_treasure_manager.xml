@@ -454,19 +454,19 @@
 		<text>Grizzly died while carrying all of his stuff with him at the Garbage, in the train tunnel behind the diesel locomotive. Pity about Grizzly.</text>
 	</string>
 	<string id="gar_secret_0002_name">
-		<text>Grizzly's things (start here for your first session on 2/2/24 and don't forget to remove this reminder when you start)</text>
+		<text>Grizzly's things</text>
 	</string>
 	<string id="gar_secret_0003_descr">
-		<text>Хабар прятанул в трубе на свалке.</text>
+		<text>Stowed the goodies away in a pipe at the garbage.</text>
 	</string>
 	<string id="gar_secret_0003_name">
-		<text>Труба на Северной куче</text>
+		<text>Pipe on the North pile</text>
 	</string>
 	<string id="gar_secret_0004_descr">
-		<text>Вещи лежат на свалке, в одной трубе. Если не знать, где точно, ни за что не найдешь.</text>
+		<text>The things are in the garbage, in one of the pipes. If you don't know exactly where they are, you won't find them.</text>
 	</string>
 	<string id="gar_secret_0004_name">
-		<text>Заначка в металлоломе</text>
+		<text>Extra cash in the scrap metal (start here for your second session on 2/3/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="gar_secret_0005_descr">
 		<text>Спрятал барахло в металлической трубе возле двух цистерн. Надо бы забрать, но некогда.</text>
