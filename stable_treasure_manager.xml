@@ -526,31 +526,31 @@
 		<text>I put my stash in a box that's in a strange little house around the corner. I still don't know what that building was for.</text>
 	</string>
 	<string id="gar_secret_0014_name">
-		<text>Outhouse supplies (start here for your second session on 2/4/24 and don't forget to remove this reminder when you start)</text>
+		<text>Outhouse supplies</text>
 	</string>
 	<string id="gar_secret_0015_descr">
-		<text>На куче мусора полузакопанный сейф, там то оно все и лежит. Не забыть бы, что.</text>
+		<text>There's a safe partially buried in a pile of trash here. There's a lot of good stuff in it. Better not forget about it.</text>
 	</string>
 	<string id="gar_secret_0015_name">
-		<text>Сейф на Южной куче</text>
+		<text>Safe in the South pile</text>
 	</string>
 	<string id="gar_secret_0016_descr">
-		<text>На куче мусора в трубе положил хабар.</text>
+		<text>I put some of my loof in a pipe that's sitting on a pile of trash here.</text>
 	</string>
 	<string id="gar_secret_0016_name">
-		<text>Схрон в металлоломе</text>
+		<text>Storage in the scrap metal yard</text>
 	</string>
 	<string id="gar_secret_0017_descr">
-		<text>Начальник по рации передал - отход. Я набрел на ящик, скинул в него лишний вес и отошел налегке.</text>
+		<text>The head of radio communications passed along a message to us: retreat. I found a chest, threw in what I had on me, and retreated empty-handed.</text>
 	</string>
 	<string id="gar_secret_0017_name">
-		<text>Запас в ящике</text>
+		<text>Supplies in the chest</text>
 	</string>
 	<string id="gar_secret_0018_descr">
-		<text>Хабар сунул в трубу на свалке. Долго он там не пролежит.</text>
+		<text>I put the loot into a pipe at this location in the Garbage. It won't stay there for long.</text>
 	</string>
 	<string id="gar_secret_0018_name">
-		<text>Труба у автобуса</text>
+		<text>Pipe by the bus (start here for your first session on 2/4/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="gar_secret_0019_descr">
 		<text>В развалинах хорошо запрятал рюкзак. Надеюсь, забрать будет легко, если бандиты не помешают.</text>
