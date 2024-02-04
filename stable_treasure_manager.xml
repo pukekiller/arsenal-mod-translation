@@ -502,31 +502,31 @@
 		<text>There's a log in the forest with a hold inside. In the hole there's treasure - it's time to get it.</text>
 	</string>
 	<string id="gar_secret_0010_name">
-		<text>Log in the forest (start here for your first session on 2/3/24 and don't forget to remove this reminder when you start)</text>
+		<text>Log in the forest</text>
 	</string>
 	<string id="gar_secret_0011_descr">
-		<text>Петренко передал, что есть информация про тайник группы Стрелка на Свалке. Тут на равнине в низине должен быть люк, рассказал как его надо хитро открывать. Как успокоится все, надо туда смотаться.</text>
+		<text>Petrenko wanted to pass on the word that there's information about the secret stash of the Strelok faction at the Garbage. Here in the valley floor there has to be a manhole, he explained how there's a trick to opening it. As soon as everything calms down, we gotta go there and check it out.</text>
 	</string>
 	<string id="gar_secret_0011_name">
-		<text>Склад группы Стрелка</text>
+		<text>Strelok's group stash</text>
 	</string>
 	<string id="gar_secret_0012_descr">
-		<text>Запрятал в машину, Длинный говорил, хорошее место.</text>
+		<text>I hid my stash in the car, the Long One said it was a good place</text>
 	</string>
 	<string id="gar_secret_0012_name">
-		<text>Тайник в машине</text>
+		<text>Secret stash in the car</text>
 	</string>
 	<string id="gar_secret_0013_descr">
-		<text>В автобусе положил рюкзак, вроде незаметно.</text>
+		<text>I put the backpack in the bus - seems unnoticeable.</text>
 	</string>
 	<string id="gar_secret_0013_name">
-		<text>Рюкзак сталкера в автобусе</text>
+		<text>Stalker's backpack in the bus</text>
 	</string>
 	<string id="gar_secret_0014_descr">
-		<text>Запас сложил в ящике, в странном домике за углом. До сих пор не пойму, для чего та постройка.</text>
+		<text>I put my stash in a box that's in a strange little house around the corner. I still don't know what that building was for.</text>
 	</string>
 	<string id="gar_secret_0014_name">
-		<text>Сортирные запасы</text>
+		<text>Outhouse supplies (start here for your second session on 2/4/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="gar_secret_0015_descr">
 		<text>На куче мусора полузакопанный сейф, там то оно все и лежит. Не забыть бы, что.</text>
