@@ -568,25 +568,25 @@
 		<text>They say that Weakling choked at the Garbage - need to drop by to check out the goods. Otherwise there'll be many interested parties coming in.</text>
 	</string>
 	<string id="gar_secret_0021_name">
-		<text>Weakling's backpack (start here for your second session on 2/5/24 and don't forget to remove this reminder when you start)</text>
+		<text>Weakling's backpack</text>
 	</string>
 	<string id="gar_secret_0022_descr">
-		<text>В люке пока спрячу добро, авось не найдут.</text>
+		<text>For now I'll hide my loot in the pothole. Maybe they won't find them.</text>
 	</string>
 	<string id="gar_secret_0022_name">
-		<text>Авоська в люке</text>
+		<text>String bag in the pothole</text>
 	</string>
 	<string id="gar_secret_0023_descr">
-		<text>Возле экскаватора кто-то сгинул в аномалии, рюкзак видно, а достать тяжело.</text>
+		<text>An anomaly got someone by the escalator - the backpack is in view, but hard to get to.</text>
 	</string>
 	<string id="gar_secret_0023_name">
-		<text>Под ковшом</text>
+		<text>Under the backhoe bucket</text>
 	</string>
 	<string id="gar_secret_0024_descr">
-		<text>Еле пролез под балками, зато хорошо рюкзак спрятал, никто сюда не полезет.</text>
+		<text>Barely made it under the beams, but at least the backpack's well hidden - nobody will try to climb in here.</text>
 	</string>
 	<string id="gar_secret_0024_name">
-		<text>Заначка под бетонными блоками</text>
+		<text>The extra cash is under the concrete blocks (start here for your first session on 2/5/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="mil_secret_0000_description">
 		<text>Сунул добро в бревно, думаю не найдут.</text>
