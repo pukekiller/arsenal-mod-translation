@@ -550,25 +550,25 @@
 		<text>I put the loot into a pipe at this location in the Garbage. It won't stay there for long.</text>
 	</string>
 	<string id="gar_secret_0018_name">
-		<text>Pipe by the bus (start here for your first session on 2/4/24 and don't forget to remove this reminder when you start)</text>
+		<text>Pipe by the bus</text>
 	</string>
 	<string id="gar_secret_0019_descr">
-		<text>В развалинах хорошо запрятал рюкзак. Надеюсь, забрать будет легко, если бандиты не помешают.</text>
+		<text>I managed to hide my backpack in the ruins here well - it's almost impossible to notice it. Hopefully, it'll be easy to retrieve if the bandits don't interfere.</text>
 	</string>
 	<string id="gar_secret_0019_name">
-		<text>Рюкзак в развалинах</text>
+		<text>The Backpack is in the Ruins</text>
 	</string>
 	<string id="gar_secret_0020_descr">
-		<text>Пока долговцы стрелялись, припрятал хабар в вагончике. Надо как-то зайти, забрать. И сказать спасибо Долгу.</text>
+		<text>While the dutyers were shooting, I hid the habar in the train car. Somehow I have to get in to pick it up. And to thank the Duty.</text>
 	</string>
 	<string id="gar_secret_0020_name">
-		<text>Ящик на блокпосте</text>
+		<text>Crate at the heavily armed military checkpoint</text>
 	</string>
 	<string id="gar_secret_0021_descr">
-		<text>Говорят, Дохляк на Свалке скопытился, надо наведаться, хабар глянуть. А то желающих много набежит.</text>
+		<text>They say that Weakling choked at the Garbage - need to drop by to check out the goods. Otherwise there'll be many interested parties coming in.</text>
 	</string>
 	<string id="gar_secret_0021_name">
-		<text>Рюкзак Дохляка</text>
+		<text>Weakling's backpack (start here for your second session on 2/5/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="gar_secret_0022_descr">
 		<text>В люке пока спрячу добро, авось не найдут.</text>
