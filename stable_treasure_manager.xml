@@ -604,25 +604,25 @@
 		<text>I hid my loot in this rusting Kamaz - it's a good place to hide my stuff.</text>
 	</string>
 	<string id="mil_secret_0002_name">
-		<text>Secret stash in Kamaz truck (start here for your second session on 2/6/24 and don't forget to remove this reminder when you start)</text>
+		<text>Secret stash in Kamaz truck</text>
 	</string>
 	<string id="mil_secret_0003_description">
-		<text>Под крестом, возле деревни, закопал хабара чуток.</text>
+		<text>Buried some goodies under the cross by the village.</text>
 	</string>
 	<string id="mil_secret_0003_name">
-		<text>Клад под крестом</text>
+		<text>Treasure under the cross</text>
 	</string>
 	<string id="mil_secret_0004_description">
-		<text>В трубу кинул шмотки, потом заберу.</text>
+		<text>Threw my things into the pipe at this location marked on the map, will pick them up later.</text>
 	</string>
 	<string id="mil_secret_0004_name">
-		<text>Тайник в трубе</text>
+		<text>Secret stash in the pipe</text>
 	</string>
 	<string id="mil_secret_0005_description">
-		<text>Тайник в водонапорной башне, в ящике.</text>
+		<text>There's a secret stash in the crate inside the water tower.</text>
 	</string>
 	<string id="mil_secret_0005_name">
-		<text>Клад в башне</text>
+		<text>Treasure in the water tower (start here for your first session on 2/6/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="mil_secret_0006_description">
 		<text>В печку сунул рюкзак, потом пригодится.</text>
