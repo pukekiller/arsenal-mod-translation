@@ -622,25 +622,25 @@
 		<text>There's a secret stash in the crate inside the water tower.</text>
 	</string>
 	<string id="mil_secret_0005_name">
-		<text>Treasure in the water tower (start here for your first session on 2/6/24 and don't forget to remove this reminder when you start)</text>
+		<text>Treasure in the water tower</text>
 	</string>
 	<string id="mil_secret_0006_description">
-		<text>В печку сунул рюкзак, потом пригодится.</text>
+		<text>I put my backpack in the stove here, the stuff in it will come in handy later.</text>
 	</string>
 	<string id="mil_secret_0006_name">
-		<text>Печной тайник</text>
+		<text>Secret stash in a stove</text>
 	</string>
 	<string id="mil_secret_0007_description">
-		<text>Хабар спрятал в машине, в деревне заброшенной.</text>
+		<text>Hid my loot in the car right next to the the Freedom base, didn't have any time to look for a better place.</text>
 	</string>
 	<string id="mil_secret_0007_name">
-		<text>Авто-тайник</text>
+		<text>Secret stash in the car</text>
 	</string>
 	<string id="mil_secret_0008_description">
-		<text>В развалинах с радиацией оставил рюкзак. Побоятся сунуться.</text>
+		<text>Hid the loot in the car in the abandoned village.</text>
 	</string>
 	<string id="mil_secret_0008_name">
-		<text>Опасный секрет</text>
+		<text>Dangerous secret (start here for your second session on 2/7/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="mil_secret_0009_description">
 		<text>Закопал хабар под крестом, в укромном месте.</text>
