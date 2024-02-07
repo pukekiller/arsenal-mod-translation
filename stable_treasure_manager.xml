@@ -637,22 +637,22 @@
 		<text>Secret stash in the car</text>
 	</string>
 	<string id="mil_secret_0008_description">
-		<text>Hid the loot in the car in the abandoned village.</text>
+		<text>Hid the loot in the car here at the abandoned village.</text>
 	</string>
 	<string id="mil_secret_0008_name">
-		<text>Dangerous secret (start here for your second session on 2/7/24 and don't forget to remove this reminder when you start)</text>
+		<text>Dangerous secret</text>
 	</string>
 	<string id="mil_secret_0009_description">
-		<text>Закопал хабар под крестом, в укромном месте.</text>
+		<text>I buried my loot under an cross in a hidden place.</text>
 	</string>
 	<string id="mil_secret_0009_name">
-		<text>Схрон сталкера</text>
+		<text>Stalker's stash</text>
 	</string>
 	<string id="mil_secret_0010_description">
-		<text>Припрятал рюкзачок со снарягой в укромном месте.</text>
+		<text>Hid away the backpack with the equipment in a cozy spot.</text>
 	</string>
 	<string id="mil_secret_0010_name">
-		<text>Рюкзак со снаряжением</text>
+		<text>Backpack with equipment (start here for your first session on 2/7/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="mil_secret_0011_description">
 		<text>Шмотье припрятал на холме в машине.</text>
