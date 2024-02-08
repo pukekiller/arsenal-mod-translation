@@ -652,25 +652,25 @@
 		<text>Hid away the backpack with the equipment in a cozy spot.</text>
 	</string>
 	<string id="mil_secret_0010_name">
-		<text>Backpack with equipment (start here for your first session on 2/7/24 and don't forget to remove this reminder when you start)</text>
+		<text>Backpack with equipment</text>
 	</string>
 	<string id="mil_secret_0011_description">
-		<text>Шмотье припрятал на холме в машине.</text>
+		<text>Hid my loot in the car on a hill.</text>
 	</string>
 	<string id="mil_secret_0011_name">
-		<text>Тайник на холме</text>
+		<text>Secret stash on a hill</text>
 	</string>
 	<string id="mil_secret_0012_description">
-		<text>Упал вертолет возле заброшенной военной базы, ящик лежит недалеко, прямо под вертолетом. Одна беда, аномалии и радиация кругом.</text>
+		<text>A helicopter fell right by the abandoned military base, and the crate is right there, under the helicopter. One problem - there are anomalies all over the place, along with radioactive hot spots.</text>
 	</string>
 	<string id="mil_secret_0012_name">
-		<text>Ящик из вертолёта</text>
+		<text>Crate from the helicopter</text>
 	</string>
 	<string id="mil_secret_0013_description">
-		<text>На холме под крестом закопал хабар.</text>
+		<text>Buried the loot on the hill, under the cross at this location.</text>
 	</string>
 	<string id="mil_secret_0013_name">
-		<text>Секрет в могиле</text>
+		<text>Secret in the tombstone (start here for your second session on 2/8/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="mil_secret_0014_description">
 		<text>В пеньке тайник, хорошее место</text>
