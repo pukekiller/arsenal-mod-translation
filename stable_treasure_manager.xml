@@ -670,19 +670,19 @@
 		<text>Buried the loot on the hill, under the cross at this location.</text>
 	</string>
 	<string id="mil_secret_0013_name">
-		<text>Secret in the tombstone (start here for your second session on 2/8/24 and don't forget to remove this reminder when you start)</text>
+		<text>Secret in the tombstone</text>
 	</string>
 	<string id="mil_secret_0014_description">
-		<text>В пеньке тайник, хорошее место</text>
+		<text>There's a secret stash in the stump - a good place for hiding loot.</text>
 	</string>
 	<string id="mil_secret_0014_name">
-		<text>Тайный пень</text>
+		<text>Secret stump</text>
 	</string>
 	<string id="mil_secret_0015_description">
-		<text>Оставил рюкзак в кабине крана, потом заберу.</text>
+		<text>I left my backpack in the cabin of the crane. I'll pick it up later.</text>
 	</string>
 	<string id="mil_secret_0015_name">
-		<text>Тайник высотника</text>
+		<text>Secret stash in the crane cabin (start here for your first session on 2/8/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="mil_secret_0016_description">
 		<text>Все сложил в ящик, в вагоне недалеко от базы. Так и договаривались, теперь осталось только ждать.</text>
