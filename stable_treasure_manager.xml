@@ -682,25 +682,25 @@
 		<text>I left my backpack in the cabin of the crane. I'll pick it up later.</text>
 	</string>
 	<string id="mil_secret_0015_name">
-		<text>Secret stash in the crane cabin (start here for your first session on 2/8/24 and don't forget to remove this reminder when you start)</text>
+		<text>Secret stash in the crane cabin</text>
 	</string>
 	<string id="mil_secret_0016_description">
-		<text>Все сложил в ящик, в вагоне недалеко от базы. Так и договаривались, теперь осталось только ждать.</text>
+		<text>Everything is in the crate, in a train car not far from the base. That's how we planned it, now all we have to do is wait.</text>
 	</string>
 	<string id="mil_secret_0016_name">
-		<text>Условленный тайник</text>
+		<text>The agreed-upon secret stash</text>
 	</string>
 	<string id="mil_secret_0017_description">
-		<text>Сунул добро в бревно, думаю не найдут.</text>
+		<text>Put my loot in a log here, don't think anyone will find my stuff.</text>
 	</string>
 	<string id="mil_secret_0017_name">
-		<text>Клад в бревне</text>
+		<text>Goodies in the log</text>
 	</string>
 	<string id="mil_secret_0018_description">
-		<text>Хабар сунул в трубу на берегу озера.</text>
+		<text>Stuffed my loot into a pipe that's at the shore of the lake.</text>
 	</string>
 	<string id="mil_secret_0018_name">
-		<text>Труба с хабаром</text>
+		<text>Pipe with loot (start here for your second session on 2/9/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="mil_secret_0019_description">
 		<text>В железной байдовине спрятал вещички.</text>
