@@ -700,25 +700,25 @@
 		<text>Stuffed my loot into a pipe that's at the shore of the lake.</text>
 	</string>
 	<string id="mil_secret_0018_name">
-		<text>Pipe with loot (start here for your second session on 2/9/24 and don't forget to remove this reminder when you start)</text>
+		<text>Pipe with loot</text>
 	</string>
 	<string id="mil_secret_0019_description">
-		<text>В железной байдовине спрятал вещички.</text>
+		<text>Buried my loot under the cross in a hidden place.</text>
 	</string>
 	<string id="mil_secret_0019_name">
-		<text>Тайник сталкера</text>
+		<text>Stalker's stash</text>
 	</string>
 	<string id="mil_secret_0020_description">
-		<text>Сунул добро в бревно, думаю не найдут.</text>
+		<text>Stuffed some loot into a log here, I don't think anyone will find it.</text>
 	</string>
 	<string id="mil_secret_0020_name">
-		<text>Хабар в бревне</text>
+		<text>Treasure in a log</text>
 	</string>
 	<string id="mil_secret_0021_description">
-		<text>Удобный ящик, чтоб лишнее барахло сбрасывать.</text>
+		<text>I found a good spot to store my loot here.</text>
 	</string>
 	<string id="mil_secret_0021_name">
-		<text>Удобный схрон</text>
+		<text>A convenient hiding place (start here for your first session on 2/9/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="mil_secret_0022_description">
 		<text>В туннеле припрятал рюкзак с хабаром.</text>
