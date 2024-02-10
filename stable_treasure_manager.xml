@@ -718,25 +718,25 @@
 		<text>I found a good spot to store my loot here.</text>
 	</string>
 	<string id="mil_secret_0021_name">
-		<text>A convenient hiding place (start here for your first session on 2/9/24 and don't forget to remove this reminder when you start)</text>
+		<text>A convenient hiding place</text>
 	</string>
 	<string id="mil_secret_0022_description">
-		<text>В туннеле припрятал рюкзак с хабаром.</text>
+		<text>I hid the backpack with the loot in the tunnel.</text>
 	</string>
 	<string id="mil_secret_0022_name">
-		<text>Рюкзак в туннеле</text>
+		<text>Backpack in the tunnel</text>
 	</string>
 	<string id="mil_secret_0023_description">
-		<text>Удобный ящик, чтоб лишнее барахло сбрасывать.</text>
+		<text>I put my loot into the crate here - I'll get the loot later.</text>
 	</string>
 	<string id="mil_secret_0023_name">
-		<text>Ящик с добром</text>
+		<text>Crate with goodies</text>
 	</string>
 	<string id="mil_secret_0024_description">
-		<text>Сунул добро в бревно, думаю не найдут.</text>
+		<text>Put my loot in a log here, don't think anyone will find my stuff.</text>
 	</string>
 	<string id="mil_secret_0024_name">
-		<text>Тайник в бревне</text>
+		<text>Log with a secret stash (start here for your second session on 2/10/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="mil_secret_0025_description">
 		<text>В ящик закинул добро, потом заберу.</text>
