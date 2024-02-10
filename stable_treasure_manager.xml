@@ -736,25 +736,25 @@
 		<text>Put my loot in a log here, don't think anyone will find my stuff.</text>
 	</string>
 	<string id="mil_secret_0024_name">
-		<text>Log with a secret stash (start here for your second session on 2/10/24 and don't forget to remove this reminder when you start)</text>
+		<text>Log with a secret stash</text>
 	</string>
 	<string id="mil_secret_0025_description">
-		<text>В ящик закинул добро, потом заберу.</text>
+		<text>Put the loot into the crate - I'll get the loot later.</text>
 	</string>
 	<string id="mil_secret_0025_name">
-		<text>Временный тайник</text>
+		<text>Temporary secret stash</text>
 	</string>
 	<string id="mil_secret_0026_description">
-		<text>В люке схоронил вещи, когда-нибудь пригодятся.</text>
+		<text>Hid some loot in the manhole at this location. The stuff I hid will come in handy one day.</text>
 	</string>
 	<string id="mil_secret_0026_name">
-		<text>Стальной тайник</text>
+		<text>Manhole secret stash</text>
 	</string>
 	<string id="mil_secret_0027_description">
-		<text>В ящик закинул добро, потом заберу.</text>
+		<text>I put my loot into the crate here - I'll get the loot later.</text>
 	</string>
 	<string id="mil_secret_0027_name">
-		<text>Ящик с хабаром</text>
+		<text>Crate with loot (start here for your first session on 2/10/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="mil_secret_0028_description">
 		<text>Хабар спрятал в машине под боком у Свободы, времени не было искать что получше.</text>
