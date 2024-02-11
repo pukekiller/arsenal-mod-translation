@@ -754,25 +754,25 @@
 		<text>I put my loot into the crate here - I'll get the loot later.</text>
 	</string>
 	<string id="mil_secret_0027_name">
-		<text>Crate with loot (start here for your first session on 2/10/24 and don't forget to remove this reminder when you start)</text>
+		<text>Crate with loot</text>
 	</string>
 	<string id="mil_secret_0028_description">
-		<text>Хабар спрятал в машине под боком у Свободы, времени не было искать что получше.</text>
+		<text>Hid my loot in the car right next to the the Freedom base, didn't have any time to look for a better place.</text>
 	</string>
 	<string id="mil_secret_0028_name">
-		<text>Тайник в машине</text>
+		<text>Secret stash in the car</text>
 	</string>
 	<string id="pri_secret_0000_description">
-		<text>Говорят сгинул здесь какой-то сталкер известный, добро его до сих пор никто не подобрал.</text>
+		<text>They say that some famous stalker kicked the bucket here, and nobody's picked up his belongings yet.</text>
 	</string>
 	<string id="pri_secret_0000_name">
-		<text>Вещи мёртвого сталкера</text>
+		<text>Things of the dead stalker</text>
 	</string>
 	<string id="pri_secret_0001_description">
-		<text>В гараже, говорят, ящик стоит, а в нем хабара мама не горюй.</text>
+		<text>They say there's a crate in the garage with a ton of loot inside it.</text>
 	</string>
 	<string id="pri_secret_0001_name">
-		<text>Клад в гараже</text>
+		<text>Treasure in the garage (start here for your second session on 2/11/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="pri_secret_0002_description">
 		<text>В детском саду, говорят, ящик стоит, а в нем хабара мама не горюй.</text>
