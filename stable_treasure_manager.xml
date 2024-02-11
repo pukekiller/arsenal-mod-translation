@@ -772,25 +772,25 @@
 		<text>They say there's a crate in the garage with a ton of loot inside it.</text>
 	</string>
 	<string id="pri_secret_0001_name">
-		<text>Treasure in the garage (start here for your second session on 2/11/24 and don't forget to remove this reminder when you start)</text>
+		<text>Treasure in the garage</text>
 	</string>
 	<string id="pri_secret_0002_description">
-		<text>В детском саду, говорят, ящик стоит, а в нем хабара мама не горюй.</text>
+		<text>They say there's a crate in the kindergarten with a ton of loot inside it.</text>
 	</string>
 	<string id="pri_secret_0002_name">
-		<text>Старый тайник</text>
+		<text>Old secret stash</text>
 	</string>
 	<string id="pri_secret_0003_description">
-		<text>Клыка похоронил на Припяти, под памятником. Весь его хабар оставил там же, нехорошо забирать у мертвого.</text>
+		<text>They buried Fang in Pripyat under a monument. They left all of his belongings with him - it's not right to take away from the dead.</text>
 	</string>
 	<string id="pri_secret_0003_name">
-		<text>Хабар Клыка</text>
+		<text>Fang's loot</text>
 	</string>
 	<string id="pri_secret_0004_description">
-		<text>Последнее что было известно о нем, это то, что выжил только он один после выжигателя. Запасы оставил в каком-то бывшем универмаге и двинул дальше. Все пошло не так, как планировалось, а ведь это был лучший лидер Свободы, за всю нашу историю.</text>
+		<text>The last that they knew about him is that he was the sole survivor after the scorcher. He left all the supplies in some old supermarket, and moved on out. Everything didn't go as planned, and people also say that he was the best leader of Freedom in all of our history.</text>
 	</string>
 	<string id="pri_secret_0004_name">
-		<text>Запасы лидера Свободы</text>
+		<text>Supplies of the leader of Freedom (start here for your first session on 2/11/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="rad_secret_0000_description">
 		<text>Крест по дороге к выжигателю, дальше не пошел, спрятал все под ним.</text>
