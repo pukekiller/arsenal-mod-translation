@@ -808,25 +808,25 @@
 		<text>They say that there's a half-buried safe in the forest and there's a bunch of loot inside it.</text>
 	</string>
 	<string id="rad_secret_0002_name">
-		<text>Loot in the safe (start here for your second session on 2/12/24 and don't forget to remove this reminder when you start)</text>
+		<text>Loot in the safe</text>
 	</string>
 	<string id="rad_secret_0003_description">
-		<text>Говорил им не летать над выжигателем, вот и результат. В середине леса приземлились, вряд ли кто-то выжил. Где-то там и лежит то, что нам передали.</text>
+		<text>They told them not to fly over the Scorcher, and look what happened. They landed in the middle of the forest, and it's unlikely that anyone survived. We were supposed to get the stuff that was with them.</text>
 	</string>
 	<string id="rad_secret_0003_name">
-		<text>Посылка Долгу</text>
+		<text>Package for Duty</text>
 	</string>
 	<string id="rad_secret_0004_description">
-		<text>Говорят там остался запас группы, которая пробивалась к центру Зоны, прямо под излучением Выжигателя. Никто из них не вернулся, а запас так и остался дожидаться того, кто его подберет.</text>
+		<text>They say that the supplies of the faction, who were trying to get to the center of the Zone, is still inside the area of the Red Forest that's affected by the Brain Scorcher. None of them returned, and the supplies remained there waiting for someone to pick them up.</text>
 	</string>
 	<string id="rad_secret_0004_name">
-		<text>Запас группы отчаянных</text>
+		<text>Supplies of the reckless group</text>
 	</string>
 	<string id="rad_secret_0005_description">
-		<text>Говорят сгинул здесь лидер какой-то бывшей группировки, и хабар у него с собой богатый был.</text>
+		<text>They say that the leader of some former faction croaked here, and there was a valuable amount of loot with him.</text>
 	</string>
 	<string id="rad_secret_0005_name">
-		<text>Хабар лидера группировки</text>
+		<text>Loot of the leader of the former faction (start here for your first session on 2/12/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ros_secret_0000_description">
 		<text>Припрятал рюкзак, за железным листом</text>
