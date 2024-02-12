@@ -790,25 +790,25 @@
 		<text>The last that they knew about him is that he was the sole survivor after the scorcher. He left all the supplies in some old supermarket, and moved on out. Everything didn't go as planned, and people also say that he was the best leader of Freedom in all of our history.</text>
 	</string>
 	<string id="pri_secret_0004_name">
-		<text>Supplies of the leader of Freedom (start here for your first session on 2/11/24 and don't forget to remove this reminder when you start)</text>
+		<text>Supplies of the leader of Freedom</text>
 	</string>
 	<string id="rad_secret_0000_description">
-		<text>Крест по дороге к выжигателю, дальше не пошел, спрятал все под ним.</text>
+		<text>The cross is on the way to the scorcher, didn't go any further, hid everything there under it.</text>
 	</string>
 	<string id="rad_secret_0000_name">
-		<text>Клад Угрюмого</text>
+		<text>Murk's treasure</text>
 	</string>
 	<string id="rad_secret_0001_description">
-		<text>Тут погиб какой-то сталкер, хабар до сих пор валяется, никто подобрать не может.</text>
+		<text>Some stalker perished here, and his belongings are still lying around, nobody can get to them.</text>
 	</string>
 	<string id="rad_secret_0001_name">
-		<text>Хабар мёртвого сталкера</text>
+		<text>Dead stalker's belongings</text>
 	</string>
 	<string id="rad_secret_0002_description">
-		<text>Говорят в лесу полузакопанный сейф есть и там хабара полно.</text>
+		<text>They say that there's a half-buried safe in the forest and there's a bunch of loot inside it.</text>
 	</string>
 	<string id="rad_secret_0002_name">
-		<text>Хабар в сейфе</text>
+		<text>Loot in the safe (start here for your second session on 2/12/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="rad_secret_0003_description">
 		<text>Говорил им не летать над выжигателем, вот и результат. В середине леса приземлились, вряд ли кто-то выжил. Где-то там и лежит то, что нам передали.</text>
