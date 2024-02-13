@@ -826,25 +826,25 @@
 		<text>They say that the leader of some former faction croaked here, and there was a valuable amount of loot with him.</text>
 	</string>
 	<string id="rad_secret_0005_name">
-		<text>Loot of the leader of the former faction (start here for your first session on 2/12/24 and don't forget to remove this reminder when you start)</text>
+		<text>Loot of the leader of the former faction</text>
 	</string>
 	<string id="ros_secret_0000_description">
-		<text>Припрятал рюкзак, за железным листом</text>
+		<text>Hid my backpack filled with loot behind the iron plate here.</text>
 	</string>
 	<string id="ros_secret_0000_name">
-		<text>Спрятанный рюкзак</text>
+		<text>Hidden backpack</text>
 	</string>
 	<string id="ros_secret_0001_description">
-		<text>Приховал добро под крестом</text>
+		<text>Stashed some loot under the cross.</text>
 	</string>
 	<string id="ros_secret_0001_name">
-		<text>Тайник под крестом</text>
+		<text>Secret stash under the cross</text>
 	</string>
 	<string id="ros_secret_0002_description">
-		<text>Спрятал кое-что в ящике, под домиком. Не забыть</text>
+		<text>Hid a little something in the crate under the little house. Shouldn't forget about it.</text>
 	</string>
 	<string id="ros_secret_0002_name">
-		<text>Ящик под домиком</text>
+		<text>Crate under the small house (start here for your second session on 2/13/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ros_secret_0003_description">
 		<text>Сунул рюкзак под ступеньки, а там эти гады появились. Блин, как бы достать?</text>
