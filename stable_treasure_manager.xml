@@ -403,7 +403,7 @@
 		<text>Vorpal's secret stash</text>
 	</string>
 	<string id="esc_secret_0014_descr">
-		<text>They say that the commander has a tricky chest in his office, and there's a ton of valuable goods there.</text>
+		<text>They say that the commander has a tricky crate in his office, and there's a ton of valuable goods there.</text>
 	</string>
 	<string id="esc_secret_0014_name">
 		<text>The valuables of the commander</text>
@@ -541,10 +541,10 @@
 		<text>Storage in the scrap metal yard</text>
 	</string>
 	<string id="gar_secret_0017_descr">
-		<text>The head of radio communications passed along a message to us: retreat. I found a chest, threw in what I had on me, and retreated empty-handed.</text>
+		<text>The head of radio communications passed along a message to us: retreat. I found a crate, threw in what I had on me, and retreated empty-handed.</text>
 	</string>
 	<string id="gar_secret_0017_name">
-		<text>Supplies in the chest</text>
+		<text>Supplies in the crate</text>
 	</string>
 	<string id="gar_secret_0018_descr">
 		<text>I put the loot into a pipe at this location in the Garbage. It won't stay there for long.</text>
@@ -865,22 +865,22 @@
 		<text>Secret stash in the garage (start here for your first session on 2/13/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ros_secret_0006_description">
-		<text>За будкой в ящике припрятал вещички</text>
+		<text>Hid some things in the crate behind the booth.</text>
 	</string>
 	<string id="ros_secret_0006_name">
-		<text>Спрятанный ящик</text>
+		<text>Hidden crate</text>
 	</string>
 	<string id="ros_secret_0007_description">
-		<text>Сунул рюкзак в дырку, сверху вроде не заметно</text>
+		<text>Stuck the backpack in a hole. Seems unnoticeable from above.</text>
 	</string>
 	<string id="ros_secret_0007_name">
-		<text>Рюкзак в тайнике</text>
+		<text>Backpack in the secret stash</text>
 	</string>
 	<string id="ros_secret_0008_description">
-		<text>Ящичек припрятал в укромном месте</text>
+		<text>Hid the small crate in a safe spot.</text>
 	</string>
 	<string id="ros_secret_0008_name">
-		<text>Ящик в укромном месте</text>
+		<text>Crate in a safe spot (start here for your second session on 2/14/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ros_secret_0009_description">
 		<text>Под крышей лежит мой рюкзак. Это на черный день</text>
