@@ -898,25 +898,25 @@
 		<text>I hid some loot in the house in a pipe. Careful, everything's out of whack there.</text>
 	</string>
 	<string id="ros_secret_0011_name">
-		<text>Secret stash in the pipe (start here for your first session on 2/14/24 and don't forget to remove this reminder when you start)</text>
+		<text>Secret stash in the pipe</text>
 	</string>
 	<string id="ros_secret_0012_description">
-		<text>О чем договорились, возьмешь в ящичке, туда обычно никто не заглядывает</text>
+		<text>Take what we talked about from the chest. Usually nobody looks in there.</text>
 	</string>
 	<string id="ros_secret_0012_name">
-		<text>Спрятанный ящичек</text>
+		<text>Hidden crate</text>
 	</string>
 	<string id="ros_secret_0013_description">
-		<text>Под крестом спрятал, в закоулке</text>
+		<text>I hid my loot under a cross that's in a nook.</text>
 	</string>
 	<string id="ros_secret_0013_name">
-		<text>Тайник под крестом</text>
+		<text>Secret stash under the cross</text>
 	</string>
 	<string id="ros_secret_0014_description">
-		<text>Лишние припасы спрятали на стройке, под бетоном</text>
+		<text>They hid the extra supplies under the concrete at the construction site. Might be worth looking into.</text>
 	</string>
 	<string id="ros_secret_0014_name">
-		<text>Тайник под бетоном</text>
+		<text>Secret stash under the concrete (start here for your second session on 2/15/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ros_secret_0015_description">
 		<text>Хабар будем складывать в ящике на стройке, на случай если ноги надо будет уносить</text>
