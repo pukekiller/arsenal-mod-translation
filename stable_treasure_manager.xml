@@ -916,25 +916,25 @@
 		<text>They hid the extra supplies under the concrete at the construction site. Might be worth looking into.</text>
 	</string>
 	<string id="ros_secret_0014_name">
-		<text>Secret stash under the concrete (start here for your second session on 2/15/24 and don't forget to remove this reminder when you start)</text>
+		<text>Secret stash under the concrete</text>
 	</string>
 	<string id="ros_secret_0015_description">
-		<text>Хабар будем складывать в ящике на стройке, на случай если ноги надо будет уносить</text>
+		<text>In case we need to take off quickly, we'll put the loot into the crate at the construction site.</text>
 	</string>
 	<string id="ros_secret_0015_name">
-		<text>Тайник Счастливчика</text>
+		<text>Stash of the Lucky One</text>
 	</string>
 	<string id="ros_secret_0016_description">
-		<text>На стройке спрятал, в закоулке</text>
+		<text>I hid some loot in one of the side streets at the construction site.</text>
 	</string>
 	<string id="ros_secret_0016_name">
-		<text>Нычка</text>
+		<text>Nychka</text>
 	</string>
 	<string id="ros_secret_0017_description">
-		<text>Запихал все в какую-то трубу, потом заберем</text>
+		<text>Stuck everything into some pipe - will pick it up later.</text>
 	</string>
 	<string id="ros_secret_0017_name">
-		<text>Тайник в трубе</text>
+		<text>Secret stash in the pipe (start here for your first session on 2/15/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ros_secret_0018_description">
 		<text>Недалеко от стройки спрятал медикаменты в ящик</text>
