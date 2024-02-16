@@ -970,13 +970,13 @@
 		<text>We hid what we found in the pipe not far from the construction site.</text>
 	</string>
 	<string id="ros_secret_0023_name">
-		<text>Secret stash in the pipe (start here for your first session on 2/16/24 and don't forget to remove this reminder when you start)</text>
+		<text>Secret stash in the pipe</text>
 	</string>
 	<string id="ros_secret_0024_description">
-		<text>Сунул добро в бревно, думаю не найдут</text>
+		<text>Stuck some loot into the log. Don't think they'll find it.</text>
 	</string>
 	<string id="ros_secret_0024_name">
-		<text>Тайник</text>
+		<text>Secret stash (start here for your first session on 2/16/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ros_secret_0025_description">
 		<text>Нычканул рюкзак возле крана</text>
