@@ -952,25 +952,25 @@
 		<text>Hid my loot in a manhole in the corner.</text>
 	</string>
 	<string id="ros_secret_0020_name">
-		<text>Secret stash in the manhole (start here for your second session on 2/16/24 and don't forget to remove this reminder when you start)</text>
+		<text>Secret stash in the manhole</text>
 	</string>
 	<string id="ros_secret_0021_description">
-		<text>Полез за артефактом и попал в аномалию, еле иду. Рюкзак скинул, в углу, за жд</text>
+		<text>Went after the artifact and got into an anomaly. I was barely able to walk and dropped the backpack in the corner.</text>
 	</string>
 	<string id="ros_secret_0021_name">
-		<text>Брошенный рюкзак</text>
+		<text>The dropped backpack</text>
 	</string>
 	<string id="ros_secret_0022_description">
-		<text>Наверху, под крышей возле вышки запихнул ящичек, чтоб никто не заметил</text>
+		<text>Stuck the crate right under the roof by the tower so that nobody would notice.</text>
 	</string>
 	<string id="ros_secret_0022_name">
-		<text>Ящичек под крышей</text>
+		<text>Small crate under the roof</text>
 	</string>
 	<string id="ros_secret_0023_description">
-		<text>То, что нашли, спрятали в трубе, недалеко от стройки</text>
+		<text>We hid what we found in the pipe not far from the construction site.</text>
 	</string>
 	<string id="ros_secret_0023_name">
-		<text>Тайник в трубе</text>
+		<text>Secret stash in the pipe (start here for your first session on 2/16/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ros_secret_0024_description">
 		<text>Сунул добро в бревно, думаю не найдут</text>
