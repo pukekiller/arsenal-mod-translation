@@ -934,25 +934,25 @@
 		<text>Stuck everything into some pipe - will pick it up later.</text>
 	</string>
 	<string id="ros_secret_0017_name">
-		<text>Secret stash in the pipe (start here for your first session on 2/15/24 and don't forget to remove this reminder when you start)</text>
+		<text>Secret stash in the pipe</text>
 	</string>
 	<string id="ros_secret_0018_description">
-		<text>Недалеко от стройки спрятал медикаменты в ящик</text>
+		<text>Hid some medicine in a crate not far from the construction site.</text>
 	</string>
 	<string id="ros_secret_0018_name">
-		<text>Ящик с медикаментами</text>
+		<text>Crate with medicine</text>
 	</string>
 	<string id="ros_secret_0019_description">
-		<text>Затащили ящик в кабину крана</text>
+		<text>I moved the crate into the cabin of the crane.</text>
 	</string>
 	<string id="ros_secret_0019_name">
-		<text>Ящик на кране</text>
+		<text>Crate in the crane</text>
 	</string>
 	<string id="ros_secret_0020_description">
-		<text>В углу, за жд закрыл свое добро в люке</text>
+		<text>Hid my loot in a manhole in the corner.</text>
 	</string>
 	<string id="ros_secret_0020_name">
-		<text>Тайник в люке</text>
+		<text>Secret stash in the manhole (start here for your second session on 2/16/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ros_secret_0021_description">
 		<text>Полез за артефактом и попал в аномалию, еле иду. Рюкзак скинул, в углу, за жд</text>
