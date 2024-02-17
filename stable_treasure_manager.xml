@@ -994,25 +994,25 @@
 		<text>I put some of my loot in a log here, don't think anyone will find it.</text>
 	</string>
 	<string id="val_secret_0001_name">
-		<text>Secret stash in the log (start here for your second session on 2/17/24 and don't forget to remove this reminder when you start)</text>
+		<text>Secret stash in the log</text>
 	</string>
 	<string id="val_secret_0002_description">
-		<text>Под мост засунул рюкзак, пусть полежит пока</text>
+		<text>I hid my backpack under the bridge. I'm going to hide it there for now.</text>
 	</string>
 	<string id="val_secret_0002_name">
-		<text>Рюкзак под мостом</text>
+		<text>Backpack under the bridge</text>
 	</string>
 	<string id="val_secret_0003_description">
-		<text>Положили ящик в машину возле болота</text>
+		<text>I put the crate into the car by the swamp. No one will find it there.</text>
 	</string>
 	<string id="val_secret_0003_name">
-		<text>Машина с тайником</text>
+		<text>Car with the secret stash</text>
 	</string>
 	<string id="val_secret_0004_description">
-		<text>В пеньке тайник, хорошее место</text>
+		<text>There's a secret stash in a stump - good place for it.</text>
 	</string>
 	<string id="val_secret_0004_name">
-		<text>Тайник в пеньке</text>
+		<text>Secret stash in a stump (start here for your first session on 2/17/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="val_secret_0005_description">
 		<text>На ферме нашел отличный ящик, буду пока там хранить припасы</text>
