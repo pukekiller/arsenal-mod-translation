@@ -1012,25 +1012,25 @@
 		<text>There's a secret stash in a stump - good place for it.</text>
 	</string>
 	<string id="val_secret_0004_name">
-		<text>Secret stash in a stump (start here for your first session on 2/17/24 and don't forget to remove this reminder when you start)</text>
+		<text>Secret stash in a stump</text>
 	</string>
 	<string id="val_secret_0005_description">
-		<text>На ферме нашел отличный ящик, буду пока там хранить припасы</text>
+		<text>I found a great crate at the farm. I'll use it as a supply stash for now.</text>
 	</string>
 	<string id="val_secret_0005_name">
-		<text>Ящик c припасами</text>
+		<text>Crate with supplies</text>
 	</string>
 	<string id="val_secret_0006_description">
-		<text>В трубу кинул шмотки, потом заберу</text>
+		<text>Threw my things into the pipe at this location marked on the map, will pick them up later.</text>
 	</string>
 	<string id="val_secret_0006_name">
-		<text>Тайник в трубе</text>
+		<text>Secret stash in the pipe</text>
 	</string>
 	<string id="val_secret_0007_description">
-		<text>Спрятал рюкзак под елкой</text>
+		<text>I hid my backpack under a pine tree. It'll be safe there.</text>
 	</string>
 	<string id="val_secret_0007_name">
-		<text>Тайник под елкой</text>
+		<text>Secret stash under the pine tree (start here for your second session on 2/18/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="val_secret_0008_description">
 		<text>Новенький стащил таки ящик у бандитов, положил его в Ниве перевернутой. Говорит по виду вроде правительственный ящик. Надо будет снарядить ребят, забрать его</text>
