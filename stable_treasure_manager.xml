@@ -1030,25 +1030,25 @@
 		<text>I hid my backpack under a pine tree. It'll be safe there.</text>
 	</string>
 	<string id="val_secret_0007_name">
-		<text>Secret stash under the pine tree (start here for your second session on 2/18/24 and don't forget to remove this reminder when you start)</text>
+		<text>Secret stash under the pine tree</text>
 	</string>
 	<string id="val_secret_0008_description">
-		<text>Новенький стащил таки ящик у бандитов, положил его в Ниве перевернутой. Говорит по виду вроде правительственный ящик. Надо будет снарядить ребят, забрать его</text>
+		<text>The newbie ended up stealing the crate from the bandits. He put it into the Niva which turned up side down. He says that by the looks of it, it's a government chest. We'll have to arm our guys and take it.</text>
 	</string>
 	<string id="val_secret_0008_name">
-		<text>Правительственный ящик</text>
+		<text>Government crate</text>
 	</string>
 	<string id="val_secret_0009_description">
-		<text>Кругом одно ворье, уже у своих тырят, но мой ящичек не найдут</text>
+		<text>There are robberies everywhere. They're even stealing even from their own... but they'll never find my crate.</text>
 	</string>
 	<string id="val_secret_0009_name">
-		<text>Ящик</text>
+		<text>Crate</text>
 	</string>
 	<string id="val_secret_0010_description">
-		<text>В люке схоронил вещи, когда-нибудь пригодятся</text>
+		<text>I hid some of my things in the manhole. Maybe they'll come in handy some day.</text>
 	</string>
 	<string id="val_secret_0010_name">
-		<text>Тайник в люке</text>
+		<text>Secret stash in the manhole (start here for your first session on 2/18/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="val_secret_0011_description">
 		<text>Бросил рюкзак под дерево, иначе не ушел бы от бандитов</text>
