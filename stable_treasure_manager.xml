@@ -1066,25 +1066,25 @@
 		<text>Everything I stole from Borov I hid away in a safe under the pine tree. Now I have to wait it out while they finish freaking out.</text>
 	</string>
 	<string id="val_secret_0013_name">
-		<text>Hidden safe (start here for your second session on 2/19/24 and don't forget to remove this reminder when you start)</text>
+		<text>Hidden safe</text>
 	</string>
 	<string id="val_secret_0014_description">
-		<text>Временный штаб в вагончике, ящик с припасами там же</text>
+		<text>The temporary headquarters are in the train car, as is the crate with the supplies.</text>
 	</string>
 	<string id="val_secret_0014_name">
-		<text>Склад в вагончике</text>
+		<text>Warehouse in the train car</text>
 	</string>
 	<string id="val_secret_0015_description">
-		<text>Еле залез в трубу, под дорогой, будет теперь где рюкзак прятать</text>
+		<text>Barely made it into the pipe under the road. Now I'll have a place to hide my backpack.</text>
 	</string>
 	<string id="val_secret_0015_name">
-		<text>Тайное место в трубе</text>
+		<text>Secret place in the pipe</text>
 	</string>
 	<string id="val_secret_0016_description">
-		<text>В ящик закинул добро, потом заберем</text>
+		<text>Threw the goods into the crate - will get them later.</text>
 	</string>
 	<string id="val_secret_0016_name">
-		<text>Ящик с добром</text>
+		<text>Crate with goods (start here for your first session on 2/19/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="val_secret_0017_description">
 		<text>Прячу хабар за трубой. Сложно добираться, зато не стырят</text>
