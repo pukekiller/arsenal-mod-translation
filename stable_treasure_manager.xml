@@ -1048,25 +1048,25 @@
 		<text>I hid some of my things in the manhole. Maybe they'll come in handy some day.</text>
 	</string>
 	<string id="val_secret_0010_name">
-		<text>Secret stash in the manhole (start here for your first session on 2/18/24 and don't forget to remove this reminder when you start)</text>
+		<text>Secret stash in the manhole</text>
 	</string>
 	<string id="val_secret_0011_description">
-		<text>Бросил рюкзак под дерево, иначе не ушел бы от бандитов</text>
+		<text>I got rid of my backpack and hid it under a tree. Otherwise, I wouldn't have escaped the bandits - it was weighing me down.</text>
 	</string>
 	<string id="val_secret_0011_name">
-		<text>Рюкзак сталкера</text>
+		<text>Stalker's backpack</text>
 	</string>
 	<string id="val_secret_0012_description">
-		<text>Барахлишко положил в трубу, потом заберу</text>
+		<text>Put my junk into a pipe, will pick it up later.</text>
 	</string>
 	<string id="val_secret_0012_name">
-		<text>Тайник</text>
+		<text>Secret stash</text>
 	</string>
 	<string id="val_secret_0013_description">
-		<text>Все что спер у Борова, припрятал в сейфе, что под елкой. Теперь переждать надо, пока они на нервах все</text>
+		<text>Everything I stole from Borov I hid away in a safe under the pine tree. Now I have to wait it out while they finish freaking out.</text>
 	</string>
 	<string id="val_secret_0013_name">
-		<text>Спрятанный сейф</text>
+		<text>Hidden safe (start here for your second session on 2/19/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="val_secret_0014_description">
 		<text>Временный штаб в вагончике, ящик с припасами там же</text>
