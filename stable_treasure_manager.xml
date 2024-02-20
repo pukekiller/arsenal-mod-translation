@@ -1102,25 +1102,25 @@
 		<text>We left everything that we found in the crate, we'll pick it up when we're returning.</text>
 	</string>
 	<string id="val_secret_0019_name">
-		<text>Secret stash in the crate (start here for your second session on 2/20/24 and don't forget to remove this reminder when you start)</text>
+		<text>Secret stash in the crate</text>
 	</string>
 	<string id="val_secret_0020_description">
-		<text>Заныкали рюкзак новенького, он так и не нашел</text>
+		<text>I hid the backpack that I stole from an newbie stalker. He never found it.</text>
 	</string>
 	<string id="val_secret_0020_name">
-		<text>Спрятанный рюкзак</text>
+		<text>Hidden backpack</text>
 	</string>
 	<string id="val_secret_0021_description">
-		<text>В фургоне остался ящик, надо забрать</text>
+		<text>The crate was left in the van - needs to be picked up.</text>
 	</string>
 	<string id="val_secret_0021_name">
-		<text>Забытый ящик</text>
+		<text>Forgotten crate</text>
 	</string>
 	<string id="val_secret_0022_description">
-		<text>Нашел сейф на бензоколонке, спрятал там добро, вроде редко кто здесь ходит</text>
+		<text>Found a safe at the gas station and hid some of my stuff in it. Seems like nobody ever goes there.</text>
 	</string>
 	<string id="val_secret_0022_name">
-		<text>Сейф на бензоколонке</text>
+		<text>Safe at the gas station (start here for your first session on 2/20/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="val_secret_0023_description">
 		<text>Ящик затащили на цистерну</text>
