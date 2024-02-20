@@ -1084,25 +1084,25 @@
 		<text>Threw the goods into the crate - will get them later.</text>
 	</string>
 	<string id="val_secret_0016_name">
-		<text>Crate with goods (start here for your first session on 2/19/24 and don't forget to remove this reminder when you start)</text>
+		<text>Crate with goods</text>
 	</string>
 	<string id="val_secret_0017_description">
-		<text>Прячу хабар за трубой. Сложно добираться, зато не стырят</text>
+		<text>I'm hiding my loot behind the pipe here - it's hard to get to, but at least they won't take off with it.</text>
 	</string>
 	<string id="val_secret_0017_name">
-		<text>Тайник за трубой</text>
+		<text>Secret stash behind the pipe</text>
 	</string>
 	<string id="val_secret_0018_description">
-		<text>Сныкал патроны в электро-щитке</text>
+		<text>Found some cartridges in the electrical room.</text>
 	</string>
 	<string id="val_secret_0018_name">
-		<text>Тайник в электро-щитке</text>
+		<text>Secret stash in the electrical room</text>
 	</string>
 	<string id="val_secret_0019_description">
-		<text>Все что нашли оставили в ящике, будем идти назад заберем</text>
+		<text>We left everything that we found in the crate, we'll pick it up when we're returning.</text>
 	</string>
 	<string id="val_secret_0019_name">
-		<text>Ящик-тайник</text>
+		<text>Secret stash in the crate (start here for your second session on 2/20/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="val_secret_0020_description">
 		<text>Заныкали рюкзак новенького, он так и не нашел</text>
