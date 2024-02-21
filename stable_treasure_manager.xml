@@ -1138,25 +1138,25 @@
 		<text>There's some crate in the car at the bandits' camp. We need to sneak into the car and check it out - I feel there's something in there.</text>
 	</string>
 	<string id="val_secret_0025_name">
-		<text>Crate in the car (start here for your second session on 2/21/24 and don't forget to remove this reminder when you start)</text>
+		<text>Crate in the car</text>
 	</string>
 	<string id="val_secret_0026_description">
-		<text>Поставил ящик в тайник, место надежное</text>
+		<text>I put the crate where the secret stash is. It's a good place to hide stuff.</text>
 	</string>
 	<string id="val_secret_0026_name">
-		<text>Ящик в тайнике</text>
+		<text>Secret stash in the chest</text>
 	</string>
 	<string id="val_secret_0027_description">
-		<text>Оставил рюкзак в заброшенном здании, хорошо, никого рядом нет</text>
+		<text>I left the backpack in an abandoned building. There's nobody around, so no one will find it.</text>
 	</string>
 	<string id="val_secret_0027_name">
-		<text>Оставленный рюкзак</text>
+		<text>The left-behind backpack</text>
 	</string>
 	<string id="val_secret_0028_description">
-		<text>Добро будем хранить в сейфе, в незаметном месте. Не сегодня завтра военные придут, всем тут фитиль вставят, ну да рыскать долго они не будут, так что самое ценное останется у меня</text>
+		<text>We'll store the goods in a nondescript place. If the soldiers don't come today, then they'll come tomorrow. They won't look around for very long so the most valuable stuff will be left for me.</text>
 	</string>
 	<string id="val_secret_0028_name">
-		<text>Тайник Борова</text>
+		<text>Borov's secret stash (start here for your first session on 2/21/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="val_secret_0029_description">
 		<text>Рюкзак заныкал возле здания</text>
