@@ -1120,25 +1120,25 @@
 		<text>Found a safe at the gas station and hid some of my stuff in it. Seems like nobody ever goes there.</text>
 	</string>
 	<string id="val_secret_0022_name">
-		<text>Safe at the gas station (start here for your first session on 2/20/24 and don't forget to remove this reminder when you start)</text>
+		<text>Safe at the gas station</text>
 	</string>
 	<string id="val_secret_0023_description">
-		<text>ящик затащили на цистерну</text>
+		<text>I dragged this crate that I can use for loot into the cistern here. It's a good, well-hidden spot for it.</text>
 	</string>
 	<string id="val_secret_0023_name">
-		<text>ящик</text>
+		<text>Crate</text>
 	</string>
 	<string id="val_secret_0024_description">
-		<text>—пр€тал припасы в сейф на бензоколонке</text>
+		<text>I hid some of my loot in the safe at the gas station.</text>
 	</string>
 	<string id="val_secret_0024_name">
-		<text>—ейф на бензоколонке</text>
+		<text>Safe at the gas station</text>
 	</string>
 	<string id="val_secret_0025_description">
-		<text>¬ лагере бандитов, в машине какой-то €щик лежит, надо незаметно пробратьс€, чую там есть чем разжитьс€</text>
+		<text>There's some crate in the car at the bandits' camp. We need to sneak into the car and check it out - I feel there's something in there.</text>
 	</string>
 	<string id="val_secret_0025_name">
-		<text>ящик в машине</text>
+		<text>Crate in the car (start here for your second session on 2/21/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="val_secret_0026_description">
 		<text>ѕоставил €щик в тайник, место надежное</text>
