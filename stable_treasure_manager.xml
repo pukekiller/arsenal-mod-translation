@@ -1174,25 +1174,25 @@
 		<text>I hid the backpack under the car, nobody will bother looking there.</text>
 	</string>
 	<string id="val_secret_0031_name">
-		<text>Hidden backpack (start here for your second session on 2/22/24 and don't forget to remove this reminder when you start)</text>
+		<text>Hidden backpack</text>
 	</string>
 	<string id="val_secret_0032_description">
-		<text>Хабар спрятал в машине под боком у бандитов, времени не было искать что получше</text>
+		<text>Hid the loot in the car right under the bandits' noses, didn't have time to look for a better place.</text>
 	</string>
 	<string id="val_secret_0032_name">
-		<text>Тайник в машине</text>
+		<text>Secret stash in the car</text>
 	</string>
 	<string id="x16_secret_0000_description">
-		<text>Слухи ходят что был сталкер, который в эту лабораторию проник и припрятал свой хабар в электрощиток в шахте лифта. А забрать его уже не смог.</text>
+		<text>Rumor has it that there was a stalker who got into the lab and hid his loot in the electrical outlets in the elevator shaft. When it came time to pick it up, he couldn't.</text>
 	</string>
 	<string id="x16_secret_0000_name">
-		<text>Хабар в электрощитке</text>
+		<text>Loot in the electrical outlets</text>
 	</string>
 	<string id="x16_secret_0001_description">
-		<text>Слухи ходят что был сталкер, который в эту лабораторию проник, так он коньки отбросил в районе клеток с подопытными, со всем своим хабаром.</text>
+		<text>Rumor has it that there was a stalker who penetrated into this lab and he knocked off in the area where they were carrying out the experiments, with all of his loot.</text>
 	</string>
 	<string id="x16_secret_0001_name">
-		<text>Рюкзак разведчика</text>
+		<text>Scout's backpack (start here for your first session on 2/22/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="x18_secret_0000_description">
 		<text>В подземной лаборатории, Копченый все сложил в сейфе. Место неплохое, ни у кого ключей от лаборатории нет. Одна напасть, камни вдруг ни с того ни с сего в воздухе летают, говорили кого-то пришибли</text>
