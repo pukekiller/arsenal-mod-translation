@@ -1156,25 +1156,25 @@
 		<text>We'll store the goods in a nondescript place. If the soldiers don't come today, then they'll come tomorrow. They won't look around for very long so the most valuable stuff will be left for me.</text>
 	</string>
 	<string id="val_secret_0028_name">
-		<text>Borov's secret stash (start here for your first session on 2/21/24 and don't forget to remove this reminder when you start)</text>
+		<text>Borov's secret stash</text>
 	</string>
 	<string id="val_secret_0029_description">
-		<text>Рюкзак заныкал возле здания</text>
+		<text>I stashed away my backpack near by the building here.</text>
 	</string>
 	<string id="val_secret_0029_name">
-		<text>Рюкзак в тайном месте</text>
+		<text>Backpack in a secret place</text>
 	</string>
 	<string id="val_secret_0030_description">
-		<text>Сунул хабар в незаметный ящик, потом заберу</text>
+		<text>Stashed some loot in a nondescript crate. I'll get it later.</text>
 	</string>
 	<string id="val_secret_0030_name">
-		<text>Незаметный ящик</text>
+		<text>Nondescript crate</text>
 	</string>
 	<string id="val_secret_0031_description">
-		<text>Рюкзак спрятал под машиной, туда никто не сунется</text>
+		<text>I hid the backpack under the car, nobody will bother looking there.</text>
 	</string>
 	<string id="val_secret_0031_name">
-		<text>Спрятанный рюкзак</text>
+		<text>Hidden backpack (start here for your second session on 2/22/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="val_secret_0032_description">
 		<text>Хабар спрятал в машине под боком у бандитов, времени не было искать что получше</text>
