@@ -1210,25 +1210,25 @@
 		<text>The cross is on a hill, and the backpack has been buried under it.</text>
 	</string>
 	<string id="yan_secret_0000_name">
-		<text>Secret stash under the cross (start here for your second session on 2/23/24 and don't forget to remove this reminder when you start)</text>
+		<text>Secret stash under the cross</text>
 	</string>
 	<string id="yan_secret_0001_description">
-		<text>Говорят на островке среди болота сейф есть, полузакопанный. Надо наведаться.</text>
+		<text>They say there's a half-buried safe on a small island in the swamp. I need to learn more about it.</text>
 	</string>
 	<string id="yan_secret_0001_name">
-		<text>Старый сейф</text>
+		<text>Old safe</text>
 	</string>
 	<string id="yan_secret_0002_description">
-		<text>В трубу засунул добро, возле лагеря.</text>
+		<text>Stuck the goods into a pipe by the camp.</text>
 	</string>
 	<string id="yan_secret_0002_name">
-		<text>Труба с добром</text>
+		<text>Pipe with goods</text>
 	</string>
 	<string id="yan_secret_0003_description">
-		<text>За гаражами припрятал хабарок.</text>
+		<text>I stashed away some loot behind the garages.</text>
 	</string>
 	<string id="yan_secret_0003_name">
-		<text>Рюкзак за гаражами</text>
+		<text>Backpack behind the garages (start here for your first session on 2/23/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="yan_secret_0004_description">
 		<text>Припрятал рюкзак в будке, прямо за железной хренью.</text>
