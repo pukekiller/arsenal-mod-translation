@@ -1192,25 +1192,25 @@
 		<text>Rumor has it that there was a stalker who penetrated into this lab and he knocked off in the area where they were carrying out the experiments, with all of his loot.</text>
 	</string>
 	<string id="x16_secret_0001_name">
-		<text>Scout's backpack (start here for your first session on 2/22/24 and don't forget to remove this reminder when you start)</text>
+		<text>Scout's backpack</text>
 	</string>
 	<string id="x18_secret_0000_description">
-		<text>В подземной лаборатории, Копченый все сложил в сейфе. Место неплохое, ни у кого ключей от лаборатории нет. Одна напасть, камни вдруг ни с того ни с сего в воздухе летают, говорили кого-то пришибли</text>
+		<text>Smoked put everything into a safe in the underground laboratory. Not a bad place - nobody has the keys to the lab. Only problem is, there are rocks that start flying all over the place all of a sudden. They say someone got killed by those flying rocks.</text>
 	</string>
 	<string id="x18_secret_0000_name">
-		<text>Тайник Копченого</text>
+		<text>Secret stash of Smoked</text>
 	</string>
 	<string id="x18_secret_0001_description">
-		<text>Рюкзак пришлось бросить</text>
+		<text>I had to leave my backpack here.</text>
 	</string>
 	<string id="x18_secret_0001_name">
-		<text>Брошенный рюкзак</text>
+		<text>The left-behind backpack</text>
 	</string>
 	<string id="yan_secret_0000_description">
-		<text>Крест на холме, а под ним тайник.</text>
+		<text>The cross is on a hill, and the backpack has been buried under it.</text>
 	</string>
 	<string id="yan_secret_0000_name">
-		<text>Тайник под крестом</text>
+		<text>Secret stash under the cross (start here for your second session on 2/23/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="yan_secret_0001_description">
 		<text>Говорят на островке среди болота сейф есть, полузакопанный. Надо наведаться.</text>
