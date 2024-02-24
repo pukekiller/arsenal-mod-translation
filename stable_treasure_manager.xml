@@ -1228,25 +1228,25 @@
 		<text>I stashed away some loot behind the garages.</text>
 	</string>
 	<string id="yan_secret_0003_name">
-		<text>Backpack behind the garages (start here for your first session on 2/23/24 and don't forget to remove this reminder when you start)</text>
+		<text>Backpack behind the garages</text>
 	</string>
 	<string id="yan_secret_0004_description">
-		<text>Припрятал рюкзак в будке, прямо за железной хренью.</text>
+		<text>I hid away my backpack in a booth, right behind the scrap metal.</text>
 	</string>
 	<string id="yan_secret_0004_name">
-		<text>Рюкзак с добычей</text>
+		<text>Backpack with the loot</text>
 	</string>
 	<string id="yan_secret_0005_description">
-		<text>В автобусе положил ящичек, вроде незаметно.</text>
+		<text>I hid the crate in the bus - seems unnoticeable.</text>
 	</string>
 	<string id="yan_secret_0005_name">
-		<text>Тайник в автобусе</text>
+		<text>Secret stash in the bus</text>
 	</string>
 	<string id="yan_secret_0006_description">
-		<text>Хабар спрятан в машине, недалеко от территории. Излучение не очень сильное.</text>
+		<text>The loot is hidden in the car not far from the territory. The radiation is not very high.</text>
 	</string>
 	<string id="yan_secret_0006_name">
-		<text>Добыча в машине</text>
+		<text>The loot is in the car (start here for your second session on 2/24/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="yan_secret_0007_description">
 		<text>Говорят, тут хабар чей-то есть, только под излучением не пробраться.</text>
