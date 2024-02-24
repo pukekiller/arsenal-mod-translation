@@ -1246,25 +1246,25 @@
 		<text>The loot is hidden in the car not far from the territory. The radiation is not very high.</text>
 	</string>
 	<string id="yan_secret_0006_name">
-		<text>The loot is in the car (start here for your second session on 2/24/24 and don't forget to remove this reminder when you start)</text>
+		<text>The loot is in the car</text>
 	</string>
 	<string id="yan_secret_0007_description">
-		<text>Говорят, тут хабар чей-то есть, только под излучением не пробраться.</text>
+		<text>They say there's somebody's belongings hidden around here, but nobody can get to it because of the radiation.</text>
 	</string>
 	<string id="yan_secret_0007_name">
-		<text>Старый рюкзак</text>
+		<text>Old backpack</text>
 	</string>
 	<string id="yan_secret_0008_description">
-		<text>Говорят, тут тайник какой-то группировки, как только они под излучением пробрались?</text>
+		<text>They say that there's a secret stash of some group here. I wonder how they managed to stash their goods there with all of the radiation?</text>
 	</string>
 	<string id="yan_secret_0008_name">
-		<text>Тайник группировки</text>
+		<text>Secret stash belonging to a group</text>
 	</string>
 	<string id="yan_secret_0009_description">
-		<text>Сгинул очередной сталкер-доброволец, очередной прототип не защитил от излучения. Смог дойти только до середины территории, там и остался. Сахаров хочет замеры более точные сделать, но я не пойду, а то и я там останусь, недалеко от территории.</text>
+		<text>Another volunteer stalker croaked because another prototype didn't protect him from the radiation. He only made it to the middle of the territory, and stayed there. Sakharov wants to take more precise measurements, but I won't go, else I'll end up staying there myself, not far from the territory.</text>
 	</string>
 	<string id="yan_secret_0009_name">
-		<text>Рюкзак испытателя</text>
+		<text>Tester's backpack (start here for your first session on 2/24/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="yan_secret_0010_description">
 		<text>Говорят тут хабар чей-то есть, только под излучением не пробраться.</text>
