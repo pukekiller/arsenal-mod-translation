@@ -223,7 +223,7 @@
 		<text>Backpack stash</text>
 	</string>
 	<string id="bar_secret_0004_description">
-		<text>This outpost that's owned by Duty has a crate in a bunker that stores the gear used by the guards. No one keeps an eye on it.</text>
+		<text>This outpost that's owned by Duty has a crate in a bunker that stores the gear used by the guards. No one keeps an eye on it. (start here for your first revision pass session on 2/25/24 and don't forget to remove this reminder)</text>
 	</string>
 	<string id="bar_secret_0004_name">
 		<text>Bunker storage crate</text>
@@ -862,7 +862,7 @@
 		<text>They hid all of their loot in a crate in the garage that they took over during the raid.</text>
 	</string>
 	<string id="ros_secret_0005_name">
-		<text>Secret stash in the garage (start here for your first session on 2/13/24 and don't forget to remove this reminder when you start)</text>
+		<text>Secret stash in the garage</text>
 	</string>
 	<string id="ros_secret_0006_description">
 		<text>Hid some things in the crate behind the booth.</text>
@@ -880,7 +880,7 @@
 		<text>Hid the small crate in a safe spot.</text>
 	</string>
 	<string id="ros_secret_0008_name">
-		<text>Crate in a safe spot (start here for your second session on 2/14/24 and don't forget to remove this reminder when you start)</text>
+		<text>Crate in a safe spot</text>
 	</string>
 	<string id="ros_secret_0009_description">
 		<text>My backpack is up right under the roof here. It's there for a rainy day.</text>
@@ -1165,10 +1165,10 @@
 		<text>Backpack in a secret place</text>
 	</string>
 	<string id="val_secret_0030_description">
-		<text>Stashed some loot in a nondescript crate. I'll get it later.</text>
+		<text>Stashed some loot in a nondescript chest. I'll get it later.</text>
 	</string>
 	<string id="val_secret_0030_name">
-		<text>Nondescript crate</text>
+		<text>Nondescript chest</text>
 	</string>
 	<string id="val_secret_0031_description">
 		<text>I hid the backpack under the car, nobody will bother looking there.</text>
@@ -1237,7 +1237,7 @@
 		<text>Backpack with the loot</text>
 	</string>
 	<string id="yan_secret_0005_description">
-		<text>I hid the crate in the bus - seems unnoticeable.</text>
+		<text>I hid the chest in the bus - seems unnoticeable.</text>
 	</string>
 	<string id="yan_secret_0005_name">
 		<text>Secret stash in the bus</text>
@@ -1282,15 +1282,15 @@
 		<text>I stuffed some loot into a log, don't think anyone will find it.</text>
 	</string>
 	<string id="yan_secret_0012_name">
-		<text>Treasure in a log (start here for your second session on 2/25/24 and don't forget to remove this reminder when you start)</text>
+		<text>Treasure in a log</text>
 	</string>
 	<string id="yan_secret_0013_description">
-		<text>√овор€т тут схрон чей-то, только под излучением не пробратьс€.</text>
+		<text>They say that there's somebody's toolbox here, stuffed with loot, but there's no way to get to it because of the radiation.</text>
 	</string>
 	<string id="yan_secret_0013_name">
-		<text>ящик с добром</text>
+		<text>Toolbox with loot</text>
 	</string>
 	<string id="st_found_new_treasure">
-		<text>»нформаци€ о схроне</text>
+		<text>Stash information received:</text>
 	</string>
 </string_table>
