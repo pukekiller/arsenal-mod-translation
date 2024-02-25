@@ -1264,25 +1264,25 @@
 		<text>Another volunteer stalker croaked because another prototype didn't protect him from the radiation. He only made it to the middle of the territory, and stayed there. Sakharov wants to take more precise measurements, but I won't go, else I'll end up staying there myself, not far from the territory.</text>
 	</string>
 	<string id="yan_secret_0009_name">
-		<text>Tester's backpack (start here for your first session on 2/24/24 and don't forget to remove this reminder when you start)</text>
+		<text>Tester's backpack</text>
 	</string>
 	<string id="yan_secret_0010_description">
-		<text>Говорят тут хабар чей-то есть, только под излучением не пробраться.</text>
+		<text>They say that there is somebody's loot here, but there's no way to get to it because of the radiation.</text>
 	</string>
 	<string id="yan_secret_0010_name">
-		<text>Старый тайник</text>
+		<text>Old secret stash</text>
 	</string>
 	<string id="yan_secret_0011_description">
-		<text>Надо валить. Сахаров и Круглов полные психи, требуют чтоб я отправился с каким-то сталкером в центр излучения. Ну их нафиг, как только соберу все запасы в люке, тут же свалю.</text>
+		<text>Gotta take off, Sakharov and Kruglov are total psychos - they want me to go with some stalker into the center of radiation. Screw them, as soon as I gather all the supplies in the manhole, I'm taking off.</text>
 	</string>
 	<string id="yan_secret_0011_name">
-		<text>Тайник учёного</text>
+		<text>Scientist's secret stash</text>
 	</string>
 	<string id="yan_secret_0012_description">
-		<text>Сунул добро в бревно, думаю, не найдут.</text>
+		<text>I stuffed some loot into a log, don't think anyone will find it.</text>
 	</string>
 	<string id="yan_secret_0012_name">
-		<text>Клад в бревне</text>
+		<text>Treasure in a log (start here for your second session on 2/25/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="yan_secret_0013_description">
 		<text>Говорят тут схрон чей-то, только под излучением не пробраться.</text>
