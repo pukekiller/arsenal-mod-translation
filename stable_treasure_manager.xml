@@ -439,7 +439,7 @@
 		<text>Tower at the checkpoint</text>
 	</string>
 	<string id="gar_secret_0000_descr">
-		<text>I saw how a bandit hid his goods in a chest in the hangar. How can I quietly steal it? (start here for your second revision session on 2/26/24 and don't forget to remove this reminder when you start)</text>
+		<text>I saw how a bandit hid his goods in a chest in the hangar. How can I quietly steal it?</text>
 	</string>
 	<string id="gar_secret_0000_name">
 		<text>Bandits' storage</text>
@@ -544,7 +544,7 @@
 		<text>The head of radio communications passed along a message to us: retreat. I found a crate, threw in what I had on me, and retreated empty-handed.</text>
 	</string>
 	<string id="gar_secret_0017_name">
-		<text>Supplies in the crate</text>
+		<text>Supplies in the chest</text>
 	</string>
 	<string id="gar_secret_0018_descr">
 		<text>I put the loot into a pipe at this location in the Garbage. It won't stay there for long.</text>
@@ -562,7 +562,7 @@
 		<text>While the dutyers were shooting, I hid my loot in the train car. Somehow I have to get in to pick it up, and I gotta thank Duty sometime.</text>
 	</string>
 	<string id="gar_secret_0020_name">
-		<text>Crate at the heavily armed military checkpoint</text>
+		<text>Chest at the heavily armed military checkpoint</text>
 	</string>
 	<string id="gar_secret_0021_descr">
 		<text>They say that Weakling choked at the Garbage - need to drop by to check out the goods. Otherwise there'll be many interested parties coming in.</text>
@@ -619,7 +619,7 @@
 		<text>Secret stash in the pipe</text>
 	</string>
 	<string id="mil_secret_0005_description">
-		<text>There's a secret stash in the crate inside the water tower.</text>
+		<text>There's a secret stash in the chest inside the water tower.</text>
 	</string>
 	<string id="mil_secret_0005_name">
 		<text>Treasure in the water tower</text>
@@ -661,10 +661,10 @@
 		<text>Secret stash on a hill</text>
 	</string>
 	<string id="mil_secret_0012_description">
-		<text>A helicopter fell right by the abandoned military base, and the crate is right there, under the helicopter. One problem - there are anomalies all over the place, along with radioactive hot spots.</text>
+		<text>A helicopter fell right by the abandoned military base, and the chest is right there, under the helicopter. One problem - there are anomalies all over the place, along with radioactive hot spots.</text>
 	</string>
 	<string id="mil_secret_0012_name">
-		<text>Crate from the helicopter</text>
+		<text>Chest from the helicopter</text>
 	</string>
 	<string id="mil_secret_0013_description">
 		<text>Buried the loot on the hill, under the cross at this location.</text>
@@ -685,7 +685,7 @@
 		<text>Secret stash in the crane cabin</text>
 	</string>
 	<string id="mil_secret_0016_description">
-		<text>Everything is in the crate, in a train car not far from the base. That's how we planned it, now all we have to do is wait.</text>
+		<text>Everything is in the chest, in a train car not far from the base. That's how we planned it, now all we have to do is wait.</text>
 	</string>
 	<string id="mil_secret_0016_name">
 		<text>The agreed-upon secret stash</text>
@@ -727,7 +727,7 @@
 		<text>Backpack in the tunnel</text>
 	</string>
 	<string id="mil_secret_0023_description">
-		<text>I put my loot into the crate here - I'll get the loot later.</text>
+		<text>I put my loot into the chest here - I'll get the loot later.</text>
 	</string>
 	<string id="mil_secret_0023_name">
 		<text>Crate with goodies</text>
@@ -739,7 +739,7 @@
 		<text>Log with a secret stash</text>
 	</string>
 	<string id="mil_secret_0025_description">
-		<text>Put the loot into the crate - I'll get the loot later.</text>
+		<text>Put the loot into the chest - I'll get the loot later.</text>
 	</string>
 	<string id="mil_secret_0025_name">
 		<text>Temporary secret stash</text>
@@ -751,10 +751,10 @@
 		<text>Manhole secret stash</text>
 	</string>
 	<string id="mil_secret_0027_description">
-		<text>I put my loot into the crate here - I'll get the loot later.</text>
+		<text>I put my loot into the chest here - I'll get the loot later.</text>
 	</string>
 	<string id="mil_secret_0027_name">
-		<text>Crate with loot</text>
+		<text>Chest with loot (start here for your first revision session on 2/26/25 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="mil_secret_0028_description">
 		<text>Hid my loot in the car right next to the the Freedom base, didn't have any time to look for a better place.</text>
