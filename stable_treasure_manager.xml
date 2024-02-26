@@ -223,10 +223,10 @@
 		<text>Backpack stash</text>
 	</string>
 	<string id="bar_secret_0004_description">
-		<text>This outpost that's owned by Duty has a crate in a bunker that stores the gear used by the guards. No one keeps an eye on it. (start here for your first revision pass session on 2/25/24 and don't forget to remove this reminder)</text>
+		<text>This outpost that's owned by Duty has a chest in a bunker that stores the gear used by the guards. No one keeps an eye on it.</text>
 	</string>
 	<string id="bar_secret_0004_name">
-		<text>Bunker storage crate</text>
+		<text>Bunker storage chest</text>
 	</string>
 	<string id="bar_secret_0005_description">
 		<text>I saw a Dutyer shove something down a pipe that's near the outpost. I've marked it here.</text>
@@ -250,7 +250,7 @@
 		<text>They say that there's something valuable hidden on the Duty's territory in the electrical box.</text>
 	</string>
 	<string id="bar_secret_0008_name">
-		<text>Electrical box stash (start here for your second session on 1/29/24 and don't forget to remove this reminder when you start)</text>
+		<text>Electrical box stash</text>
 	</string>
 	<string id="bar_secret_0009_description">
 		<text>I put a box on top of the tower near the Duty base so that no one would notice it.</text>
@@ -337,7 +337,7 @@
 		<text>The cross near the bandits' camp</text>
 	</string>
 	<string id="esc_secret_0003_descr">
-		<text>The crate stolen by the bandits has been found in the cellar of the central building. Need to prepare a detachment and get it.</text>
+		<text>The chest stolen by the bandits has been found in the cellar of the central building. Need to prepare a detachment and get it.</text>
 	</string>
 	<string id="esc_secret_0003_name">
 		<text>Bandits' warehouse</text>
@@ -403,7 +403,7 @@
 		<text>Vorpal's secret stash</text>
 	</string>
 	<string id="esc_secret_0014_descr">
-		<text>They say that the commander has a tricky crate in his office, and there's a ton of valuable goods there.</text>
+		<text>They say that the commander has a tricky chest in his office, and there's a ton of valuable goods there.</text>
 	</string>
 	<string id="esc_secret_0014_name">
 		<text>The valuables of the commander</text>
@@ -427,22 +427,22 @@
 		<text>Gas pipe</text>
 	</string>
 	<string id="esc_secret_0018_descr">
-		<text>I've temporarily left a crate at the tower, I've marked its location on the map. I'll pick it up when I can.</text>
+		<text>I've temporarily left a chest at the tower, I've marked its location on the map. I'll pick it up when I can.</text>
 	</string>
 	<string id="esc_secret_0018_name">
 		<text>Hidden stash</text>
 	</string>
 	<string id="esc_secret_0019_descr">
-		<text>I've temporarily left a crate at the tower, I've marked its location on the map. I'll pick it up when I can.</text>
+		<text>I've temporarily left a chest at the tower, I've marked its location on the map. I'll pick it up when I can.</text>
 	</string>
 	<string id="esc_secret_0019_name">
 		<text>Tower at the checkpoint</text>
 	</string>
 	<string id="gar_secret_0000_descr">
-		<text>I saw how a bandit hid his goods in a crate in the hangar. How can I quietly steal it?</text>
+		<text>I saw how a bandit hid his goods in a chest in the hangar. How can I quietly steal it? (start here for your second revision session on 2/26/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="gar_secret_0000_name">
-		<text>Bandits' storage (start here for your second session on 2/2/24 and don't forget to remove this reminder when you start)</text>
+		<text>Bandits' storage</text>
 	</string>
 	<string id="gar_secret_0001_descr">
 		<text>I killed a stalker the other day. Hid all his loot by the crane. There's something odd about the gun he had though, it looks really old. I've never the type of gun he had before.</text>
