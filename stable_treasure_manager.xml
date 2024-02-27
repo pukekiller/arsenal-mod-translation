@@ -868,7 +868,7 @@
 		<text>Hid some things in the chest behind the booth.</text>
 	</string>
 	<string id="ros_secret_0006_name">
-		<text>Hidden chest (start here for your second revision session on 2/27/24 and don't forget to remove this reminder when you start)</text>
+		<text>Hidden chest</text>
 	</string>
 	<string id="ros_secret_0007_description">
 		<text>Stuck the backpack in a hole. Seems unnoticeable from above.</text>
@@ -877,10 +877,10 @@
 		<text>Backpack in the secret stash</text>
 	</string>
 	<string id="ros_secret_0008_description">
-		<text>Hid the small crate in a safe spot.</text>
+		<text>Hid the small chest in a safe spot.</text>
 	</string>
 	<string id="ros_secret_0008_name">
-		<text>Crate in a safe spot</text>
+		<text>Chest in a safe spot</text>
 	</string>
 	<string id="ros_secret_0009_description">
 		<text>My backpack is up right under the roof here. It's there for a rainy day.</text>
@@ -904,7 +904,7 @@
 		<text>Take what we talked about from the chest. Usually nobody looks in there.</text>
 	</string>
 	<string id="ros_secret_0012_name">
-		<text>Hidden crate</text>
+		<text>Hidden chest</text>
 	</string>
 	<string id="ros_secret_0013_description">
 		<text>I hid my loot under a cross that's in a nook.</text>
@@ -937,16 +937,16 @@
 		<text>Secret stash in the pipe</text>
 	</string>
 	<string id="ros_secret_0018_description">
-		<text>Hid some medicine in a crate not far from the construction site.</text>
+		<text>Hid some medicine in a chest not far from the construction site.</text>
 	</string>
 	<string id="ros_secret_0018_name">
-		<text>Crate with medicine</text>
+		<text>Chest with medicine</text>
 	</string>
 	<string id="ros_secret_0019_description">
 		<text>I moved the crate into the cabin of the crane.</text>
 	</string>
 	<string id="ros_secret_0019_name">
-		<text>Crate in the crane</text>
+		<text>Chest in the crane (start here for your first revision session on 2/27/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ros_secret_0020_description">
 		<text>Hid my loot in a manhole in the corner.</text>
