@@ -541,7 +541,7 @@
 		<text>Storage in the scrap metal yard</text>
 	</string>
 	<string id="gar_secret_0017_descr">
-		<text>The head of radio communications passed along a message to us: retreat. I found a crate, threw in what I had on me, and retreated empty-handed.</text>
+		<text>The head of radio communications passed along a message to us: retreat. I found a chest, threw in what I had on me, and retreated empty-handed.</text>
 	</string>
 	<string id="gar_secret_0017_name">
 		<text>Supplies in the chest</text>
@@ -754,7 +754,7 @@
 		<text>I put my loot into the chest here - I'll get the loot later.</text>
 	</string>
 	<string id="mil_secret_0027_name">
-		<text>Chest with loot (start here for your first revision session on 2/26/25 and don't forget to remove this reminder when you start)</text>
+		<text>Chest with loot</text>
 	</string>
 	<string id="mil_secret_0028_description">
 		<text>Hid my loot in the car right next to the the Freedom base, didn't have any time to look for a better place.</text>
@@ -769,13 +769,13 @@
 		<text>Things of the dead stalker</text>
 	</string>
 	<string id="pri_secret_0001_description">
-		<text>They say there's a crate in the garage with a ton of loot inside it.</text>
+		<text>They say there's a chest in the garage with a ton of loot inside it.</text>
 	</string>
 	<string id="pri_secret_0001_name">
 		<text>Treasure in the garage</text>
 	</string>
 	<string id="pri_secret_0002_description">
-		<text>They say there's a crate in the kindergarten with a ton of loot inside it.</text>
+		<text>They say there's a chest in the kindergarten with a ton of loot inside it.</text>
 	</string>
 	<string id="pri_secret_0002_name">
 		<text>Old secret stash</text>
@@ -841,10 +841,10 @@
 		<text>Secret stash under the cross</text>
 	</string>
 	<string id="ros_secret_0002_description">
-		<text>Hid a little something in the crate under the little house. Shouldn't forget about it.</text>
+		<text>Hid a little something in the chest under the little house. Shouldn't forget about it.</text>
 	</string>
 	<string id="ros_secret_0002_name">
-		<text>Crate under the small house</text>
+		<text>Chest under the small house</text>
 	</string>
 	<string id="ros_secret_0003_description">
 		<text>I was about to hide my backpack under the steps, but then those jerks appeared. Man, how will I get it back?</text>
@@ -859,16 +859,16 @@
 		<text>Secret stash behind the tree</text>
 	</string>
 	<string id="ros_secret_0005_description">
-		<text>They hid all of their loot in a crate in the garage that they took over during the raid.</text>
+		<text>They hid all of their loot in a chest in the garage that they took over during the raid.</text>
 	</string>
 	<string id="ros_secret_0005_name">
 		<text>Secret stash in the garage</text>
 	</string>
 	<string id="ros_secret_0006_description">
-		<text>Hid some things in the crate behind the booth.</text>
+		<text>Hid some things in the chest behind the booth.</text>
 	</string>
 	<string id="ros_secret_0006_name">
-		<text>Hidden crate</text>
+		<text>Hidden chest (start here for your second revision session on 2/27/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="ros_secret_0007_description">
 		<text>Stuck the backpack in a hole. Seems unnoticeable from above.</text>
