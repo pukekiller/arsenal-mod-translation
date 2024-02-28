@@ -946,7 +946,7 @@
 		<text>I moved the crate into the cabin of the crane.</text>
 	</string>
 	<string id="ros_secret_0019_name">
-		<text>Chest in the crane (start here for your first revision session on 2/27/24 and don't forget to remove this reminder when you start)</text>
+		<text>Chest in the crane</text>
 	</string>
 	<string id="ros_secret_0020_description">
 		<text>Hid my loot in a manhole in the corner.</text>
@@ -961,10 +961,10 @@
 		<text>The dropped backpack</text>
 	</string>
 	<string id="ros_secret_0022_description">
-		<text>Stuck the crate right under the roof by the tower so that nobody would notice.</text>
+		<text>Stuck the chest right under the roof by the tower so that nobody would notice.</text>
 	</string>
 	<string id="ros_secret_0022_name">
-		<text>Small crate under the roof</text>
+		<text>Small chest under the roof</text>
 	</string>
 	<string id="ros_secret_0023_description">
 		<text>We hid what we found in the pipe not far from the construction site.</text>
@@ -1003,7 +1003,7 @@
 		<text>Backpack under the bridge</text>
 	</string>
 	<string id="val_secret_0003_description">
-		<text>I put the crate into the car by the swamp. No one will find it there.</text>
+		<text>I put the chest into the car by the swamp. No one will find it there.</text>
 	</string>
 	<string id="val_secret_0003_name">
 		<text>Car with the secret stash</text>
@@ -1015,10 +1015,10 @@
 		<text>Secret stash in a stump</text>
 	</string>
 	<string id="val_secret_0005_description">
-		<text>I found a great crate at the farm. I'll use it as a supply stash for now.</text>
+		<text>I found a great chest at the farm. I'll use it as a supply stash for now.</text>
 	</string>
 	<string id="val_secret_0005_name">
-		<text>Crate with supplies</text>
+		<text>Chest with supplies</text>
 	</string>
 	<string id="val_secret_0006_description">
 		<text>Threw my things into the pipe at this location marked on the map, will pick them up later.</text>
@@ -1033,7 +1033,7 @@
 		<text>Secret stash under the pine tree</text>
 	</string>
 	<string id="val_secret_0008_description">
-		<text>The newbie ended up stealing the crate from the bandits. He put it into the Niva which turned up side down. He says that by the looks of it, it's a government chest. We'll have to arm our guys and take it.</text>
+		<text>The newbie ended up stealing the chest from the bandits. He put it into the Niva which turned up side down. He says that by the looks of it, it's a government chest. We'll have to arm our guys and take it. (start here for your second revision session on 2/28/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="val_secret_0008_name">
 		<text>Government crate</text>
