@@ -1033,16 +1033,16 @@
 		<text>Secret stash under the pine tree</text>
 	</string>
 	<string id="val_secret_0008_description">
-		<text>The newbie ended up stealing the chest from the bandits. He put it into the Niva which turned up side down. He says that by the looks of it, it's a government chest. We'll have to arm our guys and take it. (start here for your second revision session on 2/28/24 and don't forget to remove this reminder when you start)</text>
+		<text>The newbie ended up stealing the chest from the bandits. He put it into the Niva which turned up side down. He says that by the looks of it, it's a government chest. We'll have to arm our guys and take it.</text>
 	</string>
 	<string id="val_secret_0008_name">
-		<text>Government crate</text>
+		<text>Government chest</text>
 	</string>
 	<string id="val_secret_0009_description">
-		<text>There are robberies everywhere. They're even stealing even from their own... but they'll never find my crate.</text>
+		<text>There are robberies everywhere. They're even stealing even from their own... but they'll never find my chest.</text>
 	</string>
 	<string id="val_secret_0009_name">
-		<text>Crate</text>
+		<text>Chest</text>
 	</string>
 	<string id="val_secret_0010_description">
 		<text>I hid some of my things in the manhole. Maybe they'll come in handy some day.</text>
@@ -1069,7 +1069,7 @@
 		<text>Hidden safe</text>
 	</string>
 	<string id="val_secret_0014_description">
-		<text>The temporary headquarters are in the train car, as is the crate with the supplies.</text>
+		<text>The temporary headquarters are in the train car, as is the chest with the supplies.</text>
 	</string>
 	<string id="val_secret_0014_name">
 		<text>Warehouse in the train car</text>
@@ -1081,7 +1081,7 @@
 		<text>Secret place in the pipe</text>
 	</string>
 	<string id="val_secret_0016_description">
-		<text>Threw the goods into the crate - will get them later.</text>
+		<text>Threw the goods into the chest - will get them later.</text>
 	</string>
 	<string id="val_secret_0016_name">
 		<text>Crate with goods</text>
@@ -1099,10 +1099,10 @@
 		<text>Secret stash in the electrical room</text>
 	</string>
 	<string id="val_secret_0019_description">
-		<text>We left everything that we found in the crate, we'll pick it up when we're returning.</text>
+		<text>We left everything that we found in the chest, we'll pick it up when we're returning.</text>
 	</string>
 	<string id="val_secret_0019_name">
-		<text>Secret stash in the crate</text>
+		<text>Secret stash in the chest (start here for your first revision session on 2/28/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="val_secret_0020_description">
 		<text>I hid the backpack that I stole from an newbie stalker. He never found it.</text>
