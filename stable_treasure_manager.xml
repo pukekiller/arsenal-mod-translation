@@ -1102,7 +1102,7 @@
 		<text>We left everything that we found in the chest, we'll pick it up when we're returning.</text>
 	</string>
 	<string id="val_secret_0019_name">
-		<text>Secret stash in the chest (start here for your first revision session on 2/28/24 and don't forget to remove this reminder when you start)</text>
+		<text>Secret stash in the chest</text>
 	</string>
 	<string id="val_secret_0020_description">
 		<text>I hid the backpack that I stole from an newbie stalker. He never found it.</text>
@@ -1111,10 +1111,10 @@
 		<text>Hidden backpack</text>
 	</string>
 	<string id="val_secret_0021_description">
-		<text>The crate was left in the van - needs to be picked up.</text>
+		<text>The chest was left in the van - needs to be picked up.</text>
 	</string>
 	<string id="val_secret_0021_name">
-		<text>Forgotten crate</text>
+		<text>Forgotten chest</text>
 	</string>
 	<string id="val_secret_0022_description">
 		<text>Found a safe at the gas station and hid some of my stuff in it. Seems like nobody ever goes there.</text>
@@ -1123,10 +1123,10 @@
 		<text>Safe at the gas station</text>
 	</string>
 	<string id="val_secret_0023_description">
-		<text>I dragged this crate that I can use for loot into the cistern here. It's a good, well-hidden spot for it.</text>
+		<text>I dragged this chest that I can use for loot into the cistern here. It's a good, well-hidden spot for it.</text>
 	</string>
 	<string id="val_secret_0023_name">
-		<text>Crate</text>
+		<text>Chest</text>
 	</string>
 	<string id="val_secret_0024_description">
 		<text>I hid some of my loot in the safe at the gas station.</text>
@@ -1135,13 +1135,13 @@
 		<text>Safe at the gas station</text>
 	</string>
 	<string id="val_secret_0025_description">
-		<text>There's some crate in the car at the bandits' camp. We need to sneak into the car and check it out - I feel there's something in there.</text>
+		<text>There's some chest in the car at the bandits' camp. We need to sneak into the car and check it out - I feel there's something in there.</text>
 	</string>
 	<string id="val_secret_0025_name">
-		<text>Crate in the car</text>
+		<text>Chest in the car</text>
 	</string>
 	<string id="val_secret_0026_description">
-		<text>I put the crate where the secret stash is. It's a good place to hide stuff.</text>
+		<text>I put the chest where the secret stash is. It's a good place to hide stuff. (start here for your second revision session on 2/29/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="val_secret_0026_name">
 		<text>Secret stash in the chest</text>
