@@ -919,7 +919,7 @@
 		<text>Secret stash under the concrete</text>
 	</string>
 	<string id="ros_secret_0015_description">
-		<text>In case we need to take off quickly, we'll put the loot into the crate at the construction site.</text>
+		<text>In case we need to take off quickly, we'll put the loot into the chest at the construction site.</text>
 	</string>
 	<string id="ros_secret_0015_name">
 		<text>Stash of the Lucky One</text>
@@ -943,7 +943,7 @@
 		<text>Chest with medicine</text>
 	</string>
 	<string id="ros_secret_0019_description">
-		<text>I moved the crate into the cabin of the crane.</text>
+		<text>I moved the chest into the cabin of the crane.</text>
 	</string>
 	<string id="ros_secret_0019_name">
 		<text>Chest in the crane</text>
@@ -1084,7 +1084,7 @@
 		<text>Threw the goods into the chest - will get them later.</text>
 	</string>
 	<string id="val_secret_0016_name">
-		<text>Crate with goods</text>
+		<text>Chest with goods</text>
 	</string>
 	<string id="val_secret_0017_description">
 		<text>I'm hiding my loot behind the pipe here - it's hard to get to, but at least they won't take off with it.</text>
@@ -1141,7 +1141,7 @@
 		<text>Chest in the car</text>
 	</string>
 	<string id="val_secret_0026_description">
-		<text>I put the chest where the secret stash is. It's a good place to hide stuff. (start here for your second revision session on 2/29/24 and don't forget to remove this reminder when you start)</text>
+		<text>I put the chest where the secret stash is. It's a good place to hide stuff.</text>
 	</string>
 	<string id="val_secret_0026_name">
 		<text>Secret stash in the chest</text>
