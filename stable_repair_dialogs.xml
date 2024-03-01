@@ -8,20 +8,20 @@
 		<text>The cost of repairing the weapon in the second slot:</text>
 	</string>
 	<string id="list_trader_repair_2">
-		<text>The cost of repairing the armor: (start here for your first session on 2/29/24 and don't forget to remove this reminder when you start)</text>
+		<text>The cost of repairing the armor:</text>
 	</string>
 
 <!--********************************-->
 <!-- Sidorovich Repair dialog start -->
 <!--********************************-->
 	<string id="escape_trader_repair_0">
-		<text>Сидрыч, да ты никак стволы чинишь... и бронежилеты?</text>
+		<text>Sidorovich, do you fix guns and armor?</text>
 	</string>
 	<string id="escape_trader_repair_1">
-		<text>А... это ты о той штуке, что в тисках? Да, хороший ствол будет. Правда дорогущий. Так что тебе надо отремонтировать? Предупреждаю - это не дешевая работа, чем больше износ тем дороже. Итак?\n \nСписок возможных починок:</text>
+		<text>You've noticed that gun in the vise, eh? It's gonna be a nice gun when I'm done with it. Doing this kind of work isn't cheap, though. What do you need fixed? If it's just a minor touch-up, it won't cost you much, but if it's all worn out, then it'll set you back a lot of money.\n \nList of possible repairs:</text>
 	</string>
 	<string id="escape_trader_repair_2">
-		<text>Отремонтируй первый ствол.</text>
+		<text>Repair the weapon in the first slot. (start here for your second session on 3/1/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="escape_trader_repair_3">
 		<text>Отремонтируй второй ствол.</text>
