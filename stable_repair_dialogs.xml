@@ -30,16 +30,16 @@
 		<text>Repair the armor.</text>
 	</string>
 	<string id="escape_trader_repair_5">
-		<text>Damn, money's tight. I'll come back later when I have more money. (start here for your first session on 3/1/24 and don't forget to remove this reminder when you start)</text>
+		<text>Damn, money's tight. I'll come back later when I have more money.</text>
 	</string>
 	<string id="escape_trader_repair_6">
-		<text>Щас... всё мигом сделаю...\n \nГотово, забирай!</text>
+		<text>Alright... I'll go and fix this. I'll be back in moment.\n \nI'm done, take it!</text>
 	</string>
 	<string id="escape_trader_repair_7">
-		<text>Да... Меченый, здорово тябя потрепало. Так... где то у меня были броньпластины... ага вот они... вот так... угу... уф.\n \nПолучай, как новенький!</text>
+		<text>Yes, Marked One.. I see that you've been through a lot. Hold on, I got my sewing kit and spare armor plates here somewhere... alright, there they are. Give me a while and I'll have your armor fixed.\n \nHere, good as new!</text>
 	</string>
 	<string id="escape_trader_repair_8">
-		<text>Хм. Отличная работа. Слушай, а где ты так навострился? Молчишь? Ну и ладно.</text>
+		<text>Hmm, nice work. Where did you learn to do this? You don't wanna say? Alright. (start here for your second session on 3/2/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="escape_trader_repair_9">
 		<text>Мастерская работа, не зря такие деньги берешь.</text>
