@@ -48,20 +48,20 @@
 		<text>Can you fix something else?</text>
 	</string>
 	<string id="escape_trader_repair_11">
-		<text>Okay, I can fix something else\n \nList of possible repairs: (start here for your first session on 3/2/24 and don't forget to remove this reminder when you start)</text>
+		<text>Okay, I can fix something else\n \nList of possible repairs:</text>
 	</string>
 
 <!--****************************-->
 <!-- Barist Repair dialog start -->
 <!--****************************-->
 	<string id="bar_trader_repair_0">
-		<text>Бармен, ты случайно стволы не чинишь?</text>
+		<text>Barkeep, do you fix guns by any chance?</text>
 	</string>
 	<string id="bar_trader_repair_1">
-		<text>По правде говоря, я нет. Но у меня тут на кухне отробатывет свои долги один Сталкер, он был отличный оружейник. Он всё чинить умеет, и оружие и бронь, ему и поручу задание. Так что чинить будем?\n \nСписок возможных починок:</text>
+		<text>No, I don't. But I've got a stalker in my kitchen that's working off his debt to me by fixing things for money. He's a great gunsmith - he can fix just about anything.\n \nList of possible repairs:</text>
 	</string>
 	<string id="bar_trader_repair_2">
-		<text>Отремонтируй первый ствол.</text>
+		<text>Repair the weapon in the first slot. (start here for your second session on 3/3/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="bar_trader_repair_3">
 		<text>Отремонтируй второй ствол.</text>
