@@ -70,16 +70,16 @@
 		<text>Repair the armor.</text>
 	</string>
 	<string id="bar_trader_repair_5">
-		<text>Damn, I don't have enough money. Let's do this later when I have some more. (start here for your first session on 3/3/24 and don't forget to remove this reminder when you start)</text>
+		<text>Damn, I don't have enough money. Let's do this later when I have some more.</text>
 	</string>
 	<string id="bar_trader_repair_6">
-		<text>Держи, всё исправлено и смазано как надо!</text>
+		<text>Here you go, all fixed and lubed up just right!</text>
 	</string>
 	<string id="bar_trader_repair_7">
-		<text>Лови, всё что надо сделано!</text>
+		<text>Here you go, my gunsmith just finished working on this.</text>
 	</string>
 	<string id="bar_trader_repair_8">
-		<text>Ух ты! Как новенький! Твой оружейник и вправду мастер. Передавай ему мой привет.</text>
+		<text>Wow! Good as new! Your gunsmith really is a master. Give him my regards. (start here for your second session on 3/4/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="bar_trader_repair_9">
 		<text>И вправду, отличная работа!</text>
