@@ -79,16 +79,16 @@
 		<text>Here you go, my gunsmith just finished working on this.</text>
 	</string>
 	<string id="bar_trader_repair_8">
-		<text>Wow! Good as new! Your gunsmith really is a master. Give him my regards. (start here for your second session on 3/4/24 and don't forget to remove this reminder when you start)</text>
+		<text>Wow! Good as new! Your gunsmith really is a master. Give him my regards.</text>
 	</string>
 	<string id="bar_trader_repair_9">
-		<text>И вправду, отличная работа!</text>
+		<text>Great job indeed!</text>
 	</string>
 	<string id="bar_trader_repair_10">
-		<text>А он может ещё кое-что починить?</text>
+		<text>Can your gunsmith fix something else for me?</text>
 	</string>
 	<string id="bar_trader_repair_11">
-		<text>Конечно, у него всё равно сейчас не много работы.\n \nСписок возможных починок:</text>
+		<text>Of course, he doesn't have much work to do right now anyway.\n \nList of possible repairs: (start here for your first session on 3/4/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 <!--****************************-->
