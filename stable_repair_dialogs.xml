@@ -122,13 +122,13 @@
 		<text>Wow, not bad! You could make a good living as a gunsmith</text>
 	</string>
 	<string id="yantar_trader_repair_9">
-		<text>Wow, you did a really good job with this. (start here for your second session on 3/6/24 and don't forget to remove this reminder when you start)</text>
+		<text>Wow, you did a really good job with this!</text>
 	</string>
 	<string id="yantar_trader_repair_10">
-		<text>Починиш ещё кое-что?</text>
+		<text>Can you fix something else?</text>
 	</string>
 	<string id="yantar_trader_repair_11">
-		<text>Ну давай быстрей, пока данные ещё обрабатываются, сделаю.\n \nСписок возможных починок:</text>
+		<text>Well, I suppose I can fix something while this data is still processing.\n \nList of possible repairs: (start here for your first session on 3/6/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 <!--***************************-->
