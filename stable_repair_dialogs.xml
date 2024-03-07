@@ -141,16 +141,16 @@
 		<text>Heh-heh... don't worry, I'm not as cheap as everyone thinks. So, what do you want repaired? Doing this kind of work isn't cheap - and if your gear is all worn down, it'll set you back a lot of money... So?\n \nList of possible repairs:</text>
 	</string>
 	<string id="mil_trader_repair_2">
-		<text>Repair the weapon in the first slot. (start here for your second session on 3/7/24 and don't forget to remove this reminder when you start)</text>
+		<text>Repair the weapon in the first slot.</text>
 	</string>
 	<string id="mil_trader_repair_3">
-		<text>Отремонтируй второй ствол.</text>
+		<text>Repair the weapon in the second slot.</text>
 	</string>
 	<string id="mil_trader_repair_4">
-		<text>Отремонтируй броню.</text>
+		<text>Repair the armor.</text>
 	</string>
 	<string id="mil_trader_repair_5">
-		<text>Денег маловато... Давай в другой раз.</text>
+		<text>Damn, I don't have enough money. I'll come back later when I have some more. (start here for your first session on 3/7/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="mil_trader_repair_6">
 		<text>Заменил некоторые детали, смазал и почистил...\n \nПользуйся на здоровье!</text>
