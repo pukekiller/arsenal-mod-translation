@@ -150,25 +150,25 @@
 		<text>Repair the armor.</text>
 	</string>
 	<string id="mil_trader_repair_5">
-		<text>Damn, I don't have enough money. I'll come back later when I have some more. (start here for your first session on 3/7/24 and don't forget to remove this reminder when you start)</text>
+		<text>Damn, I don't have enough money. I'll come back later when I have some more.</text>
 	</string>
 	<string id="mil_trader_repair_6">
-		<text>Заменил некоторые детали, смазал и почистил...\n \nПользуйся на здоровье!</text>
+		<text>Here, I've replaced some parts and oiled everything... Should be good as new.\n \nYou're welcome!</text>
 	</string>
 	<string id="mil_trader_repair_7">
-		<text>Меченый, на тебе случаем метка "стеляй сюда" не стоит? Ладн, давай... сделаю...\n \nДля тебя только свежие бронь-пластины из холодильника! И метку я тоже замазал!</text>
+		<text>Man, Marked One, your armor is all messed up. Do you have a bullseye painted on your back, by any chance? Don't worry, I'll fix this.\n \nHere you go, all patched up - and I've replaced the armor plates with new ones and removed the bullseye from it - hah!</text>
 	</string>
 	<string id="mil_trader_repair_8">
-		<text>Как новенькая! Отличная работа!</text>
+		<text>Excellent work, thank you!</text>
 	</string>
 	<string id="mil_trader_repair_9">
-		<text>Шутник блин... Хотя... теперь даже приятней смотреть на нее!</text>
+		<text>You're quite the joker, although you did a great job fixing this armor. Thank you.</text>
 	</string>
 	<string id="mil_trader_repair_10">
-		<text>А ещё кое-что починишь?</text>
+		<text>Can you fix something else?</text>
 	</string>
 	<string id="mil_trader_repair_11">
-		<text>Конечно, ты только платить не забывай, в 'долг' не чиню.\n \nСписок возможных починок:</text>
+		<text>Sure, just don't forget to pay me. I don't do credit.\n \nList of possible repairs</text>
 	</string>
 
 <!--********************-->
