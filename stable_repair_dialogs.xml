@@ -128,20 +128,20 @@
 		<text>Can you fix something else?</text>
 	</string>
 	<string id="yantar_trader_repair_11">
-		<text>Well, I suppose I can fix something while this data is still processing.\n \nList of possible repairs: (start here for your first session on 3/6/24 and don't forget to remove this reminder when you start)</text>
+		<text>Well, I suppose I can fix something while this data is still processing.\n \nList of possible repairs:</text>
 	</string>
 
 <!--***************************-->
 <!-- Screw Repair dialog start -->
 <!--***************************-->
 	<string id="mil_trader_repair_0">
-		<text>Извени, но я здесь чтобы починить моё вооружение... как у тебя с тарифами?</text>
+		<text>I'm sorry, but I'm here to get my gear fixed... How are your rates?</text>
 	</string>
 	<string id="mil_trader_repair_1">
-		<text>Хахаха... не бойся, без носков не оставлю, я не настолько скряга как все думают. Так что ты хочеш отремонтировать? Работка эта не дешевая работа, чем больше износ тем дороже. Итак?\n \nСписок возможных починок:</text>
+		<text>Heh-heh... don't worry, I'm not as cheap as everyone thinks. So, what do you want repaired? Doing this kind of work isn't cheap - and if your gear is all worn down, it'll set you back a lot of money... So?\n \nList of possible repairs:</text>
 	</string>
 	<string id="mil_trader_repair_2">
-		<text>Отремонтируй первый ствол.</text>
+		<text>Repair the weapon in the first slot. (start here for your second session on 3/7/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 	<string id="mil_trader_repair_3">
 		<text>Отремонтируй второй ствол.</text>
