@@ -1,0 +1,27 @@
+This is a complete English translation for Dester's Arsenal Mod - one of the first custom weapon mod packs made for STALKER, and an major milestone in STALKER modding. This mod is from 2008, and like many mods from this era of STALKER modding, it uses code from the AMK mod, which explicitly requires version 1.0004, so its installation process requires some specific steps. 
+
+Assuming that you already have either or Steam or GOG Galaxy copy of STALKER: Shadow of Chernobyl installed:
+
+
+1: Download the 1.0004 downgrade patch from here: https://mega.nz/folder/M4BmDRCL#vfze70GSJDyv-HzWn7Dwww
+
+2: Unzip its contents into this directory: 
+
+Steam: C:\Program Files (x86)\Steam\steamapps\common\STALKER Shadow of Chernobyl
+GOG Galaxy: C:\Program Files (x86)\GOG Galaxy\Games\STALKER Shadow of Chernobyl
+
+3: After downgrading your copy of Shadow of Chernobyl to 1.0004, it's time to download Arsenal Mod. Get it here: https://drive.google.com/file/d/1ppk9gs4FaF2SOhNUhh0HFe6zywxzGe6f/view
+
+4: Unzip the mod into this directory:
+
+Steam: C:\Program Files (x86)\Steam\steamapps\common\STALKER Shadow of Chernobyl
+GOG Galaxy: C:\Program Files (x86)\GOG Galaxy\Games\STALKER Shadow of Chernobyl
+
+5: After installing the mod, unzip the contents of the translation into this directory:
+
+Steam: C:\Program Files (x86)\Steam\steamapps\common\STALKER Shadow of Chernobyl
+GOG Galaxy: C:\Program Files (x86)\GOG Galaxy\Games\STALKER Shadow of Chernobyl
+
+The installation processed is now finished. Enjoy!
+
+- jebsmoker 
